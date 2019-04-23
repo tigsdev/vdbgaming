@@ -1,0 +1,31 @@
+<meta>
+    <info author="Galego" name="VDBG 3DTEXT" type="script" version="1.0" />
+
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	
+    <script src="3dtext-c.luac" type="client" />
+    <script src="3dtext-s.lua" type="server" />
+	
+    <export function="create3DText" />
+    <export function="create3DText" type="client" />
+	
+	<file src="3dtext/Policial.png" />
+	<file src="3dtext/Mecanico.png" />
+	<file src="3dtext/CarroJob.png" />
+	<file src="3dtext/Medico.png" />
+	<file src="3dtext/Lixeiro.png" />
+	<file src="3dtext/Taxista.png" />
+	<file src="3dtext/Caminhoneiro.png" />
+	<file src="3dtext/Vagabundo.png" />
+	<file src="3dtext/Entregador.png" />
+	<file src="3dtext/PizzaBOY.png" />
+	<file src="3dtext/Pesqueiro.png" />
+	<file src="3dtext/Piloto.png" />
+	<file src="3dtext/Stunter.png" />
+	<file src="3dtext/PnS.png" />
+	<file src="3dtext/Criminoso.png" />
+	<file src="3dtext/Tuning.png" />
+	<file src="3dtext/Motorista.png" />
+	<file src="3dtext/sem.png" />
+	
+</meta>

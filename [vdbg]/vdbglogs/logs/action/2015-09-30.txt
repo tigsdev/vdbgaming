@@ -1,0 +1,33 @@
+Este arquivo foi gerado pelo Console em 2015:09:30-18:22:57
+
+
+
+[2015:09:30-18:22:57] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:30-19:28:38] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:30-21:56:18] Instaurador gerou suaInfernus
+[2015:09:30-22:00:11] Instaurador escondeu sua Infernus
+[2015:09:30-22:01:16] Instaurador gerou suaInfernus
+[2015:09:30-22:04:00] Instaurador escondeu sua Infernus
+[2015:09:30-22:04:09] Instaurador gerou suaInfernus
+[2015:09:30-22:05:48] Instaurador escondeu sua Infernus
+[2015:09:30-22:05:53] Instaurador gerou suaInfernus
+[2015:09:30-22:09:25] Instaurador escondeu sua Infernus
+[2015:09:30-22:10:32] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:30-22:11:02] Instaurador gerou suaInfernus
+[2015:09:30-22:12:26] Instaurador gerou suaAdmiral
+[2015:09:30-22:20:41] Instaurador escondeu sua Admiral
+[2015:09:30-22:21:54] Instaurador escondeu sua Infernus
+[2015:09:30-22:22:05] Instaurador gerou suaInfernus
+[2015:09:30-22:22:32] Instaurador escondeu sua Infernus
+[2015:09:30-22:22:38] Instaurador gerou suaInfernus
+[2015:09:30-22:23:01] Instaurador escondeu sua Infernus
+[2015:09:30-22:23:35] Instaurador gerou suaInfernus
+[2015:09:30-22:26:04] Instaurador escondeu sua Infernus
+[2015:09:30-22:26:10] Instaurador gerou suaInfernus
+[2015:09:30-22:30:02] Instaurador escondeu sua Infernus
+[2015:09:30-22:30:10] Instaurador gerou suaInfernus
+[2015:09:30-22:33:07] Instaurador escondeu sua Infernus
+[2015:09:30-22:33:34] Instaurador gerou suaInfernus
+[2015:09:30-22:35:11] Instaurador escondeu sua Infernus
+[2015:09:30-22:35:13] Instaurador gerou suaAdmiral
+[2015:09:30-22:40:30] Instaurador escondeu sua Admiral

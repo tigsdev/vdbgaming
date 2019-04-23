@@ -1,0 +1,11 @@
+Este arquivo foi gerado pelo Console em2015:10:10-00:44:59
+
+
+
+[2015:10:10-00:44:59]  (Policial) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:10-00:44:59]  (Policial) -> [POLICIAL] #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: #ffffffteste
+[2015:10:10-00:45:03]  (Team - Policial) -> (TEAM)#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:10:10-00:53:06]  (Policial) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: gte
+[2015:10:10-00:53:06]  (Policial) -> [POLICIAL] #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: #ffffffgte
+[2015:10:10-00:53:12]  (Team - Policial) -> (TEAM)#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:10:10-00:53:18]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a

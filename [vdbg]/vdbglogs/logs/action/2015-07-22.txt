@@ -1,0 +1,50 @@
+Este arquivo foi gerado pelo Console em 2015:07:22-10:41:17
+
+
+
+[2015:07:22-10:41:17] TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-11:07:58] TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-11:18:01] TIGS98 gerou suaInfernus
+[2015:07:22-13:03:51] TIGS98 escondeu sua Infernus
+[2015:07:22-13:08:31] TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-13:41:19] TIGS98 gerou suaInfernus
+[2015:07:22-14:01:40] TIGS98 escondeu sua Infernus
+[2015:07:22-14:01:56] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:58] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:59] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-14:01:59] TIGS98 (tiaguinhods) used a(n) FuelCans
+[2015:07:22-15:11:34] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-15:13:12] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-15:25:45] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-15:26:14] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-15:41:36] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-15:42:36] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-15:44:27] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-15:44:49] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-16:06:09] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-16:06:33] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-16:16:12] TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-16:42:50] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-16:43:18] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-16:43:50] VDBG!+DK morreu
+[2015:07:22-17:00:26] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-17:00:58] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-17:06:24] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-17:06:44] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-17:36:29] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:22-17:38:41] Psyco spawned a(n) Savanna
+[2015:07:22-19:51:16] TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-19:57:42] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-19:58:24] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-20:20:36] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-20:24:55] FUCKDILMA Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:22-20:26:16] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-20:32:11] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:22-20:32:33] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:22-21:11:40] FUCKDILMA Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)

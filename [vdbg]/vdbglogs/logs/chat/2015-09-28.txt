@@ -1,0 +1,8 @@
+Este arquivo foi gerado pelo Console em2015:09:28-00:06:10
+
+
+
+[2015:09:28-00:06:10]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:28-00:37:51]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:28-00:38:15]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Instaurador: io
+[2015:09:28-00:38:18]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Instaurador: i

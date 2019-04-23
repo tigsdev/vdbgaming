@@ -1,0 +1,19 @@
+Este arquivo foi gerado pelo Console em 2015:10:10-00:24:15
+
+
+
+[2015:10:10-00:24:15] TIGS Agora, é empregue como um Criminoso
+[2015:10:10-00:32:17] TIGS gerou suaInfernus
+[2015:10:10-00:40:13] TIGS Agora, é empregue como um Policial
+[2015:10:10-02:55:20] TIGS escondeu sua Infernus
+[2015:10:10-09:58:29] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:10-11:10:11] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:10-11:10:45] TIGS gerou suaInfernus
+[2015:10:10-11:17:32] TIGS Agora, é empregue como um Criminoso
+[2015:10:10-12:06:45] TIGS escondeu sua Infernus
+[2015:10:10-16:30:03] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:10-17:08:00] TIGS Agora, é empregue como um nil
+[2015:10:10-17:08:04] TIGS Agora, é empregue como um nil
+[2015:10:10-17:08:08] TIGS Agora, é empregue como um nil
+[2015:10:10-17:08:19] TIGS Agora, é empregue como um Criminoso
+[2015:10:10-17:26:47] TIGS Agora, é empregue como um Criminoso

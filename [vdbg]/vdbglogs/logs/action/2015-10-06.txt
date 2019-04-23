@@ -1,0 +1,16 @@
+Este arquivo foi gerado pelo Console em 2015:10:06-13:38:24
+
+
+
+[2015:10:06-13:38:25] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:06-14:25:11] Instaurador gerou suaInfernus
+[2015:10:06-14:25:36] Instaurador escondeu sua Infernus
+[2015:10:06-14:26:37] Instaurador gerou suaInfernus
+[2015:10:06-14:26:39] Instaurador escondeu sua Infernus
+[2015:10:06-14:26:50] Instaurador gerou suaInfernus
+[2015:10:06-14:26:52] Instaurador escondeu sua Infernus
+[2015:10:06-14:26:54] Instaurador gerou suaInfernus
+[2015:10:06-14:27:48] Instaurador gerou suaAdmiral
+[2015:10:06-14:27:50] Instaurador escondeu sua Admiral
+[2015:10:06-14:27:53] Instaurador escondeu sua Infernus
+[2015:10:06-14:39:08] Instaurador morreu

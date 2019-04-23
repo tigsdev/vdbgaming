@@ -1,0 +1,33 @@
+	<meta>
+	<info author="TIGS98" name="VDBGLogin" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<min_mta_version client="1.3.5" server="1.3.0-9.04431" />
+	<script src="server.lua" type="server"/>
+	<script src="client.luac" type="client"/>
+	<file src="arquivos/font.ttf"/>
+	<file src="arquivos/blurH.fx"/>
+	<file src="arquivos/blurV.fx"/>
+	<file src="arquivos/musica.mp3"/>
+	<file src="arquivos/click.mp3"/>
+	<file src="arquivos/logar.mp3"/>
+	<file src="imagens/no_avatar.png"/>
+	<file src="imagens/logo.png"/>
+	<file src="imagens/ls.png"/>
+	<file src="imagens/usuario.png"/>
+	<file src="imagens/senha.png"/>
+	<file src="imagens/bgi.png"/>
+	<file src="imagens/bgp.png"/>
+	<file src="imagens/portuguese.png"/>
+	<file src="imagens/portuguese_back.png"/>
+	<file src="imagens/ingles.png"/>
+	<file src="imagens/ingles_back.png"/>
+	<file src="imagens/bglanguage.png"/>
+	
+	
+	
+    <export function="isClientLoggedin" type="client" />
+	<export function="registroWeb" type="server" http="true" />
+	<export function="trocasenha" type="server" http="true" />
+
+	</meta>

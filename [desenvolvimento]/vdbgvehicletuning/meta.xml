@@ -1,0 +1,18 @@
+<meta>
+	<info author="TIGS98" name="VDBGTuning" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<script src="server.lua" type="server" />
+	<script src="cliente-c.luac" type="client" cache="false" />
+	<script src="cliente-data.luac" type="client" />
+	<script src="funcoes-cliente.luac" type="client" />
+
+	<file src="FASTVDBG.mp3" />
+	<file src="FONT.ttf" />
+	
+	<script src="colorpicker/colorpicker.lua" type="client" />	
+	<file src="colorpicker/palette.png" />
+	<file src="colorpicker/alpha.png" />
+	<file src="models/modShop.txd" type="client"/>
+	<file src="models/modShop.dff" type="client"/>
+</meta>

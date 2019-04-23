@@ -1,0 +1,77 @@
+Este arquivo foi gerado pelo Console em 2015:07:12-13:58:26
+
+
+
+[2015:07:12-13:58:26] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-15:29:09] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-16:02:42] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:12-16:22:15] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-17:17:39] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-17:39:31] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-18:04:27] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:12-18:07:14] Psyco está como admih
+[2015:07:12-18:08:11] Psyco Agora, é empregue como um Criminoso
+[2015:07:12-18:38:22] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-18:40:05] TIGS gerou suaBobcat
+[2015:07:12-18:40:11] TIGS escondeu sua Bobcat
+[2015:07:12-18:40:14] TIGS gerou suaSadler Damaged
+[2015:07:12-18:40:17] TIGS escondeu sua Sadler Damaged
+[2015:07:12-18:40:43] Psyco gerou suaBobcat
+[2015:07:12-18:41:16] Psyco escondeu sua Bobcat
+[2015:07:12-18:47:41] TIGS comprou um Infernus
+[2015:07:12-18:58:48] TIGS gerou suaInfernus
+[2015:07:12-19:00:30] TIGS escondeu sua Infernus
+[2015:07:12-19:01:53] TIGS gerou suaInfernus
+[2015:07:12-19:30:17] TIGS escondeu sua Infernus
+[2015:07:12-19:40:38] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-19:58:19] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:12-19:59:19] Psyco gerou suaBobcat
+[2015:07:12-20:00:57] Psyco escondeu sua Super GT
+[2015:07:12-20:00:58] Psyco gerou suaBobcat
+[2015:07:12-20:04:35] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-20:05:17] TIGS Mudou seu nick para teste
+[2015:07:12-20:05:27] TIGS Mudou seu nick para teste
+[2015:07:12-20:05:33] TIGS Mudou seu nick para dsadasdas
+[2015:07:12-20:11:00] Psyco escondeu sua Bobcat
+[2015:07:12-20:33:20] dsadasdas Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:12-20:33:37] dsadasdas gerou suaInfernus
+[2015:07:12-20:43:53] dsadasdas está como admih
+[2015:07:12-20:47:19] dsadasdas escondeu sua Infernus
+[2015:07:12-21:39:39] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:12-22:28:27] Strikergfx comprou um Admiral
+[2015:07:12-22:28:33] Strikergfx escondeu sua Admiral
+[2015:07:12-22:28:36] Strikergfx gerou suaAdmiral
+[2015:07:12-22:29:03] Strikergfx escondeu sua Admiral
+[2015:07:12-22:29:05] Strikergfx gerou suaAdmiral
+[2015:07:12-22:29:14] Strikergfx escondeu sua Admiral
+[2015:07:12-22:29:15] Strikergfx gerou suaAdmiral
+[2015:07:12-22:29:47] Strikergfx escondeu sua Admiral
+[2015:07:12-22:29:48] Strikergfx gerou suaAdmiral
+[2015:07:12-22:29:54] Strikergfx escondeu sua Admiral
+[2015:07:12-22:30:01] Strikergfx gerou suaAdmiral
+[2015:07:12-22:30:06] Strikergfx escondeu sua Admiral
+[2015:07:12-22:30:17] Strikergfx gerou suaAdmiral
+[2015:07:12-22:30:49] Strikergfx comprou um ZR-350
+[2015:07:12-22:31:04] Strikergfx comprou um Alpha
+[2015:07:12-22:31:26] Strikergfx escondeu sua Admiral
+[2015:07:12-22:31:29] Strikergfx escondeu sua ZR-350
+[2015:07:12-22:31:31] Strikergfx escondeu sua Alpha
+[2015:07:12-22:31:37] Strikergfx gerou suaAlpha
+[2015:07:12-22:32:05] Strikergfx gerou suaAdmiral
+[2015:07:12-22:32:09] Strikergfx escondeu sua Admiral
+[2015:07:12-22:32:10] Strikergfx gerou suaZR-350
+[2015:07:12-22:32:14] Strikergfx escondeu sua ZR-350
+[2015:07:12-22:32:16] Strikergfx escondeu sua Alpha
+[2015:07:12-22:32:18] Strikergfx gerou suaAlpha
+[2015:07:12-22:32:20] Strikergfx escondeu sua Alpha
+[2015:07:12-22:32:22] Strikergfx gerou suaZR-350
+[2015:07:12-22:50:53] Strikergfx escondeu sua ZR-350
+[2015:07:12-22:54:44] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:12-22:55:46] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:12-22:56:16] Strikergfx gerou suaZR-350
+[2015:07:12-22:59:40] Strikergfx escondeu sua ZR-350
+[2015:07:12-23:13:45] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:12-23:13:53] Strikergfx gerou suaZR-350
+[2015:07:12-23:16:58] Strikergfx escondeu sua ZR-350
+[2015:07:12-23:17:04] Strikergfx gerou suaZR-350
+[2015:07:12-23:19:50] Strikergfx escondeu sua ZR-350

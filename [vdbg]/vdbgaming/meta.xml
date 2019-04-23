@@ -1,0 +1,45 @@
+<meta>
+	<info author="TIGS98" name="VDBGFunctionsServer" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	
+	<script src="server/clear-chat/server.lua" type="server" />
+    <script src="server/clear-chat/client.lua" type="client" />
+	
+	<script src="server/falar-tela/server.lua" type="server" />
+    <script src="server/falar-tela/client.lua" type="client" />
+	
+    <script src="verif/client.luac" type="client" />
+    <export function="isServerVDBG" type="client" />
+	
+	
+    <script src="sounds-place/client.luac" type="client" />
+	<file src="sounds-place/sons/1.mp3"/>
+	<file src="sounds-place/sons/2.mp3"/>
+	<file src="sounds-place/sons/cachorro_1.mp3"/>
+	<file src="sounds-place/sons/cachorro_2.mp3"/>
+	<file src="sounds-place/sons/cidade_1.mp3"/>
+	<file src="sounds-place/sons/cidade_2.mp3"/>
+	
+	<!--<script src="vehicle-functions/caixa-c.luac" type="client" />
+	<script src="vehicle-functions/caixa-s.lua" type="server" />-->
+	<script src="vehicle-functions/portas-c.luac" type="client" />
+	<script src="vehicle-functions/portas-s.lua" type="server" />
+	<script src="vehicle-functions/hydra-c.luac" type="client" />
+	<script src="vehicle-functions/hydra-s.lua" type="server" />
+    <script src="vehicle-functions/vtrshader-s.lua" />
+	<script src="vehicle-functions/locks-s.lua" type="server" />
+	<script src="vehicle-functions/locks-c.luac" type="client" />
+	
+	<file src="vehicle-functions/arquivos/motor.mp3"/>
+	<file src="vehicle-functions/arquivos/farois.mp3"/>
+	<file src="vehicle-functions/arquivos/alarme.mp3"/>
+	<file src="vehicle-functions/arquivos/trava.mp3"/>
+
+	
+    <script src="server/server.lua" type="server" />
+	<script src="noite/noite.luac" type="client"/>
+	<file src="noite/noite.fx" />	
+	<file src="noite/mta-helper.fx" />
+	
+</meta>

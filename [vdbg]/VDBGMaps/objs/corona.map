@@ -1,0 +1,33 @@
+<map edf:definitions="editor_main">
+    <object id="object (bskballhub_lax01) (1)" doublesided="false" model="947" interior="0" dimension="0" posX="1993" posY="-2062.1000976563" posZ="14.60000038147" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bskballhub_lax01) (2)" doublesided="false" model="947" interior="0" dimension="0" posX="1975" posY="-2061.8999023438" posZ="14.60000038147" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (DYN_MESH_3) (1)" doublesided="false" model="1413" interior="0" dimension="0" posX="1972" posY="-2067.1999511719" posZ="13.800000190735" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (DYN_MESH_3) (2)" doublesided="false" model="1413" interior="0" dimension="0" posX="1972" posY="-2061.8999023438" posZ="13.800000190735" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (DYN_MESH_3) (3)" doublesided="false" model="1413" interior="0" dimension="0" posX="1972" posY="-2056.6000976563" posZ="13.800000190735" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (DYN_MESH_3) (4)" doublesided="false" model="1413" interior="0" dimension="0" posX="1974.6999511719" posY="-2051.1000976563" posZ="13.800000190735" rotX="0" rotY="0" rotZ="212"></object>
+    <object id="object (DYN_MESH_2) (1)" doublesided="false" model="1412" interior="0" dimension="0" posX="1990.5" posY="-2050.1999511719" posZ="13.800000190735" rotX="0" rotY="0" rotZ="340"></object>
+    <object id="object (kb_couch07) (1)" doublesided="false" model="1710" interior="0" dimension="0" posX="1989.5999755859" posY="-2044.8000488281" posZ="12.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_couch05) (1)" doublesided="false" model="1712" interior="0" dimension="0" posX="1990.5" posY="-2040.3000488281" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (parkbench1) (1)" doublesided="false" model="1280" interior="0" dimension="0" posX="1989.5" posY="-2068.8000488281" posZ="13.10000038147" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (parkbench1) (2)" doublesided="false" model="1280" interior="0" dimension="0" posX="1984" posY="-2068.8000488281" posZ="13.10000038147" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (parkbench1) (3)" doublesided="false" model="1280" interior="0" dimension="0" posX="1977.8000488281" posY="-2068.8000488281" posZ="13.10000038147" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (parkbench1) (4)" doublesided="false" model="1280" interior="0" dimension="0" posX="1977.8000488281" posY="-2056" posZ="13.10000038147" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (parkbench1) (5)" doublesided="false" model="1280" interior="0" dimension="0" posX="1983.8000488281" posY="-2056" posZ="13.10000038147" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (parkbench1) (6)" doublesided="false" model="1280" interior="0" dimension="0" posX="1989.5999755859" posY="-2056" posZ="13.10000038147" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (BUST_CABINET_4) (1)" doublesided="false" model="910" interior="0" dimension="0" posX="1982.0999755859" posY="-2050.3000488281" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tmp_bin) (1)" doublesided="false" model="3035" interior="0" dimension="0" posX="1984.1999511719" posY="-2050.5" posZ="13.300000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_FIREBIN0) (1)" doublesided="false" model="1442" interior="0" dimension="0" posX="1973.1999511719" posY="-2052.6000976563" posZ="13.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_couch08) (1)" doublesided="false" model="1709" interior="0" dimension="0" posX="1939.4000244141" posY="-2033.4000244141" posZ="12.5" rotX="0" rotY="0" rotZ="262"></object>
+    <object id="object (kb_couch05) (2)" doublesided="false" model="1712" interior="0" dimension="0" posX="1878.5" posY="-2003.4000244141" posZ="12.5" rotX="0" rotY="0" rotZ="38"></object>
+    <object id="object (kb_couch05) (3)" doublesided="false" model="1712" interior="0" dimension="0" posX="1880.8000488281" posY="-2002.3000488281" posZ="12.5" rotX="0" rotY="0" rotZ="335.99621582031"></object>
+    <object id="object (MED_DINNING_4) (1)" doublesided="false" model="2112" interior="0" dimension="0" posX="1880.5" posY="-2004.4000244141" posZ="12.89999961853" rotX="0" rotY="0" rotZ="328"></object>
+    <object id="object (DYN_MESH_3) (6)" doublesided="false" model="1413" interior="0" dimension="0" posX="1934.8000488281" posY="-1996" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_MESH_3) (7)" doublesided="false" model="1413" interior="0" dimension="0" posX="1931.0999755859" posY="-1996" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_MESH_3) (8)" doublesided="false" model="1413" interior="0" dimension="0" posX="1931.5999755859" posY="-2039.8000488281" posZ="13.800000190735" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_5) (1)" doublesided="false" model="853" interior="0" dimension="0" posX="1939.8000488281" posY="-2030.5999755859" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_urb_rub_4) (1)" doublesided="false" model="852" interior="0" dimension="0" posX="1938.5999755859" posY="-2030.0999755859" posZ="12.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tmp_bin) (2)" doublesided="false" model="3035" interior="0" dimension="0" posX="1936.9000244141" posY="-2028.6999511719" posZ="13.300000190735" rotX="0" rotY="0" rotZ="272"></object>
+    <object id="object (DYN_CRATE_2) (1)" doublesided="false" model="1449" interior="0" dimension="0" posX="1933" posY="-2040.0999755859" posZ="13.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_FIREBIN0) (2)" doublesided="false" model="1442" interior="0" dimension="0" posX="1940.1999511719" posY="-2031.8000488281" posZ="13.199999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BOX_PILE_3) (1)" doublesided="false" model="1440" interior="0" dimension="0" posX="1937.5999755859" posY="-2031" posZ="13.10000038147" rotX="0" rotY="0" rotZ="318"></object>
+</map>

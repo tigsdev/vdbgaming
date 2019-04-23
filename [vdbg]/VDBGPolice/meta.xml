@@ -1,0 +1,21 @@
+<meta>
+	<info author="TIGS98" name="VDBGPolice" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    <script src="painel/painel_c.luac" type="client" />
+    <script src="painel/painel_s.lua" type="server" />
+	
+    <script src="jail/jail_c.luac" type="client" />
+    <script src="jail/jail_s.lua" type="server" />
+	
+	
+	<script src="antidm/server.lua"/>
+	<script src="antidm/client.luac" type="client"/>
+	
+    <export function="jailPlayer" />
+    <export function="unjailPlayer" />
+    <export function="isPlayerJailed" />
+    <export function="getJailedPlayers" />
+    <export function="outputDispatchMessage" type="server" />
+    <export function="outputDispatchMessage" type="client" />
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

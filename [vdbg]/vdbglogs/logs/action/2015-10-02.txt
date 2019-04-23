@@ -1,0 +1,15 @@
+Este arquivo foi gerado pelo Console em 2015:10:02-07:18:13
+
+
+
+[2015:10:02-07:18:13] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:02-07:18:32] Instaurador gerou suaInfernus
+[2015:10:02-10:25:40] Instaurador escondeu sua Infernus
+[2015:10:02-11:38:21] Instaurador Fez um login na conta tiaguinhods (IP: 169.254.132.133  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:02-13:50:58] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:02-14:08:23] Instaurador Fez um login na conta tiaguinhods (IP: 169.254.132.133  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:02-14:11:46] Instaurador Fez um login na conta tiaguinhods (IP: 169.254.132.133  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:02-14:37:45] Instaurador gerou suaAdmiral
+[2015:10:02-14:38:19] Instaurador escondeu sua Admiral
+[2015:10:02-14:38:19] Instaurador gerou suaAdmiral
+[2015:10:02-18:01:55] Instaurador escondeu sua Admiral

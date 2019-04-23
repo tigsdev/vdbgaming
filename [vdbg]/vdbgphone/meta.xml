@@ -1,0 +1,89 @@
+<meta>
+	<info author="TIGS98" name="VDBGPhone" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    <!-- scripts 
+    <script src="apps/banco-c.luac" type="client" />
+    <script src="apps/banco-s.lua" type="server" />-->
+    <script src="cliente.luac" type="client" />
+    <script src="compartilhar.luac" type="shared" />
+	
+    <script src="apps/2048-c.luac" type="client" />
+    <script src="apps/config-padrao.lua" type="client" />
+    <script src="apps/flappyBird.luac" type="client" />
+    <script src="apps/dinheiro-s.lua" type="server" />
+    <script src="apps/musica-c.lua" type="client" />
+    <script src="apps/config-c.luac" type="client" />
+    <script src="apps/config-s.lua" type="server" />
+    <script src="apps/sms-c.luac" type="client" />
+    <script src="apps/sms-s.lua" type="server" />
+    <script src="apps/stats-c.luac" type="client" />
+    <script src="apps/stats-s.lua" type="server" />
+    <script src="apps/veiculos-c.luac" type="client" />
+    <script src="apps/veiculos-s.lua" type="server" />
+    <script src="apps/gps.luac" type="client" />
+    <script src="neon/s.lua" type="server" />
+    <script src="neon/c.luac" type="client" />
+	
+	
+	<file src="neon/BlueNeonTube1.dff" />
+    <file src="neon/GreenNeonTube1.dff" />
+    <file src="neon/RedNeonTube1.dff" />
+    <file src="neon/PinkNeonTube1.dff" />
+    <file src="neon/YellowNeonTube1.dff" />
+    <file src="neon/WhiteNeonTube1.dff" />
+    <file src="neon/BlueNeonTube1.col" />
+    <file src="neon/GreenNeonTube1.col" />
+    <file src="neon/RedNeonTube1.col" />
+    <file src="neon/PinkNeonTube1.col" />
+    <file src="neon/YellowNeonTube1.col" />
+    <file src="neon/WhiteNeonTube1.col" />
+    <file src="neon/MatTextures.txd" />
+	
+    <!-- files -> Images -->
+		<!-- Apps -->
+		<file src="images/celular.png" />
+		<file src="images/flappyBird.png" />
+		<file src="images/2048.png" />
+		<file src="images/banco.png" />
+		<file src="images/dinheiro.png" />
+		<file src="images/musicas.png" />
+		<file src="images/notas.png" />
+		<file src="images/config.png" />
+		<file src="images/sms.png" />
+		<file src="images/stats.png" />
+		<file src="images/veiculo.png" />
+		<file src="images/neon.png" />
+		<file src="images/gps.png" />
+		<file src="images/flappybirdapp.png" />
+		<!-- Others -->
+		<file src="images/fundos/fundo.png" />
+		<file src="images/2048/0.png" />
+		<file src="images/2048/2.png" />
+		<file src="images/2048/4.png" />
+		<file src="images/2048/8.png" />
+		<file src="images/2048/16.png" />
+		<file src="images/2048/32.png" />
+		<file src="images/2048/64.png" />
+		<file src="images/2048/128.png" />
+		<file src="images/2048/256.png" />
+		<file src="images/2048/512.png" />
+		<file src="images/2048/1024.png" />
+		<file src="images/2048/2048.png" />
+		<file src="images/2048/background.png" />
+		
+	<!-- files -> Audio -->
+		<!-- Flappybird -->
+		<file src="audio/flappy_bird/sfx_die.ogg" />
+		<file src="audio/flappy_bird/sfx_hit.ogg" />
+		<file src="audio/flappy_bird/sfx_point.ogg" />
+		<file src="audio/flappy_bird/sfx_swooshing.ogg" />
+		<file src="audio/flappy_bird/sfx_wing.ogg" />
+		<file src="audio/alerta.mp3" />
+		
+    <!-- exports -->
+    <export function="getSetting" type="client" />
+    <export function="updateSetting" type="client" />
+    <export function="toggleCelular" type="client" />
+	
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

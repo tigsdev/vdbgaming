@@ -1,0 +1,15 @@
+Este arquivo foi gerado pelo Console em2015:09:27-21:52:57
+
+
+
+[2015:09:27-21:52:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-21:56:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-22:37:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-23:29:09]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tem
+[2015:09:27-23:31:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-23:35:53]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Instaurador: iioi
+[2015:09:27-23:35:55]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Instaurador: i
+[2015:09:27-23:51:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-23:55:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-23:58:21]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:09:27-23:59:14]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a

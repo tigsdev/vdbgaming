@@ -1,0 +1,40 @@
+<meta>
+     <info author="Galego" description="Velocimetro VDBG" version="1.0" type="script" />
+	<script src="velocimetro1/velocimetro.lua" type="client" />
+	<script src="velocimetro1/pisca_alerta-c.luac" type="client" /> 
+	<script src="velocimetro1/freiodemao-c.luac" type="client" />
+	<script src="velocimetro1/freiodemao-s.lua" type="server" />
+	<file src="velocimetro1/acens.ttf"/>
+	<file src="velocimetro1/DS-DIGI.ttf"/>
+	
+	<file src="velocimetro1/porta.png"/>
+	
+
+	<file src="velocimetro1/setaesquerdaOff.png"/>
+	<file src="velocimetro1/setaesquerdaOn.png"/>
+	<file src="velocimetro1/setadireitaOn.png"/>
+	<file src="velocimetro1/setadireitaOff.png"/>
+	<file src="velocimetro1/velocimetro.png"/>
+	<file src="velocimetro1/gasolina.png"/>
+	<file src="velocimetro1/velocimetrobg.png"/>
+	<file src="velocimetro1/DS-DIGI.TTF"/>
+	<file src="velocimetro1/gasolina_full.png"/>
+	<file src="velocimetro1/gasolina_vazio.png"/>
+	<file src="velocimetro1/LuzOff.png"/>
+	<file src="velocimetro1/LuzOn.png"/>
+	<file src="velocimetro1/FreiodemaoOn.png"/>
+	<file src="velocimetro1/FreiodemaoOff.png"/>
+	<file src="velocimetro1/trancaron.png"/>
+	<file src="velocimetro1/trancaroff.png"/>
+	<file src="velocimetro1/freiodemao.wav" />
+    <file src="velocimetro1/turbo.wav" />
+	<file src="velocimetro1/Freidemaobg11.png" />
+	<file src="velocimetro1/Freidemaobg1.png" /> 
+
+	<file src="velocimetro1/hp_full.png"/>
+	<file src="velocimetro1/hp_vazio.png"/>
+	<file src="velocimetro1/hp.png"/>
+	
+	
+   
+</meta>

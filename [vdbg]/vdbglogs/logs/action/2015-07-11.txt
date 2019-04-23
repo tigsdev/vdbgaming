@@ -1,0 +1,55 @@
+Este arquivo foi gerado pelo Console em 2015:07:11-18:11:13
+
+
+
+[2015:07:11-18:11:13] Strikergfx2 está como admih
+[2015:07:11-18:12:39] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:11-18:19:18] Strikergfx2 Agora, é empregue como um Mecanico
+[2015:07:11-18:20:26] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:11-18:23:59] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:11-18:38:54] Strikergfx2 Agora, é empregue como um Policial
+[2015:07:11-18:43:47] Strikergfx2 Agora, é empregue como um Policial
+[2015:07:11-18:45:03] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-18:57:25] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:11-18:57:52] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-18:58:43] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:11-19:21:41] TIGS está como admih
+[2015:07:11-19:27:33] Strikergfx Agora, é empregue como um Policial
+[2015:07:11-19:32:30] TIGS Agora, é empregue como um Policial
+[2015:07:11-19:44:28] TIGS (tiaguinhods) deletou o clã: VDBGaming | id: nil
+[2015:07:11-19:45:46] TIGS (tiaguinhods) deletou o clã: Skuderia | id: nil
+[2015:07:11-19:46:55] Strikergfx Agora, é empregue como um Criminoso
+[2015:07:11-19:54:00] TIGS (tiaguinhods) deletou o clã: VDBGAMING | id: nil
+[2015:07:11-20:23:02] TIGS (tiaguinhods) deletou o clã: VDBGAMING | id: nil
+[2015:07:11-20:33:57] TIGS (tiaguinhods) deletou o clã: Skuderia | id: nil
+[2015:07:11-20:37:02] Strikergfx Agora, é empregue como um Policial
+[2015:07:11-20:37:35] Strikergfx está como admih
+[2015:07:11-20:38:12] TIGS (tiaguinhods) deletou o clã: VDBGAMING | id: nil
+[2015:07:11-20:40:52] Strikergfx Agora, é empregue como um Criminoso
+[2015:07:11-20:49:50] TIGS Fez um login na conta tigsds1 (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:11-20:55:08] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:11-21:37:42] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-21:41:45] TIGS Agora, é empregue como um Criminoso
+[2015:07:11-21:42:05] Strikergfx (strikergfx) used a(n) kit_colete
+[2015:07:11-21:52:50] Strikergfx (strikergfx) deletou o clã: VDBGaming | id: nil
+[2015:07:11-21:56:04] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-21:59:38] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:11-21:59:47] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-21:59:56] Psyco Fez um login na conta 0102Psyco (IP: 177.81.159.134  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:11-22:01:08] Psyco Agora, é empregue como um Criminoso
+[2015:07:11-22:01:10] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:11-22:11:39] TIGS morreu
+[2015:07:11-22:12:03] TIGS spawned a(n) Quadbike
+[2015:07:11-22:12:07] Strikergfx morreu
+[2015:07:11-22:12:35] Strikergfx spawned a(n) Savanna
+[2015:07:11-22:25:52] Strikergfx(strikergfx) enviado Psyco(0102Psyco) $3000000
+[2015:07:11-22:38:45] Strikergfx (strikergfx) used a(n) kit_colete
+[2015:07:11-22:41:10] TIGS morreu
+[2015:07:11-22:41:39] Strikergfx spawned a(n) Savanna
+[2015:07:11-22:42:37] TIGS morreu
+[2015:07:11-22:44:01] TIGS morreu
+[2015:07:11-22:46:25] Strikergfx morreu
+[2015:07:11-22:49:11] Strikergfx morreu
+[2015:07:11-22:52:47] TIGS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:11-22:55:33] TIGS morreu
+[2015:07:11-23:54:16] Strikergfx Fez um login na conta strikergfx (IP: 201.69.149.252  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)

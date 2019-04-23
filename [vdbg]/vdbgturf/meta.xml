@@ -1,0 +1,24 @@
+<meta>
+	<info author="TIGS98" name="VDBGTurf" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.luac" type="client" />
+	<export function="turfLocs" />
+	<export function="setTurfOwner" />
+	<export function="saveTurfs" />
+	<export function="updateTurfGroupColor" />
+	
+	<file src="files/iconpvp.png" />
+	<file src="files/bgturf.png" />
+	<file src="files/logo_clanwar.png" />
+	<file src="files/menu_clanwar.png" />
+	<file src="files/notificationBackground.png" />
+	<file src="files/font_namclans.ttf" />
+	<file src="files/blur.fx" />
+	<file src="files/joinprep.mp3" />
+	<file src="files/roundstart.mp3" />
+	<file src="files/opensans.ttf" />
+</meta>

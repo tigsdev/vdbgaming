@@ -1,0 +1,19 @@
+<meta>
+	<info author="TIGS98" name="VDBGPHP" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	<script src="s.lua" />
+	<script src="c.lua" type="client"/>
+	<include resource="ajax" />
+	<export function="slotsServer" type="server" http="true" />
+	<export function="onlinePlayers" type="server" http="true" />
+	<export function="contasServer" type="server" http="true" />
+	<export function="getStatsForWebsite" type="server" http="true" />
+	
+	<export function="teamcr" type="server" http="true" />
+	<export function="teamad" type="server" http="true" />
+	<export function="teampo" type="server" http="true" />
+	<export function="teamci" type="server" http="true" />
+	
+	
+
+</meta>

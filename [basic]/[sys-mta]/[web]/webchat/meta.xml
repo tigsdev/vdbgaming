@@ -1,0 +1,12 @@
+<meta>
+    <include resource='ajax' />
+	<info author='Mawej' version='1.0' name='Web Chat' showInResourceBrowser='true' description='Web chat console.' type='misc'/>
+    <script src='chat.lua' type='server' />
+	<html src='chat.htm' default='true' />
+    <html src='css.css' raw='true' />
+    <html src='script.js' raw='true' />	
+	
+	<export function='getAll' http='true' />
+	<export function='sendMessageToAllPlayers' http='true' />
+	<export function='addChatMsg' />
+</meta>

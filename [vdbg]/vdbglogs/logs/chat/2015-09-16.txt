@@ -1,0 +1,18 @@
+Este arquivo foi gerado pelo Console em2015:09:16-17:21:50
+
+
+
+[2015:09:16-17:21:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ..
+[2015:09:16-18:28:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: e
+[2015:09:16-18:30:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: ..
+[2015:09:16-18:33:01]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Console * Strikergfx: p;;...d.;df.df.;df.;df
+[2015:09:16-18:33:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: ...sd.;;.sd;.sd;.s;.d.s;d.;sd.;s.;ds.;d
+[2015:09:16-18:44:05]  (Local) -> [LOCAL][0]#2F7CCC[2] #FFFFFFVDBG:Owner * Batman: io
+[2015:09:16-18:44:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Owner * Tiago Santos: ./seeinv
+[2015:09:16-18:59:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: .
+[2015:09:16-19:00:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: '-'-'-'-'-'-'
+[2015:09:16-19:00:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: nao aparece cara
+[2015:09:16-19:00:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: nao aparece nada
+[2015:09:16-19:00:48]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: nao apareceeeeeeeeeee
+[2015:09:16-19:01:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: viado
+[2015:09:16-19:02:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Console * Ivan Silva: heeuheh

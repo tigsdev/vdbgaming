@@ -1,0 +1,8 @@
+Este arquivo foi gerado pelo Console em 2015:10:04-15:27:54
+
+
+
+[2015:10:04-15:27:54] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:04-15:43:40] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:04-23:50:52] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:04-23:52:37] Instaurador gerou suaInfernus

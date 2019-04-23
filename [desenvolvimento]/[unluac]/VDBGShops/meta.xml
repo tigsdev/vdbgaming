@@ -1,0 +1,71 @@
+<meta>
+	<info author="TIGS98" name="VDBGShops" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    <oop>true</oop>
+	
+	<export function="openWindowGas" type="client" />
+	
+	<!-- WARP BURGERSHOT's -->
+	<script src="category/burgershot/burgershot.luac" type="client" />
+	<!-- SHOP BURGERSHOT's -->
+	<script src="category/burgershot/shop.luac" type="client" />
+	
+	<!-- WARP AMMUNATION's -->
+	<script src="category/ammunation/ammunation.luac" type="client" />
+	<script src="category/ammunation/ashop.luac" type="client" /> 
+	<script src="category/ammunation/bshop.luac" type="client" /> 
+	
+	<!-- SHOP DP's -->
+	<script src="category/dps/shop.luac" type="client" /> 
+	
+	<!-- WARP CHICKEN BELL's -->
+	<script src="category/chicken/chicken.luac" type="client" />
+	<!-- SHOP CHICKEN BELL's -->
+	<script src="category/chicken/shop.luac" type="client" />
+	
+	<!-- WARP MARKET's -->
+	<script src="category/markets/markets.luac" type="client" />
+	<!-- SHOP MARKET's -->
+	<script src="category/markets/shop.luac" type="client" />
+	
+	<!-- WARP PIZZA's -->
+	<script src="category/pizza/pizza.luac" type="client" />
+	<!-- SHOP PIZZA's -->
+	<script src="category/pizza/shop.luac" type="client" />
+	
+	<!-- WARP BAR's -->
+	<script src="category/bars/bars.luac" type="client" />
+	<!-- SHOP BAR's -->
+	<script src="category/bars/shop.luac" type="client" />
+	
+	<script src="category/gas/shop.luac" type="client" />
+	
+	<script src="server.lua" type="server" />
+	
+	<file src="files/+.png" />
+	<file src="files/-.png" />
+	<file src="files/opensans.ttf" />
+	
+	
+	
+    <script src="category/crosshair/client.luac" type="client"/> 
+    <script src="category/crosshair/server.lua" type="server"/> 
+    
+	<file src="category/crosshair/files/abrir.mp3"/>
+	<file src="category/crosshair/files/salvar.mp3"/>
+
+	<file src="category/crosshair/images/mira.png"/>
+    <file src="category/crosshair/images/Bg.png"/>
+    <file src="category/crosshair/images/selecionar_vermelho.png"/>
+    <file src="category/crosshair/images/selecionar_verde.png"/>
+    <file src="category/crosshair/images/selecionar_azul.png"/> 
+    <file src="category/crosshair/images/selecionar.png"/>
+    <file src="category/crosshair/images/salvar.png"/>
+    <file src="category/crosshair/images/salvar_h.png"/>
+    <file src="category/crosshair/images/selecionar_alpha.png"/>
+    <file src="category/crosshair/images/logo.png"/>
+	
+	
+    <script src="category/stats_ammu/client.luac" type="client" />
+    <script src="category/stats_ammu/client.lua" type="client" />
+</meta>

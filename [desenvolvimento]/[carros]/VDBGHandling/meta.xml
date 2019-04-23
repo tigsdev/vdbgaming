@@ -1,0 +1,9 @@
+<meta>
+	<info description="Handling Loader" version="0.0.2" author="ccw" type="script" />
+	<script src="hc.lua" type="client"/>
+	<script src="hl-c.lua" type="client"/>
+	<script src="hc.lua"/>
+	<script src="hl-s.lua"/>
+	<script src="pm-s.lua"/>
+	<file src="handling.cfg" cache="false" />
+</meta>

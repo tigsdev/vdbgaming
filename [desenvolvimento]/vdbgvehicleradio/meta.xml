@@ -1,0 +1,31 @@
+<meta>
+	<info author="TIGS98" name="VDBGVehicleRadio" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+
+	<script src="cliente.luac" type="client" />
+	<script src="server.lua" />
+	<file src="arquivos/click.mp3" />
+
+	<file src="imagens/hunter.png" />
+	<file src="imagens/vdbg.png" />
+	<file src="imagens/brasilhits.png" />
+	<file src="imagens/funkbrasil.png" />
+	<file src="imagens/funkbh.png" />
+	<file src="imagens/mandela.png" />
+	<file src="imagens/soundpop.png" />
+    <file src="imagens/hot107.png" />
+	<file src="imagens/rapnaveia.png" />
+	<file src="imagens/westcoast.png" />
+	<file src="imagens/eletromix.png" />
+    <file src="imagens/dubfm.png" />
+	<file src="imagens/radioff.png" />
+	<file src="arquivos/font.ttf" />
+
+	<file src="arquivos/1.png" />
+	<file src="arquivos/bg.png" />
+	<file src="arquivos/bg2.png" />
+	<file src="arquivos/bg3.png" />
+	<file src="arquivos/bg4.png" />
+	<file src="arquivos/bg5.png" />
+	
+</meta>

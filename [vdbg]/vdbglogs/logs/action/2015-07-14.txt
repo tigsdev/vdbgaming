@@ -1,0 +1,118 @@
+Este arquivo foi gerado pelo Console em 2015:07:14-12:59:46
+
+
+
+[2015:07:14-12:59:46] DS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:14-13:02:25] DS morreu
+[2015:07:14-13:03:21] DS gerou suaInfernus
+[2015:07:14-13:04:17] DS escondeu sua Infernus
+[2015:07:14-13:55:04] Strikergfx Fez um login na conta strikergfx (IP: 179.99.4.245  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:14-13:56:55] Strikergfx (strikergfx) used a(n) kit_colete
+[2015:07:14-13:58:44] DS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:14-13:58:57] Strikergfx gerou suaZR-350
+[2015:07:14-14:00:52] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:00:56] Strikergfx gerou suaZR-350
+[2015:07:14-14:00:58] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:01:39] Strikergfx gerou suaZR-350
+[2015:07:14-14:01:59] Strikergfx gerou suaAdmiral
+[2015:07:14-14:02:02] Strikergfx escondeu sua Admiral
+[2015:07:14-14:02:04] Strikergfx gerou suaAlpha
+[2015:07:14-14:02:06] Strikergfx escondeu sua Alpha
+[2015:07:14-14:02:34] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:06:50] J44CK Mudou seu nick para Tigs98
+[2015:07:14-14:12:59] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-14:24:26] Strikergfx gerou suaZR-350
+[2015:07:14-14:24:59] Strikergfx Agora, é empregue como um Criminoso
+[2015:07:14-14:25:04] J44CK Agora, é empregue como um Criminoso
+[2015:07:14-14:25:21] J44CK spawned a(n) PCJ-600
+[2015:07:14-14:25:56] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:26:04] Strikergfx gerou suaZR-350
+[2015:07:14-14:30:21] J44CK morreu
+[2015:07:14-14:32:12] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-14:33:40] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:33:45] Strikergfx gerou suaZR-350
+[2015:07:14-14:34:00] Strikergfx gerou suaAdmiral
+[2015:07:14-14:35:44] DS morreu
+[2015:07:14-14:36:10] Strikergfx escondeu sua ZR-350
+[2015:07:14-14:36:13] J44CK Agora, é empregue como um Caminhoneiro
+[2015:07:14-14:36:15] Strikergfx Agora, é empregue como um Caminhoneiro
+[2015:07:14-14:36:21] J44CK spawned a(n) Tanker
+[2015:07:14-14:36:36] Strikergfx spawned a(n) Tanker
+[2015:07:14-14:40:24] DS morreu
+[2015:07:14-14:40:36] Strikergfx (strikergfx) used a(n) kit_colete
+[2015:07:14-14:42:01] DS morreu
+[2015:07:14-14:42:46] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-14:45:02] J44CK morreu
+[2015:07:14-14:46:41] Strikergfx está como admih
+[2015:07:14-14:48:39] Strikergfx (strikergfx) used a(n) kit_colete
+[2015:07:14-14:49:23] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-14:54:18] DS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:14-15:09:53] DS gerou suaInfernus
+[2015:07:14-15:09:54] DS escondeu sua Infernus
+[2015:07:14-15:09:57] DS gerou suaInfernus
+[2015:07:14-15:12:13] DS escondeu sua Infernus
+[2015:07:14-15:17:49] J44CK Agora, é empregue como um Criminoso
+[2015:07:14-15:19:09] J44CK spawned a(n) PCJ-600
+[2015:07:14-15:19:42] DS morreu
+[2015:07:14-15:26:55] J44CK morreu
+[2015:07:14-15:26:57] DS morreu
+[2015:07:14-15:30:30] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-15:41:19] J44CK Fez um login na conta tigsds (IP: 187.126.132.181  || Serial: 24FBA60260EFD43D63621744A3D15394)
+[2015:07:14-15:42:06] J44CK spawned a(n) PCJ-600
+[2015:07:14-15:42:20] J44CK spawned a(n) PCJ-600
+[2015:07:14-17:08:17] DS escondeu sua Infernus
+[2015:07:14-17:08:28] DS gerou suaInfernus
+[2015:07:14-17:08:28] DS escondeu sua Infernus
+[2015:07:14-17:08:38] DS escondeu sua Infernus
+[2015:07:14-17:08:43] DS gerou suaInfernus
+[2015:07:14-17:09:20] DS (tiaguinhods) used a(n) FuelCans
+[2015:07:14-17:09:21] DS (tiaguinhods) used a(n) FuelCans
+[2015:07:14-17:09:21] DS (tiaguinhods) used a(n) FuelCans
+[2015:07:14-17:09:21] DS (tiaguinhods) used a(n) FuelCans
+[2015:07:14-17:09:21] DS (tiaguinhods) used a(n) FuelCans
+[2015:07:14-17:12:54] DS escondeu sua Infernus
+[2015:07:14-17:12:56] DS gerou suaInfernus
+[2015:07:14-17:13:15] DS escondeu sua Infernus
+[2015:07:14-17:13:20] DS gerou suaInfernus
+[2015:07:14-17:40:16] DS escondeu sua Infernus
+[2015:07:14-17:44:51] DS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:14-18:00:45] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:14-18:15:31] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:14-18:19:24] Psyco está como admih
+[2015:07:14-18:19:46] Psyco morreu
+[2015:07:14-18:27:01] DS está como admih
+[2015:07:14-18:32:37] DS morreu
+[2015:07:14-19:17:38] DS Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:14-19:19:04] DS gerou suaInfernus
+[2015:07:14-19:39:52] Strikergfx Fez um login na conta strikergfx (IP: 179.99.4.245  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:14-19:44:55] Strikergfx gerou suaZR-350
+[2015:07:14-19:46:58] Strikergfx escondeu sua ZR-350
+[2015:07:14-19:47:00] Strikergfx gerou suaZR-350
+[2015:07:14-19:47:17] Strikergfx escondeu sua ZR-350
+[2015:07:14-19:47:21] Strikergfx gerou suaZR-350
+[2015:07:14-19:48:19] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:19] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:20] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:20] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:20] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:20] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:20] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:21] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:21] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:21] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:21] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:21] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:22] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:22] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:23] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:23] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:48:24] Strikergfx (strikergfx) used a(n) FuelCans
+[2015:07:14-19:50:43] Strikergfx escondeu sua ZR-350
+[2015:07:14-20:16:21] Strikergfx morreu
+[2015:07:14-20:17:44] DS escondeu sua Infernus
+[2015:07:14-20:17:45] DS gerou suaInfernus
+[2015:07:14-20:32:34] Strikergfx está como admih
+[2015:07:14-20:44:32] Strikergfx Fez um login na conta strikergfx (IP: 179.99.4.245  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:07:14-20:44:54] Strikergfx está como admih
+[2015:07:14-20:51:55] Strikergfx morreu
+[2015:07:14-20:59:49] Strikergfx Fez um login na conta strikergfx (IP: 179.99.4.245  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)

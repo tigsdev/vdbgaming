@@ -1,0 +1,57 @@
+
+-------------------------
+- Funções exportadas
+-------------------------
+
+ [ Usando uma função exportada ]
+
+ - Através de outro recurso, você pode usar seguinte método:
+  exports.nomeDoRecurso:funçãoexportada( argumentos... )
+ Um exemplo:
+  exports.DNLScoreboard:scoreboardAddColumn("Rank", 80, 4)
+
+ Para que seja definido os dados dessa coluna,
+ deve-se usar a função: setElementData(player, "nomeDaColuna", valor)
+ Exemplo:
+ setElementData(getPlayerFromName("DNL291"), "Rank", "Dono")
+
+ Dessa forma, o valor armazenado em "Rank", será atualizado a
+ cada vez que a função setElementData é chamada
+
+-------------------------------------------
+-  Funções integradas ao Scoreboard
+-------------------------------------------
+
+ [ scoreboardAddColumn ]
+
+ * Descrição:
+    Adiciona uma coluna ao scoreboard
+
+ * Argumentos:
+    [string] nome, [int] tamanho, [int] prioridade
+
+ [ scoreboardGetColumnPriority ]
+
+ * Descrição:
+    Obtém a prioridade duma coluna na lista, isto é,
+    a ordem para classificar as colunas no scoreboard
+
+
+ OBS: 'PlayTime', 'Level', 'kills' e 'Clan' poderão ser adicionados
+  ao scoreboard usando a função exportada
+
+-------------------------------------------
+-  Equipes padrão
+-------------------------------------------
+
+ Note que as equipes: "Staff", "Lei", "Civil" e "Criminoso" já devem
+ estar criadas no servidor!
+ O script as utilizam para dar maior prioridade sobre as demais,
+ isto é, mesmo sem jogador, a equipe continua sempre no topo do scoreboard
+
+ Também, há uma prioridade em relação a elas mesmas, sendo que a ordem é
+ a mesma como a mostrada acima.
+
+ Você pode editar o nome das equipe caso necessário, dentro da tabela
+ 'teamsPriority' em: client/client_scoreboard.lua
+ Exemplo: "Staff" -> "Equipe"

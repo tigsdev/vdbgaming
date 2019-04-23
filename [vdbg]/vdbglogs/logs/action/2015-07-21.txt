@@ -1,0 +1,24 @@
+Este arquivo foi gerado pelo Console em 2015:07:21-21:00:25
+
+
+
+[2015:07:21-21:00:25] VDBG!TIGS98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:21-21:03:20] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:20] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:20] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:23] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:23] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:23] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:23] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:23] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:25] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:25] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:25] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:03:25] VDBG!TIGS98 escondeu sua Infernus
+[2015:07:21-21:03:25] VDBG!TIGS98 gerou suaInfernus
+[2015:07:21-21:40:05] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:21-21:42:42] VDBG!TIGS98 morreu
+[2015:07:21-21:43:48] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:21-21:50:47] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:21-21:51:06] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:21-21:54:40] VDBG!TIGS98 escondeu sua Infernus

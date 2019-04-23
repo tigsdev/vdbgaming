@@ -1,0 +1,45 @@
+local idModel = {
+[1] = 14399,
+[2] = 14400,
+[3] = 14401,
+[4] = 14402,
+[5] = 14403,
+[6] = 14404
+}
+
+function replaceTXD() 
+txd = engineLoadTXD ( "neon/MatTextures.txd" )
+engineImportTXD ( txd, idModel[1] )
+engineImportTXD ( txd, idModel[2] )
+engineImportTXD ( txd, idModel[3] )
+engineImportTXD ( txd, idModel[4] )
+engineImportTXD ( txd, idModel[5] )
+engineImportTXD ( txd, idModel[6] )
+
+col = engineLoadCOL("neon/RedNeonTube1.col")
+engineReplaceCOL(col, idModel[1])
+col = engineLoadCOL("neon/BlueNeonTube1.col")
+engineReplaceCOL(col, idModel[2])
+col = engineLoadCOL("neon/GreenNeonTube1.col")
+engineReplaceCOL(col, idModel[3])
+col = engineLoadCOL("neon/YellowNeonTube1.col")
+engineReplaceCOL(col, idModel[4])
+col = engineLoadCOL("neon/PinkNeonTube1.col")
+engineReplaceCOL(col, idModel[5])
+col = engineLoadCOL("neon/WhiteNeonTube1.col")
+engineReplaceCOL(col, idModel[6])
+
+dff = engineLoadDFF ( "neon/RedNeonTube1.dff", idModel[1] )
+engineReplaceModel ( dff, idModel[1] ) 
+dff = engineLoadDFF ( "neon/BlueNeonTube1.dff", idModel[2] )
+engineReplaceModel ( dff, idModel[2] ) 
+dff = engineLoadDFF ( "neon/GreenNeonTube1.dff", idModel[3] )
+engineReplaceModel ( dff, idModel[3] ) 
+dff = engineLoadDFF ( "neon/YellowNeonTube1.dff", idModel[4] )
+engineReplaceModel ( dff, idModel[4] ) 
+dff = engineLoadDFF ( "neon/PinkNeonTube1.dff", idModel[5] )
+engineReplaceModel ( dff, idModel[5] ) 
+dff = engineLoadDFF ( "neon/WhiteNeonTube1.dff", idModel[6] )
+engineReplaceModel ( dff, idModel[6] ) 
+end
+addEventHandler ( "onClientResourceStart", getResourceRootElement(getThisResource()), replaceTXD)

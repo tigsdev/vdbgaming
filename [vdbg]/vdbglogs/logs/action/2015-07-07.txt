@@ -1,0 +1,36 @@
+Este arquivo foi gerado pelo Console em 2015:07:07-13:42:22
+
+
+
+[2015:07:07-13:42:22] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-13:51:46] TIGS (tiaguinhods) deletou o clã: DSADAS | id: nil
+[2015:07:07-13:57:00] TIGS (tiaguinhods) deletou o clã: dsa | id: nil
+[2015:07:07-13:57:26] TIGS (tiaguinhods) deletou o clã: teste | id: nil
+[2015:07:07-13:59:42] TIGS (tiaguinhods) deletou o clã: dsadsa | id: nil
+[2015:07:07-14:01:57] TIGS (tiaguinhods) deletou o clã: tete | id: nil
+[2015:07:07-15:12:31] TIGS (tiaguinhods) deletou o clã: Teste | id: nil
+[2015:07:07-15:55:13] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-16:32:13] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-16:36:41] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-16:47:51] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-17:02:59] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:05:47] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:09:26] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:14:58] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:18:16] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:21:46] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:28:25] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-18:34:11] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-21:57:39] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:00:21] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:01:21] TIGS morreu
+[2015:07:07-22:32:06] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:39:38] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:55:48] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:57:24] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:57:56] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-22:59:13] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-23:02:16] TIGS Agora, é empregue como um Criminoso
+[2015:07:07-23:08:29] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 0086895A4061752DCCBCA241A66BFA44)
+[2015:07:07-23:15:11] TIGS morreu
+[2015:07:07-23:15:34] TIGS morreu

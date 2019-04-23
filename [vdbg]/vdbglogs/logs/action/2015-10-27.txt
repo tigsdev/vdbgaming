@@ -1,0 +1,29 @@
+Este arquivo foi gerado pelo Console em 2015:10:27-17:08:00
+
+
+
+[2015:10:27-17:08:00] TIGS Mudou seu nick para Sem_Nome
+[2015:10:27-17:08:37] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:27-17:08:37] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:27-17:14:52] TIGS Mudou seu nick para Sem_Nome
+[2015:10:27-17:22:53] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:27-17:31:53] TIGS Mudou seu nick para Tiago_Santos
+[2015:10:27-17:31:53] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:27-18:31:44] TIGS Mudou seu nick para Tiago_Santos
+[2015:10:27-18:31:45] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:27-18:32:22] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:27-18:32:22] Ivan_Silva Fez um login na conta strikergfx (IP: 177.188.159.49  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:27-18:36:05] Ivan_Silva gerou suaZR-350
+[2015:10:27-18:36:09] Ivan_Silva escondeu sua ZR-350
+[2015:10:27-18:36:12] Ivan_Silva gerou suaZR-350
+[2015:10:27-18:36:15] Ivan_Silva escondeu sua ZR-350
+[2015:10:27-18:39:34] Ivan_Silva gerou suaZR-350
+[2015:10:27-18:45:13] Ivan_Silva gerou suaAlpha
+[2015:10:27-18:45:17] Ivan_Silva escondeu sua Alpha
+[2015:10:27-18:45:45] Ivan_Silva escondeu sua ZR-350
+[2015:10:27-18:46:01] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:27-18:46:26] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:27-18:46:26] Ivan_Silva Fez um login na conta strikergfx (IP: 177.188.159.49  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:27-18:47:59] Ivan_Silva gerou suaZR-350
+[2015:10:27-18:48:06] Ivan_Silva escondeu sua ZR-350
+[2015:10:27-18:57:48] Ivan_Silva está como admih

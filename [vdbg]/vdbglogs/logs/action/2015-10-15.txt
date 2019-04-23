@@ -1,0 +1,88 @@
+Este arquivo foi gerado pelo Console em 2015:10:15-00:56:40
+
+
+
+[2015:10:15-00:56:40] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-06:37:50] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-06:52:17] Sem_Nome Fez um login na conta Wallace (IP: 177.43.158.242  || Serial: 593A2DF21580ACDEBF12E233DFA24BB4)
+[2015:10:15-06:53:04] Sem_Nome morreu
+[2015:10:15-08:31:42] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:15-08:34:02] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:15-08:34:02] Ivan_Silva Fez um login na conta strikergfx (IP: 179.98.137.27  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-08:35:20] Ivan_Silva gerou suaZR-350
+[2015:10:15-08:35:26] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-08:35:46] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:15-08:36:13] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:15-08:36:13] Ivan_Silva Fez um login na conta strikergfx (IP: 179.98.137.27  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-17:10:43] TIGS Mudou seu nick para Sem_Nome
+[2015:10:15-17:15:14] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:15-17:15:14] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:15-17:15:44] Tiago_Santos spawned a(n) Infernus
+[2015:10:15-19:21:57] Strikergfx_ Mudou seu nick para Sem_Nome
+[2015:10:15-19:25:05] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:15-19:25:05] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.102  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-19:27:02] TIGS Mudou seu nick para Sem_Nome
+[2015:10:15-19:31:53] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:15-19:31:53] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:15-19:33:28] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-19:36:34] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-19:37:14] Sem_Nome Fez um login na conta Wallace (IP: 191.33.239.71  || Serial: 593A2DF21580ACDEBF12E233DFA24BB4)
+[2015:10:15-19:49:04] Strikergfx_ Mudou seu nick para Ivan_Silva
+[2015:10:15-19:49:04] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.102  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-19:52:54] Ivan_Silva gerou suaZR-350
+[2015:10:15-19:53:37] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-19:53:38] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-31
+[2015:10:15-19:53:42] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-31
+[2015:10:15-19:54:02] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-30
+[2015:10:15-19:54:09] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-30
+[2015:10:15-19:54:10] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-30
+[2015:10:15-19:54:10] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-30
+[2015:10:15-19:54:11] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-30
+[2015:10:15-19:54:15] Strikergfx_ Mudou seu nick para Ivan_Silva
+[2015:10:15-19:54:15] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.102  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-19:54:21] Ivan_Silva gerou suaZR-350
+[2015:10:15-19:54:27] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-19:54:27] tiaguinhods updated strikergfx VIP - Level: Platina | Exp. Date: 2015-10-16
+[2015:10:15-19:55:08] Strikergfx_ Mudou seu nick para Ivan_Silva
+[2015:10:15-19:55:08] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.102  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:15-19:55:12] Ivan_Silva gerou suaZR-350
+[2015:10:15-19:56:07] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-19:57:16] Ivan_Silva gerou suaAlpha
+[2015:10:15-20:00:07] Tiago_Santos escondeu sua Infernus
+[2015:10:15-20:00:29] Tiago_Santos escondeu sua Admiral
+[2015:10:15-20:00:39] Ivan_Silva escondeu sua Alpha
+[2015:10:15-20:00:42] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:01:23] Ivan_Silva gerou suaAlpha
+[2015:10:15-20:01:46] Tiago_Santos gerou suaInfernus
+[2015:10:15-20:01:56] Ivan_Silva escondeu sua Alpha
+[2015:10:15-20:02:02] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:02:09] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:02:10] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:02:14] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:02:17] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:02:36] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:02:40] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:03:15] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:03:18] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:06:18] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-20:06:59] tiaguinhods updated Wallace VIP - Level: Platina | Exp. Date: 2015-10-20
+[2015:10:15-20:07:03] Sem_Nome Mudou seu nick para Wallace_Ferreira
+[2015:10:15-20:07:03] Wallace_Ferreira Fez um login na conta Wallace (IP: 191.33.239.71  || Serial: 593A2DF21580ACDEBF12E233DFA24BB4)
+[2015:10:15-20:14:22] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-20:14:23] Ivan_Silva gerou suaZR-350
+[2015:10:15-20:14:44] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-20:18:28] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-20:18:58] Sem_Nome Mudou seu nick para Wallace_Ferreira
+[2015:10:15-20:18:58] Wallace_Ferreira Fez um login na conta Wallace (IP: 191.33.239.71  || Serial: 593A2DF21580ACDEBF12E233DFA24BB4)
+[2015:10:15-20:38:47] ~Wall' Mudou seu nick para Sem_Nome
+[2015:10:15-20:39:59] Sem_Nome Mudou seu nick para Wallace_Ferreira
+[2015:10:15-20:39:59] Wallace_Ferreira Fez um login na conta Wallace (IP: 191.33.239.71  || Serial: 593A2DF21580ACDEBF12E233DFA24BB4)
+[2015:10:15-20:42:06] Wallace_Ferreira comprou um Admiral
+[2015:10:15-21:03:14] Ivan_Silva escondeu sua ZR-350
+[2015:10:15-21:26:44] Wallace_Ferreira escondeu sua Admiral
+[2015:10:15-23:53:29] !+#00ff00HuNTeR Mudou seu nick para !+HuNTeR
+[2015:10:15-23:53:31] !+HuNTeR Mudou seu nick para Sem_Nome
+[2015:10:15-23:57:08] TIGS Mudou seu nick para Tiago_Santos
+[2015:10:15-23:57:08] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:15-23:59:38] TIGS Mudou seu nick para Sem_Nome
+[2015:10:15-23:59:39] !+#00ff00HuNTeR Mudou seu nick para !+HuNTeR

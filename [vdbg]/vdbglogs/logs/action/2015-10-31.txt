@@ -1,0 +1,923 @@
+Este arquivo foi gerado pelo Console em 2015:10:31-00:00:17
+
+
+
+[2015:10:31-00:00:17] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-00:01:52] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-00:01:52] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-00:07:54] Tiago_Santos gerou suaAdmiral
+[2015:10:31-00:13:25] Tiago_Santos escondeu sua Admiral
+[2015:10:31-00:14:17] WoozySinger48 Mudou seu nick para Sem_Nome
+[2015:10:31-00:24:54] Sem_Nome Mudou seu nick para thiago_henrique
+[2015:10:31-00:24:55] thiago_henrique Fez um login na conta sonyvi (IP: 201.54.70.87  || Serial: 71FC4A39B8DF61FDB432609FFBB10C02)
+[2015:10:31-00:28:49] #000000~>#0ffff0MaTiaZ Mudou seu nick para ~>MaTiaZ
+[2015:10:31-00:28:50] ~>MaTiaZ Mudou seu nick para Sem_Nome
+[2015:10:31-00:29:59] #6800AD[A].#FFDD00Blow Mudou seu nick para [A].Blow
+[2015:10:31-00:31:59] thiago_henrique Agora, é empregue como um Motorista
+[2015:10:31-00:32:12] thiago_henrique spawned a(n) Coach
+[2015:10:31-00:37:19] Sem_Nome Mudou seu nick para matias_gomes
+[2015:10:31-00:37:19] matias_gomes Fez um login na conta asiloader (IP: 191.34.254.200  || Serial: 98DCFEF8D2EC1C46E83DE18AD37011B2)
+[2015:10:31-00:37:21] [A].Blow Mudou seu nick para Sem_Nome
+[2015:10:31-00:38:41] thiago_henrique Agora, é empregue como um Mecanico
+[2015:10:31-00:38:53] thiago_henrique spawned a(n) Utility Van
+[2015:10:31-00:39:24] Sem_Nome Mudou seu nick para Gustavo_Coletti_
+[2015:10:31-00:39:24] Gustavo_Coletti_ Fez um login na conta Blow_Coletti (IP: 189.58.40.123  || Serial: 77B776B2708C566DAC318C17A45837B3)
+[2015:10:31-00:40:39] thiago_henrique Agora, é empregue como um Policial
+[2015:10:31-00:41:00] thiago_henrique spawned a(n) Police LS
+[2015:10:31-00:44:43] #a8a8a8Dexty#FF9900*DE Mudou seu nick para Dexty*DE
+[2015:10:31-00:44:43] Dexty*DE Mudou seu nick para Sem_Nome
+[2015:10:31-00:45:42] Sem_Nome Mudou seu nick para Emerson_Gabriel
+[2015:10:31-00:45:42] Emerson_Gabriel Fez um login na conta Emerson_Gabriel (IP: 177.101.12.114  || Serial: A9D37D1AE56DE1B1BE2C0CFAF5240993)
+[2015:10:31-00:45:51] Emerson_Gabriel morreu
+[2015:10:31-00:46:23] Emerson_Gabriel spawned a(n) Savanna
+[2015:10:31-00:46:44] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-00:46:49] Emerson_Gabriel spawned a(n) Quadbike
+[2015:10:31-00:49:55] thiago_henrique Mudou seu nick para sonyvi
+[2015:10:31-00:51:05] thiago_henrique Agora, é empregue como um Criminoso
+[2015:10:31-00:51:14] matias_gomes Agora, é empregue como um Criminoso
+[2015:10:31-00:51:26] matias_gomes Agora, é empregue como um Criminoso
+[2015:10:31-00:51:43] matias_gomes Agora, é empregue como um Criminoso
+[2015:10:31-00:52:45] #a8a8a8Dexty#FF9900*DE Mudou seu nick para Dexty*DE
+[2015:10:31-00:53:15] Dexty*DE Mudou seu nick para Emerson_Gabriel
+[2015:10:31-00:53:15] Emerson_Gabriel Fez um login na conta Emerson_Gabriel (IP: 177.101.12.114  || Serial: A9D37D1AE56DE1B1BE2C0CFAF5240993)
+[2015:10:31-00:53:31] Emerson_Gabriel spawned a(n) Savanna
+[2015:10:31-00:53:45] Emerson_Gabriel spawned a(n) Quadbike
+[2015:10:31-00:54:01] Emerson_Gabriel spawned a(n) Savanna
+[2015:10:31-00:54:59] #a8a8a8Dexty#FF9900*DE Mudou seu nick para Dexty*DE
+[2015:10:31-00:55:21] Dexty*DE Mudou seu nick para Emerson_Gabriel
+[2015:10:31-00:55:21] Emerson_Gabriel Fez um login na conta Emerson_Gabriel (IP: 177.101.12.114  || Serial: A9D37D1AE56DE1B1BE2C0CFAF5240993)
+[2015:10:31-01:02:50] Emerson_Gabriel spawned a(n) Stuntplane
+[2015:10:31-01:04:23] reXpeita|O'Conner| Mudou seu nick para Brian_O'Conner
+[2015:10:31-01:04:23] Brian_O'Conner Fez um login na conta viniciusitp (IP: 177.223.13.18  || Serial: C99AE34583A45B406983932629E9E452)
+[2015:10:31-01:04:44] Brian_O'Conner spawned a(n) Savanna
+[2015:10:31-02:21:16] |K&S|#00bb99StinG^ Mudou seu nick para |K&S|StinG^
+[2015:10:31-02:23:34] |K&S|StinG^ Mudou seu nick para StinG_SantoS
+[2015:10:31-02:23:34] StinG_SantoS Fez um login na conta Stingsantos (IP: 200.217.36.47  || Serial: 539DF67FBA519F5A58DB131B057FC971)
+[2015:10:31-02:24:09] StinG_SantoS spawned a(n) Shamal
+[2015:10:31-02:24:36] StinG_SantoS spawned a(n) Dodo
+[2015:10:31-02:29:54] StinG_SantoS morreu
+[2015:10:31-02:39:00] ~=|Y|#49009C4Y4=~ Mudou seu nick para ~=|Y|4Y4=~
+[2015:10:31-02:41:30] |K&S|#00bb99StinG^ Mudou seu nick para |K&S|StinG^
+[2015:10:31-02:41:47] |K&S|StinG^ Mudou seu nick para StinG_SantoS
+[2015:10:31-02:41:48] StinG_SantoS Fez um login na conta Stingsantos (IP: 189.48.35.161  || Serial: 539DF67FBA519F5A58DB131B057FC971)
+[2015:10:31-02:42:49] StinG_SantoS morreu
+[2015:10:31-02:43:20] StinG_SantoS spawned a(n) Savanna
+[2015:10:31-02:43:58] ~=|Y|4Y4=~ Mudou seu nick para xlY#49009C4Y4
+[2015:10:31-02:44:18] StinG_SantoS Mudou seu nick para Sting
+[2015:10:31-02:44:21] xlY#49009C4Y4 Mudou seu nick para xlY4Y4
+[2015:10:31-02:44:32] StinG_SantoS Mudou seu nick para StinG
+[2015:10:31-02:46:49] #00FF002_Pac Mudou seu nick para 2_Pac
+[2015:10:31-02:47:37] 2_Pac Fez um login na conta crazzyjv (IP: 186.213.26.234  || Serial: 3C077603F6C5C61827D264819FD8ECF3)
+[2015:10:31-02:52:29] xlY4Y4 Mudou seu nick para Ericleison_Reis
+[2015:10:31-02:52:29] Ericleison_Reis Fez um login na conta EricleisonReis (IP: 138.59.95.6  || Serial: 11158DEC51812B6A6DE7078855DCE6A1)
+[2015:10:31-02:58:40] Ericleison_Reis morreu
+[2015:10:31-03:12:23] xlY#49009C4Y4 Mudou seu nick para Sem_Nome
+[2015:10:31-03:12:42] Sem_Nome Mudou seu nick para Ericleison_Reis
+[2015:10:31-03:12:42] Ericleison_Reis Fez um login na conta EricleisonReis (IP: 138.59.95.6  || Serial: 11158DEC51812B6A6DE7078855DCE6A1)
+[2015:10:31-06:44:10] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-06:48:35] Sem_Nome Mudou seu nick para Guilherme_Basilio
+[2015:10:31-06:48:35] Guilherme_Basilio Fez um login na conta Gui_Basilio (IP: 187.40.163.247  || Serial: 6FEC97FE2F78530A366C4F612FD3C0F3)
+[2015:10:31-06:51:26] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-06:52:24] Sem_Nome Mudou seu nick para Guilherme_Basilio
+[2015:10:31-06:52:24] Guilherme_Basilio Fez um login na conta Gui_Basilio (IP: 187.40.163.247  || Serial: 6FEC97FE2F78530A366C4F612FD3C0F3)
+[2015:10:31-06:54:15] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-06:56:04] Sem_Nome Mudou seu nick para Guilherme_Basilio
+[2015:10:31-06:56:05] Guilherme_Basilio Fez um login na conta Gui_Basilio (IP: 187.40.163.247  || Serial: 6FEC97FE2F78530A366C4F612FD3C0F3)
+[2015:10:31-06:57:48] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-06:58:46] Sem_Nome Mudou seu nick para Guilherme_Basilio
+[2015:10:31-06:58:46] Guilherme_Basilio Fez um login na conta Gui_Basilio (IP: 187.40.163.247  || Serial: 6FEC97FE2F78530A366C4F612FD3C0F3)
+[2015:10:31-06:59:44] Clatsus#1* Mudou seu nick para Sem_Nome
+[2015:10:31-07:00:47] #FF0000|PowerSz| Mudou seu nick para |PowerSz|
+[2015:10:31-07:01:33] |PowerSz| Mudou seu nick para Power_Rafael
+[2015:10:31-07:01:33] Power_Rafael Fez um login na conta PowerSz (IP: 191.33.48.107  || Serial: D2E854DF9A529336CD2D9D5FFB94E744)
+[2015:10:31-07:02:11] Sem_Nome Mudou seu nick para Guilherme_Basilio
+[2015:10:31-07:02:11] Guilherme_Basilio Fez um login na conta Gui_Basilio (IP: 187.40.163.247  || Serial: 6FEC97FE2F78530A366C4F612FD3C0F3)
+[2015:10:31-07:04:18] Guilherme_Basilio Agora, é empregue como um Criminoso
+[2015:10:31-07:04:26] Guilherme_Basilio spawned a(n) Voodoo
+[2015:10:31-07:04:48] Guilherme_Basilio Agora, é empregue como um Criminoso
+[2015:10:31-07:04:55] Guilherme_Basilio spawned a(n) PCJ-600
+[2015:10:31-07:06:37] Power_Rafael spawned a(n) Sentinel
+[2015:10:31-07:14:10] DampPepper9 Mudou seu nick para Sem_Nome
+[2015:10:31-07:24:44] #000000EdUa#FF0000RdO Mudou seu nick para EdUaRdO
+[2015:10:31-07:25:36] EdUaRdO Mudou seu nick para eduardo_breno
+[2015:10:31-07:25:36] eduardo_breno Fez um login na conta eduardo_breno (IP: 189.51.99.50  || Serial: 9B754B19D6C0928A0DB3541E66AF37E4)
+[2015:10:31-07:26:36] eduardo_breno spawned a(n) Savanna
+[2015:10:31-07:37:12] Power_Rafael morreu
+[2015:10:31-07:37:44] Power_Rafael spawned a(n) Savanna
+[2015:10:31-07:38:36] eduardo_breno morreu
+[2015:10:31-07:39:00] eduardo_breno spawned a(n) Savanna
+[2015:10:31-07:40:01] Power_Rafael spawned a(n) Savanna
+[2015:10:31-07:43:05] Power_Rafael Agora, é empregue como um Piloto
+[2015:10:31-07:43:10] Power_Rafael spawned a(n) Shamal
+[2015:10:31-07:44:32] eduardo_breno Agora, é empregue como um Piloto
+[2015:10:31-07:44:38] eduardo_breno spawned a(n) Shamal
+[2015:10:31-07:45:01] #000000galaxy*_? Mudou seu nick para galaxy*_?
+[2015:10:31-07:45:01] galaxy*_? Mudou seu nick para Sem_Nome
+[2015:10:31-07:45:47] Sem_Nome Mudou seu nick para galaxy_freitas
+[2015:10:31-07:45:47] galaxy_freitas Fez um login na conta igorfreitas (IP: 189.41.196.88  || Serial: 44A647EE8056092ED68261F036BAC454)
+[2015:10:31-07:46:56] galaxy_freitas Agora, é empregue como um Policial
+[2015:10:31-07:47:04] galaxy_freitas spawned a(n) Police LS
+[2015:10:31-07:49:22] eduardo_breno spawned a(n) Shamal
+[2015:10:31-07:50:31] galaxy_freitas morreu
+[2015:10:31-07:51:53] eduardo_breno morreu
+[2015:10:31-07:52:29] eduardo_breno spawned a(n) Savanna
+[2015:10:31-07:53:34] #000000galaxy*_? Mudou seu nick para galaxy*_?
+[2015:10:31-07:53:37] galaxy*_? Mudou seu nick para Sem_Nome
+[2015:10:31-07:53:49] Sem_Nome Mudou seu nick para galaxy_freitas
+[2015:10:31-07:53:49] galaxy_freitas Fez um login na conta igorfreitas (IP: 189.41.196.88  || Serial: 44A647EE8056092ED68261F036BAC454)
+[2015:10:31-07:53:56] galaxy_freitas spawned a(n) Savanna
+[2015:10:31-07:54:18] eduardo_breno spawned a(n) Shamal
+[2015:10:31-07:57:26] eduardo_breno spawned a(n) Shamal
+[2015:10:31-07:57:42] Power_Rafael spawned a(n) Shamal
+[2015:10:31-07:58:51] DampPepper9 Mudou seu nick para Sem_Nome
+[2015:10:31-07:58:58] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:00:15] galaxy_freitas morreu
+[2015:10:31-08:00:35] eduardo_breno spawned a(n) Shamal
+[2015:10:31-08:00:39] galaxy_freitas spawned a(n) Savanna
+[2015:10:31-08:01:41] galaxy_freitas morreu
+[2015:10:31-08:02:22] galaxy_freitas spawned a(n) Savanna
+[2015:10:31-08:03:52] eduardo_breno spawned a(n) Shamal
+[2015:10:31-08:05:27] eduardo_breno morreu
+[2015:10:31-08:05:36] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:05:38] galaxy_freitas Agora, é empregue como um Piloto
+[2015:10:31-08:05:44] galaxy_freitas spawned a(n) Shamal
+[2015:10:31-08:06:32] galaxy_freitas morreu
+[2015:10:31-08:06:46] eduardo_breno spawned a(n) Shamal
+[2015:10:31-08:06:56] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:07:03] galaxy_freitas spawned a(n) Savanna
+[2015:10:31-08:08:40] galaxy_freitas spawned a(n) Shamal
+[2015:10:31-08:09:48] Power_Rafael morreu
+[2015:10:31-08:10:11] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:11:30] galaxy_freitas spawned a(n) Shamal
+[2015:10:31-08:12:38] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:14:04] Power_Rafael morreu
+[2015:10:31-08:14:13] #00f0f0Nigga_ Mudou seu nick para Nigga_
+[2015:10:31-08:14:14] Nigga_ Mudou seu nick para Sem_Nome
+[2015:10:31-08:14:33] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:16:16] Sem_Nome Mudou seu nick para Mattheus_fernandes
+[2015:10:31-08:16:16] Mattheus_fernandes Fez um login na conta sv0032Nigga_ (IP: 181.223.16.61  || Serial: 3186F5EA71EF838EB80557234355FD43)
+[2015:10:31-08:16:17] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:18:20] Mattheus_fernandes Agora, é empregue como um Medico
+[2015:10:31-08:18:23] Mattheus_fernandes spawned a(n) Ambulance
+[2015:10:31-08:18:57] galaxy_freitas morreu
+[2015:10:31-08:19:04] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:19:57] Mattheus_fernandes Agora, é empregue como um Piloto
+[2015:10:31-08:20:05] Mattheus_fernandes spawned a(n) Beagle
+[2015:10:31-08:21:05] Mattheus_fernandes spawned a(n) Shamal
+[2015:10:31-08:24:34] Mattheus_fernandes morreu
+[2015:10:31-08:28:05] Mattheus_fernandes Agora, é empregue como um PizzaBOY
+[2015:10:31-08:28:08] Mattheus_fernandes spawned a(n) Pizzaboy
+[2015:10:31-08:28:32] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:28:45] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:30:13] Mattheus_fernandes Agora, é empregue como um Piloto
+[2015:10:31-08:30:20] Mattheus_fernandes spawned a(n) Shamal
+[2015:10:31-08:32:27] Power_Rafael spawned a(n) Shamal
+[2015:10:31-08:34:49] Power_Rafael spawned a(n) Dodo
+[2015:10:31-08:36:33] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:39:00] -BartSimpison_ Mudou seu nick para Sem_Nome
+[2015:10:31-08:40:18] Mattheus_fernandes morreu
+[2015:10:31-08:40:20] Sem_Nome Mudou seu nick para Junior_Alex
+[2015:10:31-08:40:20] Junior_Alex Fez um login na conta junior (IP: 177.93.145.71  || Serial: 168BC82C1E37BFDEC37D5050C1CA6234)
+[2015:10:31-08:41:21] Mattheus_fernandes spawned a(n) Quadbike
+[2015:10:31-08:43:07] Junior_Alex spawned a(n) Caddy
+[2015:10:31-08:43:45] Junior_Alex spawned a(n) Savanna
+[2015:10:31-08:44:50] Mattheus_fernandes Agora, é empregue como um Criminoso
+[2015:10:31-08:44:55] Mattheus_fernandes spawned a(n) PCJ-600
+[2015:10:31-08:46:24] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:48:05] eduardo_breno spawned a(n) Shamal
+[2015:10:31-08:48:53] eduardo_breno morreu
+[2015:10:31-08:50:36] Mattheus_fernandes Agora, é empregue como um Mecanico
+[2015:10:31-08:50:40] Mattheus_fernandes spawned a(n) Towtruck
+[2015:10:31-08:54:08] Power_Rafael morreu
+[2015:10:31-08:54:30] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:58:06] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:58:06] eduardo_breno spawned a(n) Caddy
+[2015:10:31-08:58:18] Power_Rafael spawned a(n) Savanna
+[2015:10:31-08:58:39] eduardo_breno spawned a(n) Savanna
+[2015:10:31-08:58:56] Power_Rafael spawned a(n) Savanna
+[2015:10:31-09:03:40] DampPepper9 Mudou seu nick para Sem_Nome
+[2015:10:31-09:22:00] Power_Rafael morreu
+[2015:10:31-09:35:26] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-09:35:28] #DarkNees Mudou seu nick para Sem_Nome
+[2015:10:31-09:36:06] Sem_Nome Mudou seu nick para Thiago_Bispo
+[2015:10:31-09:36:06] Thiago_Bispo Fez um login na conta bispo123 (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-09:37:26] Thiago_Bispo morreu
+[2015:10:31-09:37:50] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-09:39:08] Thiago_Bispo spawned a(n) Shamal
+[2015:10:31-09:42:02] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-09:42:43] Thiago_Bispo spawned a(n) Beagle
+[2015:10:31-09:43:57] eduardo breno Foi Solto!
+[2015:10:31-09:44:24] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-09:44:24] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-09:45:31] Tiago_Santos morreu
+[2015:10:31-09:49:45] Junnim Mudou seu nick para Sem_Nome
+[2015:10:31-09:50:06] Sem_Nome Mudou seu nick para Junnim_
+[2015:10:31-09:56:28] PRF|S.Cmd.Matheus Mudou seu nick para Teteu_Oliveira
+[2015:10:31-09:56:28] Teteu_Oliveira Fez um login na conta teteu5522 (IP: 189.71.80.230  || Serial: 2A1DCDD06A494EE51FA523667ABFBF44)
+[2015:10:31-09:58:28] Teteu_Oliveira spawned a(n) Police LS
+[2015:10:31-10:02:11] Sem_Nome Mudou seu nick para Olicio_Junior
+[2015:10:31-10:02:11] Olicio_Junior Fez um login na conta Junnim_ (IP: 201.48.246.65  || Serial: F4C8CADB3E493498F33AB013CF37B3F2)
+[2015:10:31-10:02:24] Teteu_Oliveira spawned a(n) Police LS
+[2015:10:31-10:03:30] eduardo_breno morreu
+[2015:10:31-10:04:23] eduardo_breno spawned a(n) Savanna
+[2015:10:31-10:05:28] Olicio_Junior spawned a(n) Savanna
+[2015:10:31-10:08:30] eduardo_breno spawned a(n) Savanna
+[2015:10:31-10:09:22] Thiago_Bispo morreu
+[2015:10:31-10:10:50] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:11:27] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-10:12:18] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-10:12:18] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-10:12:53] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-10:13:03] Thiago_Bispo Agora, é empregue como um Criminoso
+[2015:10:31-10:13:49] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-10:13:49] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-10:20:07] UnknowN Mudou seu nick para Sem_Nome
+[2015:10:31-10:21:11] Olicio_Junior Agora, é empregue como um PizzaBOY
+[2015:10:31-10:21:49] Olicio_Junior Agora, é empregue como um PizzaBOY
+[2015:10:31-10:21:52] eduardo_breno Agora, é empregue como um PizzaBOY
+[2015:10:31-10:21:54] Olicio_Junior spawned a(n) Pizzaboy
+[2015:10:31-10:22:03] eduardo_breno spawned a(n) Pizzaboy
+[2015:10:31-10:22:24] Olicio_Junior Agora, é empregue como um PizzaBOY
+[2015:10:31-10:23:53] Tiago_Santos Agora, é empregue como um PizzaBOY
+[2015:10:31-10:24:10] Tiago_Santos spawned a(n) Bullet
+[2015:10:31-10:24:24] Tiago_Santos spawned a(n) Admiral
+[2015:10:31-10:24:37] Tiago_Santos spawned a(n) Monster 2
+[2015:10:31-10:24:48] Tiago_Santos spawned a(n) Infernus
+[2015:10:31-10:30:56] Ricardo_Lima Mudou seu nick para Sem_Nome
+[2015:10:31-10:32:27] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:33:25] Sem_Nome Mudou seu nick para ricardo_lima
+[2015:10:31-10:33:25] ricardo_lima Fez um login na conta ricardo (IP: 191.54.68.152  || Serial: 989FCBF25053C3903820AAFCE0F62A42)
+[2015:10:31-10:33:27] JapaMorfo Mudou seu nick para Sem_Nome
+[2015:10:31-10:33:51] Sem_Nome Mudou seu nick para Japa__Morfo
+[2015:10:31-10:33:51] Japa__Morfo Fez um login na conta japamorfo (IP: 179.216.19.5  || Serial: E306FB322FDFC52DEB495414479814B3)
+[2015:10:31-10:34:15] ricardo_lima spawned a(n) Shamal
+[2015:10:31-10:34:55] JapaMorfo Mudou seu nick para Sem_Nome
+[2015:10:31-10:35:46] Sem_Nome Mudou seu nick para Japa__Morfo
+[2015:10:31-10:35:46] Japa__Morfo Fez um login na conta japamorfo (IP: 179.216.19.5  || Serial: E306FB322FDFC52DEB495414479814B3)
+[2015:10:31-10:36:17] Japa__Morfo Agora, é empregue como um Criminoso
+[2015:10:31-10:36:23] Japa__Morfo spawned a(n) Voodoo
+[2015:10:31-10:37:37] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:39:45] ricardo_lima morreu
+[2015:10:31-10:40:09] ricardo_lima spawned a(n) Savanna
+[2015:10:31-10:43:06] Thiago_Bispo morreu
+[2015:10:31-10:43:26] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:45:01] Olicio_Junior Agora, é empregue como um Piloto
+[2015:10:31-10:45:10] Olicio_Junior spawned a(n) Beagle
+[2015:10:31-10:46:12] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:46:13] eduardo_breno spawned a(n) Pizzaboy
+[2015:10:31-10:47:44] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:49:08] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:49:15] Tiago_Santos spawned a(n) Pizzaboy
+[2015:10:31-10:49:22] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:50:40] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-10:51:12] JapaMorfo Mudou seu nick para Sem_Nome
+[2015:10:31-10:51:58] Sem_Nome Mudou seu nick para Japa__Morfo
+[2015:10:31-10:51:58] Japa__Morfo Fez um login na conta japamorfo (IP: 179.216.19.5  || Serial: E306FB322FDFC52DEB495414479814B3)
+[2015:10:31-10:52:34] #000000#Spo#FFFF00nge# Mudou seu nick para #Sponge#
+[2015:10:31-10:52:35] #Sponge# Mudou seu nick para Sem_Nome
+[2015:10:31-10:52:55] Japa__Morfo spawned a(n) Quadbike
+[2015:10:31-10:53:23] Olicio_Junior spawned a(n) Shamal
+[2015:10:31-10:53:37] #FF0202N1GHT Mudou seu nick para N1GHT
+[2015:10:31-10:53:53] Sem_Nome Mudou seu nick para sponge_silva
+[2015:10:31-10:53:53] sponge_silva Fez um login na conta #sponge# (IP: 188.251.60.151  || Serial: F70C39131EB705D29704DE58C3AA6082)
+[2015:10:31-10:53:53] Shaick Mudou seu nick para Sem_Nome
+[2015:10:31-10:55:30] sponge_silva spawned a(n) Shamal
+[2015:10:31-10:55:42] N1GHT Mudou seu nick para Kennedy_Silva
+[2015:10:31-10:55:42] Kennedy_Silva Fez um login na conta kennedy_silva (IP: 177.223.13.18  || Serial: 63BF1A3AA9A3A33E3A48183DEBFFF442)
+[2015:10:31-10:56:20] eduardo_breno Agora, é empregue como um Piloto
+[2015:10:31-10:56:30] eduardo_breno spawned a(n) Shamal
+[2015:10:31-10:56:31] sponge_silva morreu
+[2015:10:31-10:57:16] eduardo_breno spawned a(n) Shamal
+[2015:10:31-10:58:37] eduardo_breno morreu
+[2015:10:31-10:58:50] Kennedy_Silva Agora, é empregue como um Mecanico
+[2015:10:31-10:59:02] Kennedy_Silva spawned a(n) Packer
+[2015:10:31-10:59:16] eduardo_breno spawned a(n) Savanna
+[2015:10:31-11:00:52] Kennedy_Silva Agora, é empregue como um Piloto
+[2015:10:31-11:01:04] Kennedy_Silva spawned a(n) Shamal
+[2015:10:31-11:01:09] eduardo_breno spawned a(n) Shamal
+[2015:10:31-11:02:09] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-11:02:13] eduardo_breno spawned a(n) Shamal
+[2015:10:31-11:02:20] sponge_silva morreu
+[2015:10:31-11:02:45] sponge_silva spawned a(n) Caddy
+[2015:10:31-11:02:55] #FF0000##121212LuK~' Mudou seu nick para #LuK~'
+[2015:10:31-11:02:56] sponge_silva spawned a(n) Savanna
+[2015:10:31-11:03:38] eduardo_breno morreu
+[2015:10:31-11:04:19] eduardo_breno spawned a(n) Savanna
+[2015:10:31-11:04:40] #LuK~' Mudou seu nick para Lucas_Maia_Rocha_
+[2015:10:31-11:04:40] Lucas_Maia_Rocha_ Fez um login na conta lucas_maia (IP: 189.13.203.13  || Serial: 7E86DFCB386254C445D1B954AFFDC084)
+[2015:10:31-11:04:52] eduardo_breno Agora, é empregue como um Criminoso
+[2015:10:31-11:04:56] eduardo_breno spawned a(n) PCJ-600
+[2015:10:31-11:05:04] Olicio_Junior morreu
+[2015:10:31-11:05:33] Olicio_Junior spawned a(n) Savanna
+[2015:10:31-11:05:40] PiguetWins Mudou seu nick para Matheus_Menezes
+[2015:10:31-11:05:40] Matheus_Menezes Fez um login na conta Piguetwins (IP: 200.96.252.136  || Serial: 198F4B533A67B4589801AE8F0098D242)
+[2015:10:31-11:06:22] Japa__Morfo spawned a(n) Caddy
+[2015:10:31-11:06:37] Matheus_Menezes Agora, é empregue como um stunter
+[2015:10:31-11:06:45] Matheus_Menezes spawned a(n) PCJ-600
+[2015:10:31-11:07:02] Kennedy_Silva morreu
+[2015:10:31-11:07:05] Thiago Bispo Foi Solto!
+[2015:10:31-11:07:07] sponge_silva Agora, é empregue como um Criminoso
+[2015:10:31-11:07:14] sponge_silva spawned a(n) Caddy
+[2015:10:31-11:07:14] Alex_Deew Mudou seu nick para Sem_Nome
+[2015:10:31-11:07:26] sponge_silva spawned a(n) Sentinel
+[2015:10:31-11:07:45] Matheus_Menezes spawned a(n) Savanna
+[2015:10:31-11:09:20] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-11:09:41] Olicio_Junior spawned a(n) Shamal
+[2015:10:31-11:10:22] Olicio_Junior morreu
+[2015:10:31-11:10:50] Olicio_Junior spawned a(n) Savanna
+[2015:10:31-11:11:56] Shaick Mudou seu nick para Sem_Nome
+[2015:10:31-11:12:15] Japa__Morfo spawned a(n) Savanna
+[2015:10:31-11:12:56] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-11:14:19] Lucas_Maia_Rocha_ morreu
+[2015:10:31-11:14:39] eduardo_breno morreu
+[2015:10:31-11:14:46] Lucas_Maia_Rocha_ Agora, é empregue como um Medico
+[2015:10:31-11:14:52] Lucas_Maia_Rocha_ spawned a(n) Ambulance
+[2015:10:31-11:15:16] eduardo_breno spawned a(n) Savanna
+[2015:10:31-11:16:32] Shaick Mudou seu nick para Sem_Nome
+[2015:10:31-11:18:04] Lucas_Maia_Rocha_ Agora, é empregue como um Criminoso
+[2015:10:31-11:18:09] Lucas_Maia_Rocha_ spawned a(n) PCJ-600
+[2015:10:31-11:18:24] Olicio_Junior spawned a(n) Shamal
+[2015:10:31-11:19:49] Thiago Bispo Foi Solto!
+[2015:10:31-11:20:15] Japa__Morfo spawned a(n) Quadbike
+[2015:10:31-11:20:38] Japa__Morfo Agora, é empregue como um stunter
+[2015:10:31-11:20:44] Japa__Morfo Agora, é empregue como um stunter
+[2015:10:31-11:20:52] Japa__Morfo spawned a(n) PCJ-600
+[2015:10:31-11:22:43] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-11:22:44] #DarkNees Mudou seu nick para Sem_Nome
+[2015:10:31-11:23:02] Sem_Nome Mudou seu nick para Thiago_Bispo
+[2015:10:31-11:23:02] Thiago_Bispo Fez um login na conta bispo123 (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-11:23:23] Olicio_Junior Agora, é empregue como um PizzaBOY
+[2015:10:31-11:23:31] Olicio_Junior Agora, é empregue como um PizzaBOY
+[2015:10:31-11:23:32] Rodrigo Mudou seu nick para Sem_Nome
+[2015:10:31-11:23:43] Olicio_Junior spawned a(n) Pizzaboy
+[2015:10:31-11:25:07] Thiago_Bispo morreu
+[2015:10:31-11:25:27] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-11:26:11] sponge_silva Agora, é empregue como um Entregador
+[2015:10:31-11:26:19] sponge_silva spawned a(n) Burrito
+[2015:10:31-11:26:57] Toretto Mudou seu nick para Dom_Toretto
+[2015:10:31-11:26:57] Dom_Toretto Fez um login na conta victor31 (IP: 179.34.79.213  || Serial: C4F3350689E8B88A5EF962BE0CF57C12)
+[2015:10:31-11:26:57] sponge_silva spawned a(n) Berkley's RC Van
+[2015:10:31-11:28:40] eduardo_breno spawned a(n) Savanna
+[2015:10:31-11:28:49] sponge_silva Agora, é empregue como um Piloto
+[2015:10:31-11:29:01] sponge_silva spawned a(n) Stuntplane
+[2015:10:31-11:29:40] Dom_Toretto morreu
+[2015:10:31-11:30:09] matheus_griff Mudou seu nick para Sem_Nome
+[2015:10:31-11:30:14] Dom_Toretto spawned a(n) Savanna
+[2015:10:31-11:30:28] sponge_silva morreu
+[2015:10:31-11:30:52] sponge_silva spawned a(n) Savanna
+[2015:10:31-11:31:10] #FFFF00Minion#000080PT Mudou seu nick para MinionPT
+[2015:10:31-11:31:22] #00FF00+[M]#FF0000ello Mudou seu nick para +[M]ello
+[2015:10:31-11:31:31] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-11:31:37] sponge_silva spawned a(n) Shamal
+[2015:10:31-11:31:52] eduardo_breno spawned a(n) PCJ-600
+[2015:10:31-11:32:19] Sem_Nome Mudou seu nick para Matheus_Griff
+[2015:10:31-11:32:19] Matheus_Griff Fez um login na conta matheusgriff (IP: 179.108.184.15  || Serial: 893426EBCA3B43D2DE6D16679B5939A3)
+[2015:10:31-11:32:19] MinionPT Mudou seu nick para Sem_Nome
+[2015:10:31-11:32:42] Sem_Nome Mudou seu nick para Paulo_Martins
+[2015:10:31-11:32:42] Paulo_Martins Fez um login na conta joana_linda (IP: 37.189.237.5  || Serial: A442279D007409F6005015B5B1CE3C94)
+[2015:10:31-11:32:44] +[M]ello Mudou seu nick para Sem_Nome
+[2015:10:31-11:33:02] Lucas_Maia_Rocha_ Agora, é empregue como um Entregador
+[2015:10:31-11:33:05] Matheus_Griff morreu
+[2015:10:31-11:33:08] Lucas_Maia_Rocha_ spawned a(n) Burrito
+[2015:10:31-11:33:13] Lucas_Maia_Rocha_ Agora, é empregue como um Entregador
+[2015:10:31-11:33:58] Sem_Nome Mudou seu nick para Mello_Fuck_
+[2015:10:31-11:33:58] Mello_Fuck_ Fez um login na conta Fekenoi (IP: 187.126.253.67  || Serial: 5D7C6A7BFF5CD2DA5CE05E348AA2A943)
+[2015:10:31-11:34:11] #000000Sr.#888888Whats Mudou seu nick para Sr.Whats
+[2015:10:31-11:34:12] Sr.Whats Mudou seu nick para Sem_Nome
+[2015:10:31-11:34:32] Sem_Nome Mudou seu nick para Sr.Whats
+[2015:10:31-11:35:53] Paulo_Martins Agora, é empregue como um Mecanico
+[2015:10:31-11:36:05] Paulo_Martins spawned a(n) Packer
+[2015:10:31-11:36:17] Paulo_Martins spawned a(n) Towtruck
+[2015:10:31-11:37:11] Lucas_Maia_Rocha_ morreu
+[2015:10:31-11:37:50] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-11:38:34] Mello_Fuck_ spawned a(n) Sentinel
+[2015:10:31-11:38:56] sponge_silva morreu
+[2015:10:31-11:39:13] Matheus_Griff Agora, é empregue como um Piloto
+[2015:10:31-11:39:32] Lucas_Maia_Rocha_ Agora, é empregue como um Criminoso
+[2015:10:31-11:39:37] Lucas_Maia_Rocha_ spawned a(n) Voodoo
+[2015:10:31-11:39:37] Matheus_Griff spawned a(n) Shamal
+[2015:10:31-11:39:58] Matheus_Griff spawned a(n) Shamal
+[2015:10:31-11:41:50] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-11:41:51] Dom_Toretto spawned a(n) PCJ-600
+[2015:10:31-11:42:49] Paulo_Martins Agora, é empregue como um Criminoso
+[2015:10:31-11:42:53] Paulo_Martins spawned a(n) Sentinel
+[2015:10:31-11:44:02] eduardo_breno spawned a(n) Sentinel
+[2015:10:31-11:45:26] Tiago_Santos morreu
+[2015:10:31-11:45:47] Tiago_Santos está como admih
+[2015:10:31-11:49:14] Lucas_Maia_Rocha_ spawned a(n) Sentinel
+[2015:10:31-11:49:25] Matheus_Griff spawned a(n) Stuntplane
+[2015:10:31-11:50:22] Paulo_Martins Agora, é empregue como um Piloto
+[2015:10:31-11:51:24] Paulo_Martins spawned a(n) Shamal
+[2015:10:31-11:53:48] Paulo_Martins morreu
+[2015:10:31-11:54:20] Paulo_Martins Agora, é empregue como um Medico
+[2015:10:31-11:54:27] Paulo_Martins spawned a(n) Ambulance
+[2015:10:31-11:54:50] Thiago_Bispo Agora, é empregue como um Piloto
+[2015:10:31-11:54:56] Thiago_Bispo spawned a(n) Beagle
+[2015:10:31-11:55:17] Matheus_Griff spawned a(n) Cropduster
+[2015:10:31-11:55:33] Matheus_Griff spawned a(n) Beagle
+[2015:10:31-11:58:06] Thiago_Bispo spawned a(n) Stuntplane
+[2015:10:31-11:59:27] Thiago_Bispo morreu
+[2015:10:31-11:59:34] sonyvi Mudou seu nick para thiago_henrique
+[2015:10:31-11:59:34] thiago_henrique Fez um login na conta sonyvi (IP: 201.54.70.87  || Serial: 71FC4A39B8DF61FDB432609FFBB10C02)
+[2015:10:31-11:59:50] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:00:50] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-12:01:37] Matheus_Griff spawned a(n) Beagle
+[2015:10:31-12:02:58] eduardo_breno Agora, é empregue como um Piloto
+[2015:10:31-12:03:06] eduardo_breno spawned a(n) Shamal
+[2015:10:31-12:03:16] Dom_Toretto morreu
+[2015:10:31-12:03:39] Dom_Toretto spawned a(n) Savanna
+[2015:10:31-12:05:17] thiago_henrique morreu
+[2015:10:31-12:05:44] thiago_henrique spawned a(n) Caddy
+[2015:10:31-12:06:07] thiago_henrique spawned a(n) Quadbike
+[2015:10:31-12:06:35] Olicio_Junior spawned a(n) Savanna
+[2015:10:31-12:06:49] Thiago_Bispo morreu
+[2015:10:31-12:07:05] Mello_Fuck_ morreu
+[2015:10:31-12:07:18] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:08:16] Mello_Fuck_ spawned a(n) PCJ-600
+[2015:10:31-12:08:18] Olicio_Junior Agora, é empregue como um Criminoso
+[2015:10:31-12:08:25] Olicio_Junior spawned a(n) PCJ-600
+[2015:10:31-12:08:36] Lucas_Maia_Rocha_ morreu
+[2015:10:31-12:08:54] Olicio_Junior spawned a(n) Voodoo
+[2015:10:31-12:09:03] sponge_silva morreu
+[2015:10:31-12:09:35] Ricardo_Lima Mudou seu nick para ricardo_lima
+[2015:10:31-12:09:35] ricardo_lima Fez um login na conta ricardo (IP: 191.54.68.152  || Serial: 989FCBF25053C3903820AAFCE0F62A42)
+[2015:10:31-12:09:38] Tiago_Santos Agora, é empregue como um Motorista
+[2015:10:31-12:09:44] ricardo_lima spawned a(n) Shamal
+[2015:10:31-12:09:53] eduardo_breno morreu
+[2015:10:31-12:09:53] Tiago_Santos spawned a(n) Bus
+[2015:10:31-12:10:13] Matheus_Griff morreu
+[2015:10:31-12:10:25] Lucas_Maia_Rocha_ Agora, é empregue como um Mecanico
+[2015:10:31-12:10:30] Lucas_Maia_Rocha_ spawned a(n) Utility Van
+[2015:10:31-12:10:33] Thiago_Bispo morreu
+[2015:10:31-12:10:41] eduardo_breno spawned a(n) Savanna
+[2015:10:31-12:10:42] |FaZe|-=[V]ictor=- Mudou seu nick para victor_viana
+[2015:10:31-12:10:42] victor_viana Fez um login na conta victor (IP: 177.64.229.207  || Serial: C8A483D388C45CD9AB2B02E45C3C14F4)
+[2015:10:31-12:11:03] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:11:23] victor_viana spawned a(n) Police LS
+[2015:10:31-12:12:06] FAHED Mudou seu nick para fahed_griggi
+[2015:10:31-12:12:06] fahed_griggi Fez um login na conta fahedgriggi (IP: 179.216.197.10  || Serial: 5FA63322F5FF9D0D171A9078AB3D5B93)
+[2015:10:31-12:12:12] Thiago_Bispo morreu
+[2015:10:31-12:12:25] Lucas_Maia_Rocha_ Agora, é empregue como um Piloto
+[2015:10:31-12:12:33] Lucas_Maia_Rocha_ spawned a(n) Shamal
+[2015:10:31-12:12:38] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:12:43] fahed_griggi spawned a(n) Police LS
+[2015:10:31-12:13:16] #FF0000|PCC|Texugo Mudou seu nick para |PCC|Texugo
+[2015:10:31-12:13:44] fahed_griggi Agora, é empregue como um Criminoso
+[2015:10:31-12:13:49] fahed_griggi spawned a(n) PCJ-600
+[2015:10:31-12:14:44] Paulo_Martins Agora, é empregue como um Piloto
+[2015:10:31-12:14:49] Paulo_Martins spawned a(n) Shamal
+[2015:10:31-12:15:47] victor_viana Agora, é empregue como um Piloto
+[2015:10:31-12:15:53] victor_viana spawned a(n) Shamal
+[2015:10:31-12:16:01] sponge_silva spawned a(n) Savanna
+[2015:10:31-12:16:34] Dom_Toretto Agora, é empregue como um stunter
+[2015:10:31-12:16:41] Dom_Toretto spawned a(n) PCJ-600
+[2015:10:31-12:16:49] Mello_Fuck_ Agora, é empregue como um Motorista
+[2015:10:31-12:16:54] Mello_Fuck_ spawned a(n) Bus
+[2015:10:31-12:17:07] Lucas_Maia_Rocha_ spawned a(n) Shamal
+[2015:10:31-12:17:34] fahed_griggi Agora, é empregue como um Piloto
+[2015:10:31-12:17:44] Matheus_Griff morreu
+[2015:10:31-12:17:44] fahed_griggi spawned a(n) Shamal
+[2015:10:31-12:18:28] fahed_griggi spawned a(n) Stuntplane
+[2015:10:31-12:19:01] fahed_griggi spawned a(n) Shamal
+[2015:10:31-12:20:01] |PCC|Texugo Mudou seu nick para felipe_azevedo
+[2015:10:31-12:20:01] felipe_azevedo Fez um login na conta gamerz (IP: 200.150.98.42  || Serial: 3B3978BE3C2FDA5EBDDD0B0ACB84CC03)
+[2015:10:31-12:20:02] thiago_henrique morreu
+[2015:10:31-12:20:05] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-12:20:29] fahed_griggi morreu
+[2015:10:31-12:20:32] #DarkNees Mudou seu nick para Thiago_Bispo
+[2015:10:31-12:20:32] Thiago_Bispo Fez um login na conta thiago123 (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-12:20:48] felipe_azevedo spawned a(n) Police LS
+[2015:10:31-12:20:52] sponge_silva Agora, é empregue como um Criminoso
+[2015:10:31-12:20:56] sponge_silva spawned a(n) Sentinel
+[2015:10:31-12:21:01] fahed_griggi spawned a(n) Savanna
+[2015:10:31-12:21:15] Thiago_Bispo morreu
+[2015:10:31-12:22:01] thiago_henrique morreu
+[2015:10:31-12:22:27] Matheus_Griff spawned a(n) Savanna
+[2015:10:31-12:23:10] Olicio_Junior spawned a(n) Sentinel
+[2015:10:31-12:24:17] fahed_griggi spawned a(n) Savanna
+[2015:10:31-12:24:18] Tiago_Santos gerou suaInfernus
+[2015:10:31-12:25:07] thiago_henrique spawned a(n) Savanna
+[2015:10:31-12:25:10] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:25:53] victor_viana morreu
+[2015:10:31-12:25:56] fahed_griggi spawned a(n) Shamal
+[2015:10:31-12:26:21] victor_viana spawned a(n) Savanna
+[2015:10:31-12:26:53] eduardo_breno Agora, é empregue como um Criminoso
+[2015:10:31-12:26:59] eduardo_breno spawned a(n) Voodoo
+[2015:10:31-12:26:59] Olicio_Junior morreu
+[2015:10:31-12:27:05] Tiago_Santos Agora, é empregue como um Caminhoneiro
+[2015:10:31-12:27:14] Tiago_Santos spawned a(n) Tanker
+[2015:10:31-12:27:27] fahed_griggi morreu
+[2015:10:31-12:27:37] Olicio_Junior spawned a(n) Savanna
+[2015:10:31-12:28:07] eduardo_breno morreu
+[2015:10:31-12:28:12] fahed_griggi spawned a(n) Savanna
+[2015:10:31-12:28:15] felipe_azevedo Agora, é empregue como um PizzaBOY
+[2015:10:31-12:28:26] sponge_silva Agora, é empregue como um Policial
+[2015:10:31-12:28:31] eduardo_breno spawned a(n) Savanna
+[2015:10:31-12:28:32] felipe_azevedo spawned a(n) Pizzaboy
+[2015:10:31-12:28:33] sponge_silva spawned a(n) Police LS
+[2015:10:31-12:28:34] 06 Mudou seu nick para Thiago_Henrique
+[2015:10:31-12:28:34] Thiago_Henrique Fez um login na conta MJ_RT7 (IP: 131.0.117.3  || Serial: 82F37505CF964908E2BB12D3D94688E4)
+[2015:10:31-12:28:44] Thiago_Bispo Agora, é empregue como um Piloto
+[2015:10:31-12:28:49] Thiago_Bispo spawned a(n) Beagle
+[2015:10:31-12:29:02] sponge_silva spawned a(n) Police LS
+[2015:10:31-12:29:53] Matheus Griff Foi Solto!
+[2015:10:31-12:30:08] fahed_griggi spawned a(n) Shamal
+[2015:10:31-12:30:19] sponge_silva spawned a(n) Police LS
+[2015:10:31-12:30:28] fahed_griggi morreu
+[2015:10:31-12:30:40] Matheus_Griff morreu
+[2015:10:31-12:30:46] Thiago_Henrique spawned a(n) Savanna
+[2015:10:31-12:30:46] Olicio_Junior Agora, é empregue como um Piloto
+[2015:10:31-12:30:54] eduardo_breno morreu
+[2015:10:31-12:30:55] Lucas_Maia_Rocha_ morreu
+[2015:10:31-12:30:55] Olicio_Junior spawned a(n) Shamal
+[2015:10:31-12:31:03] Matheus_Griff spawned a(n) Savanna
+[2015:10:31-12:31:04] ricardo_lima morreu
+[2015:10:31-12:31:30] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-12:31:35] ricardo_lima spawned a(n) Savanna
+[2015:10:31-12:32:03] victor_viana spawned a(n) Caddy
+[2015:10:31-12:32:25] eduardo_breno Agora, é empregue como um Medico
+[2015:10:31-12:32:46] Lucas Maia Rocha  Foi Solto!
+[2015:10:31-12:33:11] sponge_silva Agora, é empregue como um Mecanico
+[2015:10:31-12:33:15] sponge_silva spawned a(n) Towtruck
+[2015:10:31-12:33:36] ricardo_lima spawned a(n) Shamal
+[2015:10:31-12:34:05] Lucas_Maia_Rocha_ morreu
+[2015:10:31-12:34:11] sponge_silva morreu
+[2015:10:31-12:34:54] Lucas_Maia_Rocha_ morreu
+[2015:10:31-12:34:54] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-12:35:07] Matheus_Griff Agora, é empregue como um Policial
+[2015:10:31-12:35:13] Matheus_Griff spawned a(n) Police LS
+[2015:10:31-12:35:21] Thiago_Henrique spawned a(n) Savanna
+[2015:10:31-12:35:37] Tiago_Santos morreu
+[2015:10:31-12:36:11] eduardo breno Foi Solto!
+[2015:10:31-12:36:21] Thiago_Bispo morreu
+[2015:10:31-12:36:38] sponge silva Foi Solto!
+[2015:10:31-12:36:56] eduardo_breno morreu
+[2015:10:31-12:37:29] Tiago_Santos escondeu sua Infernus
+[2015:10:31-12:37:31] Thiago_Bispo morreu
+[2015:10:31-12:37:31] Tiago_Santos gerou suaInfernus
+[2015:10:31-12:37:37] sponge_silva morreu
+[2015:10:31-12:37:57] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:38:18] Thiago_Bispo spawned a(n) Savanna
+[2015:10:31-12:38:38] Tiago_Santos Agora, é empregue como um Lixeiro
+[2015:10:31-12:38:45] Tiago_Santos spawned a(n) Trashmaster
+[2015:10:31-12:39:04] ricardo_lima Agora, é empregue como um Lixeiro
+[2015:10:31-12:39:12] ricardo_lima spawned a(n) Trashmaster
+[2015:10:31-12:39:30] sponge_silva morreu
+[2015:10:31-12:39:37] eduardo_breno spawned a(n) Savanna
+[2015:10:31-12:40:18] felipe_azevedo Agora, é empregue como um Lixeiro
+[2015:10:31-12:40:23] felipe_azevedo spawned a(n) Trashmaster
+[2015:10:31-12:41:09] ricardo_lima Agora, é empregue como um Piloto
+[2015:10:31-12:41:15] ricardo_lima spawned a(n) Shamal
+[2015:10:31-12:41:15] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:41:27] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:41:56] Thiago_Henrique spawned a(n) Cropduster
+[2015:10:31-12:42:04] #FF0000##121212LuK~' Mudou seu nick para #LuK~'
+[2015:10:31-12:42:14] eduardo_breno Agora, é empregue como um Caminhoneiro
+[2015:10:31-12:42:15] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:42:25] eduardo_breno spawned a(n) Roadtrain
+[2015:10:31-12:42:46] Thiago_Henrique spawned a(n) Dodo
+[2015:10:31-12:43:40] Thiago_Henrique spawned a(n) Shamal
+[2015:10:31-12:44:10] Matheus_Griff Agora, é empregue como um Piloto
+[2015:10:31-12:44:12] Thiago_Henrique Agora, é empregue como um Piloto
+[2015:10:31-12:44:21] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:44:31] Matheus_Griff spawned a(n) Beagle
+[2015:10:31-12:44:54] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:45:42] Thiago_Henrique morreu
+[2015:10:31-12:45:46] felipe_azevedo Agora, é empregue como um Lixeiro
+[2015:10:31-12:45:50] Matheus_Griff morreu
+[2015:10:31-12:45:50] ricardo_lima spawned a(n) Shamal
+[2015:10:31-12:45:50] ricardo_lima morreu
+[2015:10:31-12:45:50] felipe_azevedo spawned a(n) Trashmaster
+[2015:10:31-12:46:13] Thiago_Henrique spawned a(n) Savanna
+[2015:10:31-12:46:18] Matheus_Griff spawned a(n) Caddy
+[2015:10:31-12:46:29] eduardo_breno Agora, é empregue como um Lixeiro
+[2015:10:31-12:46:34] ricardo_lima spawned a(n) Savanna
+[2015:10:31-12:46:36] eduardo_breno spawned a(n) Trashmaster
+[2015:10:31-12:47:16] reXpeita|O'Conner| Mudou seu nick para Brian_O'Conner
+[2015:10:31-12:47:16] Brian_O'Conner Fez um login na conta viniciusitp (IP: 177.223.8.229  || Serial: C99AE34583A45B406983932629E9E452)
+[2015:10:31-12:47:29] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-12:47:34] Thiago_Henrique spawned a(n) Beagle
+[2015:10:31-12:47:38] Brian_O'Conner spawned a(n) Savanna
+[2015:10:31-12:48:34] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-12:48:58] ricardo_lima Agora, é empregue como um fisherman
+[2015:10:31-12:49:01] eduardo_breno Agora, é empregue como um fisherman
+[2015:10:31-12:49:08] ricardo_lima spawned a(n) Reefer
+[2015:10:31-12:49:14] eduardo_breno spawned a(n) Reefer
+[2015:10:31-12:49:20] Matheus Griff Foi Solto!
+[2015:10:31-12:49:24] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-12:50:18] Matheus_Griff morreu
+[2015:10:31-12:50:50] Tiago_Santos Agora, é empregue como um fisherman
+[2015:10:31-12:50:50] Matheus_Griff spawned a(n) Savanna
+[2015:10:31-12:50:59] Tiago_Santos spawned a(n) Reefer
+[2015:10:31-12:52:28] felipe_azevedo Agora, é empregue como um Policial
+[2015:10:31-12:52:39] Matheus_Griff spawned a(n) Beagle
+[2015:10:31-12:55:21] Thiago_Henrique Agora, é empregue como um Taxista
+[2015:10:31-12:55:27] Thiago_Henrique spawned a(n) Taxi
+[2015:10:31-12:56:33] Thiago_Henrique Agora, é empregue como um Policial
+[2015:10:31-12:56:41] Thiago_Henrique spawned a(n) Police LS
+[2015:10:31-12:58:35] +[G]reg Mudou seu nick para Gabriel_Henrique
+[2015:10:31-12:58:35] Gabriel_Henrique Fez um login na conta Greg12 (IP: 201.74.172.169  || Serial: 9E45EB519144ED7373C551A27FF29C71)
+[2015:10:31-12:59:29] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-12:59:31] 06 Mudou seu nick para Thiago_Henrique
+[2015:10:31-12:59:31] Thiago_Henrique Fez um login na conta MJ_RT7 (IP: 131.0.117.3  || Serial: 82F37505CF964908E2BB12D3D94688E4)
+[2015:10:31-13:00:03] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-13:00:33] #DarkNees Mudou seu nick para Thiago_bispo
+[2015:10:31-13:00:33] Thiago_bispo Fez um login na conta bispin123 (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-13:00:42] Gabriel_Henrique Agora, é empregue como um Mecanico
+[2015:10:31-13:00:45] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-13:00:47] Gabriel_Henrique spawned a(n) Towtruck
+[2015:10:31-13:01:03] #DarkNees Mudou seu nick para Thiago_bispo
+[2015:10:31-13:01:03] Thiago_bispo Fez um login na conta bispin123 (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-13:01:51] Gabriel_Henrique spawned a(n) Utility Van
+[2015:10:31-13:02:41] ##00ffffDarkNees Mudou seu nick para #DarkNees
+[2015:10:31-13:03:10] #DarkNees Mudou seu nick para thiago_bispo
+[2015:10:31-13:03:10] thiago_bispo Fez um login na conta bispin (IP: 189.55.10.223  || Serial: AC1E862DE482B9252E3EFCB3DDE67F71)
+[2015:10:31-13:03:55] Tiago_Santos spawned a(n) Reefer
+[2015:10:31-13:04:07] thiago_bispo Agora, é empregue como um Criminoso
+[2015:10:31-13:04:10] thiago_bispo spawned a(n) PCJ-600
+[2015:10:31-13:04:20] thiago_bispo spawned a(n) Voodoo
+[2015:10:31-13:04:34] thiago_bispo spawned a(n) Sentinel
+[2015:10:31-13:04:52] thiago_bispo spawned a(n) Caddy
+[2015:10:31-13:05:10] Thiago_Henrique spawned a(n) Police LS
+[2015:10:31-13:05:14] thiago_bispo spawned a(n) PCJ-600
+[2015:10:31-13:05:35] +[G]reg Mudou seu nick para Gabriel_Henrique
+[2015:10:31-13:05:35] Gabriel_Henrique Fez um login na conta Greg12 (IP: 201.74.172.169  || Serial: 9E45EB519144ED7373C551A27FF29C71)
+[2015:10:31-13:06:38] Gabriel_Henrique Agora, é empregue como um Criminoso
+[2015:10:31-13:06:40] Thiago_Henrique Agora, é empregue como um Criminoso
+[2015:10:31-13:06:45] Gabriel_Henrique spawned a(n) PCJ-600
+[2015:10:31-13:06:45] Thiago_Henrique spawned a(n) Sentinel
+[2015:10:31-13:07:18] Torres Mudou seu nick para Gabriel_Torres
+[2015:10:31-13:07:18] Gabriel_Torres Fez um login na conta Torres (IP: 177.80.231.204  || Serial: CDAD76DEA098D0169B22FD83530407E4)
+[2015:10:31-13:07:27] SwordRave Mudou seu nick para Lou_Rivas_Noire
+[2015:10:31-13:07:27] Lou_Rivas_Noire Fez um login na conta Politoed4491 (IP: 191.241.0.235  || Serial: E28036FAA3EAA9A2146AB6C4DD721A93)
+[2015:10:31-13:07:34] Gabriel_Torres spawned a(n) Savanna
+[2015:10:31-13:07:43] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:08:00] Gabriel_Henrique spawned a(n) PCJ-600
+[2015:10:31-13:08:06] Gabriel_Torres spawned a(n) Caddy
+[2015:10:31-13:08:25] thiago_bispo spawned a(n) PCJ-600
+[2015:10:31-13:08:37] |K&S|#99ff00StinG^ Mudou seu nick para |K&S|StinG^
+[2015:10:31-13:08:49] Gabriel_Torres morreu
+[2015:10:31-13:08:57] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-13:09:04] Tiago_Santos spawned a(n) Reefer
+[2015:10:31-13:09:13] Gabriel_Torres spawned a(n) Savanna
+[2015:10:31-13:09:22] D#ff0054aniel#00bbbb Mudou seu nick para Daniel
+[2015:10:31-13:09:24] Matheus_Griff Agora, é empregue como um Lixeiro
+[2015:10:31-13:09:30] Matheus_Griff spawned a(n) Trashmaster
+[2015:10:31-13:10:45] Gabriel_Henrique Agora, é empregue como um fisherman
+[2015:10:31-13:10:54] Gabriel_Henrique spawned a(n) Reefer
+[2015:10:31-13:11:02] thiago_bispo Agora, é empregue como um Piloto
+[2015:10:31-13:11:07] thiago_bispo spawned a(n) Beagle
+[2015:10:31-13:11:20] thiago_bispo spawned a(n) Shamal
+[2015:10:31-13:11:34] thiago_bispo spawned a(n) Cropduster
+[2015:10:31-13:11:40] Matheus_Griff Agora, é empregue como um PizzaBOY
+[2015:10:31-13:11:57] Matheus_Griff spawned a(n) Pizzaboy
+[2015:10:31-13:12:38] thiago_bispo morreu
+[2015:10:31-13:13:19] Thiago_Henrique morreu
+[2015:10:31-13:13:23] thiago_bispo spawned a(n) Savanna
+[2015:10:31-13:14:24] |K&S|#99ff00StinG^ Mudou seu nick para |K&S|StinG^
+[2015:10:31-13:14:26] Gabriel_Torres spawned a(n) Dodo
+[2015:10:31-13:14:42] thiago_bispo spawned a(n) Stuntplane
+[2015:10:31-13:15:31] Lou_Rivas_Noire spawned a(n) Shamal
+[2015:10:31-13:16:23] |K&S|StinG^ Mudou seu nick para StinG_SantoS
+[2015:10:31-13:16:23] StinG_SantoS Fez um login na conta Stingsantos (IP: 201.29.93.218  || Serial: 539DF67FBA519F5A58DB131B057FC971)
+[2015:10:31-13:16:34] Gabriel_Torres spawned a(n) Dodo
+[2015:10:31-13:16:58] 06 Mudou seu nick para Thiago_Henrique
+[2015:10:31-13:16:58] Thiago_Henrique Fez um login na conta MJ_RT7 (IP: 131.0.117.3  || Serial: 82F37505CF964908E2BB12D3D94688E4)
+[2015:10:31-13:17:05] MRosse Mudou seu nick para Matheus_Rosse
+[2015:10:31-13:17:05] Matheus_Rosse Fez um login na conta matheus82 (IP: 179.191.49.153  || Serial: 01FA1C82496E3EB44EE4A525247D53F3)
+[2015:10:31-13:18:14] Gabriel_Henrique Mudou seu nick para +Greg
+[2015:10:31-13:18:35] thiago_bispo spawned a(n) Stuntplane
+[2015:10:31-13:18:53] Matheus_Rosse Agora, é empregue como um Policial
+[2015:10:31-13:18:59] Matheus_Rosse spawned a(n) Police LS
+[2015:10:31-13:19:05] thiago_bispo spawned a(n) Stuntplane
+[2015:10:31-13:19:16] Matheus_Rosse spawned a(n) Police LS
+[2015:10:31-13:19:18] StinG_SantoS morreu
+[2015:10:31-13:19:47] Matheus_Rosse spawned a(n) Savanna
+[2015:10:31-13:19:49] StinG_SantoS spawned a(n) Savanna
+[2015:10:31-13:20:07] Thiago_Henrique spawned a(n) Savanna
+[2015:10:31-13:20:10] Lou_Rivas_Noire morreu
+[2015:10:31-13:20:26] Gabriel_Torres morreu
+[2015:10:31-13:20:41] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:20:49] Gabriel_Torres spawned a(n) Savanna
+[2015:10:31-13:21:44] Lou_Rivas_Noire morreu
+[2015:10:31-13:22:03] #228b22EB/CABO/Dexty^ Mudou seu nick para EB/CABO/Dexty^
+[2015:10:31-13:22:21] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:22:23] Gabriel_Torres spawned a(n) Dodo
+[2015:10:31-13:22:23] ricardo_lima spawned a(n) Reefer
+[2015:10:31-13:22:32] EB/CABO/Dexty^ Mudou seu nick para Emerson_Gabriel
+[2015:10:31-13:22:32] Emerson_Gabriel Fez um login na conta Emerson_Gabriel (IP: 177.101.12.114  || Serial: A9D37D1AE56DE1B1BE2C0CFAF5240993)
+[2015:10:31-13:22:45] Emerson_Gabriel Agora, é empregue como um Piloto
+[2015:10:31-13:22:56] Emerson_Gabriel spawned a(n) Cropduster
+[2015:10:31-13:23:12] Emerson_Gabriel spawned a(n) Stuntplane
+[2015:10:31-13:23:20] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:23:24] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:23:48] thiago_bispo morreu
+[2015:10:31-13:24:05] Matheus_Rosse spawned a(n) Savanna
+[2015:10:31-13:24:40] thiago_bispo spawned a(n) Savanna
+[2015:10:31-13:25:06] He=Man Mudou seu nick para Ervino_Silva
+[2015:10:31-13:25:06] Ervino_Silva Fez um login na conta ervino_silva (IP: 187.63.160.1  || Serial: C94C39BEA09127531D9A589A3B394544)
+[2015:10:31-13:25:23] Lou_Rivas_Noire spawned a(n) Shamal
+[2015:10:31-13:25:25] eduardo_breno morreu
+[2015:10:31-13:25:37] Ervino_Silva spawned a(n) Savanna
+[2015:10:31-13:25:41] Thiago_Henrique Agora, é empregue como um Piloto
+[2015:10:31-13:25:51] eduardo_breno spawned a(n) Savanna
+[2015:10:31-13:25:54] Thiago_Henrique spawned a(n) Cropduster
+[2015:10:31-13:26:05] Thiago_Henrique spawned a(n) Stuntplane
+[2015:10:31-13:27:07] Thiago_Henrique morreu
+[2015:10:31-13:27:09] StinG_SantoS Agora, é empregue como um stunter
+[2015:10:31-13:27:19] StinG_SantoS spawned a(n) PCJ-600
+[2015:10:31-13:27:37] Thiago_Henrique spawned a(n) Savanna
+[2015:10:31-13:27:42] Lou_Rivas_Noire morreu
+[2015:10:31-13:28:04] eduardo_breno Agora, é empregue como um Criminoso
+[2015:10:31-13:28:08] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:28:10] eduardo_breno spawned a(n) Sentinel
+[2015:10:31-13:28:43] MrDavid Mudou seu nick para davi_alves_grapp
+[2015:10:31-13:28:43] davi_alves_grapp Fez um login na conta MrDavid (IP: 189.75.46.238  || Serial: D67135AF9CC43E0EF54FB67AB183C454)
+[2015:10:31-13:29:25] davi_alves_grapp morreu
+[2015:10:31-13:29:58] Ervino_Silva Agora, é empregue como um Piloto
+[2015:10:31-13:30:09] Ervino_Silva spawned a(n) Shamal
+[2015:10:31-13:30:18] davi_alves_grapp spawned a(n) Savanna
+[2015:10:31-13:30:58] Thiago_Henrique spawned a(n) Stuntplane
+[2015:10:31-13:31:32] Lou_Rivas_Noire spawned a(n) Shamal
+[2015:10:31-13:31:43] davi_alves_grapp Agora, é empregue como um Criminoso
+[2015:10:31-13:31:47] davi_alves_grapp spawned a(n) PCJ-600
+[2015:10:31-13:32:02] Lou_Rivas_Noire morreu
+[2015:10:31-13:32:09] Thiago_Henrique morreu
+[2015:10:31-13:32:29] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:32:35] Thiago_Henrique Agora, é empregue como um Medico
+[2015:10:31-13:32:39] Thiago_Henrique spawned a(n) Ambulance
+[2015:10:31-13:33:20] Thiago_Henrique Agora, é empregue como um Mecanico
+[2015:10:31-13:33:24] Thiago_Henrique spawned a(n) Towtruck
+[2015:10:31-13:33:39] Thiago_Henrique spawned a(n) Utility Van
+[2015:10:31-13:34:55] FrostDikFire Mudou seu nick para ProFillerBR_
+[2015:10:31-13:34:55] ProFillerBR_ Fez um login na conta FrostDikFire (IP: 179.180.244.194  || Serial: F24699EE16C6128282D43921EB529094)
+[2015:10:31-13:36:10] ProFillerBR_ Agora, é empregue como um Policial
+[2015:10:31-13:36:16] ProFillerBR_ Agora, é empregue como um Policial
+[2015:10:31-13:36:18] Ervino_Silva spawned a(n) Shamal
+[2015:10:31-13:36:34] IVAN-PR Mudou seu nick para Ivan_Passos
+[2015:10:31-13:36:34] Ivan_Passos Fez um login na conta Ivan_Passos (IP: 177.105.160.88  || Serial: B6F9FC9B7AD9B96AAE4625B2E34FD043)
+[2015:10:31-13:37:09] Ivan_Passos spawned a(n) Savanna
+[2015:10:31-13:38:44] [M]atheus Mudou seu nick para Matheus_Antunes
+[2015:10:31-13:38:44] Matheus_Antunes Fez um login na conta TeteusmaBR (IP: 200.215.161.9  || Serial: 017BFCC0E035B1834E9EA0B5E49646B3)
+[2015:10:31-13:39:46] Ervino_Silva Agora, é empregue como um Policial
+[2015:10:31-13:39:52] Ervino_Silva spawned a(n) Police LS
+[2015:10:31-13:40:05] Lou_Rivas_Noire morreu
+[2015:10:31-13:41:01] Ricardo_Lima Mudou seu nick para ricardo_lima
+[2015:10:31-13:41:01] ricardo_lima Fez um login na conta ricardo (IP: 191.54.68.152  || Serial: 989FCBF25053C3903820AAFCE0F62A42)
+[2015:10:31-13:41:20] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:41:25] Ivan_Passos Agora, é empregue como um Piloto
+[2015:10:31-13:41:31] Ivan_Passos spawned a(n) Dodo
+[2015:10:31-13:41:48] #02F69d##c1c1c1yLucas Mudou seu nick para #yLucas
+[2015:10:31-13:41:55] Thiago_Henrique Agora, é empregue como um Piloto
+[2015:10:31-13:42:00] Thiago_Henrique spawned a(n) Shamal
+[2015:10:31-13:42:19] FrostDikFire Mudou seu nick para ProFillerBR_
+[2015:10:31-13:42:19] ProFillerBR_ Fez um login na conta FrostDikFire (IP: 179.180.244.194  || Serial: F24699EE16C6128282D43921EB529094)
+[2015:10:31-13:42:31] ricardo_lima spawned a(n) Reefer
+[2015:10:31-13:42:46] StinG_SantoS Agora, é empregue como um fisherman
+[2015:10:31-13:42:46] ProFillerBR_ spawned a(n) Police LS
+[2015:10:31-13:43:00] StinG_SantoS spawned a(n) Reefer
+[2015:10:31-13:43:10] Lou_Rivas_Noire morreu
+[2015:10:31-13:43:58] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:44:01] ricardo_lima spawned a(n) Reefer
+[2015:10:31-13:44:54] Lou_Rivas_Noire Agora, é empregue como um Criminoso
+[2015:10:31-13:45:11] Lou_Rivas_Noire spawned a(n) PCJ-600
+[2015:10:31-13:45:12] Ivan_Passos morreu
+[2015:10:31-13:45:59] Ivan_Passos spawned a(n) Quadbike
+[2015:10:31-13:46:01] Matheus_Antunes Agora, é empregue como um Taxista
+[2015:10:31-13:46:05] Matheus_Antunes spawned a(n) Taxi
+[2015:10:31-13:46:51] Matheus_Antunes Agora, é empregue como um stunter
+[2015:10:31-13:46:56] Matheus_Antunes spawned a(n) PCJ-600
+[2015:10:31-13:47:24] Ivan_Passos Agora, é empregue como um Criminoso
+[2015:10:31-13:47:30] Ivan_Passos spawned a(n) Sentinel
+[2015:10:31-13:47:54] Lou_Rivas_Noire Agora, é empregue como um Piloto
+[2015:10:31-13:48:11] Lou_Rivas_Noire spawned a(n) Shamal
+[2015:10:31-13:50:13] Lou_Rivas_Noire spawned a(n) Savanna
+[2015:10:31-13:52:25] Matheus_Rosse Agora, é empregue como um Entregador
+[2015:10:31-13:52:29] Matheus_Rosse spawned a(n) Burrito
+[2015:10:31-13:52:47] StinG_SantoS spawned a(n) Reefer
+[2015:10:31-13:55:40] StinG_SantoS morreu
+[2015:10:31-13:55:50] #02F69d##c1c1c1yLucas Mudou seu nick para #yLucas
+[2015:10:31-13:55:55] Matheus_Antunes Agora, é empregue como um Piloto
+[2015:10:31-13:56:01] Matheus_Antunes spawned a(n) Shamal
+[2015:10:31-13:56:10] StinG_SantoS spawned a(n) Quadbike
+[2015:10:31-13:56:36] Ivan_Passos spawned a(n) Savanna
+[2015:10:31-13:56:37] Matheus_Antunes spawned a(n) Shamal
+[2015:10:31-13:58:26] #yLucas Mudou seu nick para Lucas_Matheus
+[2015:10:31-13:58:26] Lucas_Matheus Fez um login na conta #yLucas (IP: 177.33.14.241  || Serial: F049A089B4F4C024381219A0ACAFC702)
+[2015:10:31-13:58:49] SwordRave Mudou seu nick para Lou_Rivas_Noire
+[2015:10:31-13:58:49] Lou_Rivas_Noire Fez um login na conta Politoed4491 (IP: 191.241.0.235  || Serial: E28036FAA3EAA9A2146AB6C4DD721A93)
+[2015:10:31-13:59:01] #a8a8a8Dexty#00ff00^ Mudou seu nick para Dexty^
+[2015:10:31-13:59:11] Lou_Rivas_Noire Agora, é empregue como um Piloto
+[2015:10:31-13:59:35] Dexty^ Mudou seu nick para Emerson_Gabriel
+[2015:10:31-13:59:35] Emerson_Gabriel Fez um login na conta Emerson_Gabriel (IP: 177.101.12.114  || Serial: A9D37D1AE56DE1B1BE2C0CFAF5240993)
+[2015:10:31-13:59:40] Lou_Rivas_Noire spawned a(n) Shamal
+[2015:10:31-14:00:02] Ivan_Passos Agora, é empregue como um fisherman
+[2015:10:31-14:00:12] Ivan_Passos spawned a(n) Reefer
+[2015:10:31-14:00:42] Emerson_Gabriel Agora, é empregue como um Piloto
+[2015:10:31-14:00:49] Emerson_Gabriel spawned a(n) Stuntplane
+[2015:10:31-14:02:27] SwordRave Mudou seu nick para Lou_Rivas_Noire
+[2015:10:31-14:02:27] Lou_Rivas_Noire Fez um login na conta Politoed4491 (IP: 191.241.0.235  || Serial: E28036FAA3EAA9A2146AB6C4DD721A93)
+[2015:10:31-14:03:54] Ivan_Passos spawned a(n) Reefer
+[2015:10:31-14:06:04] #FF0000##121212LuK~' Mudou seu nick para #LuK~'
+[2015:10:31-14:07:11] #LuK~' Mudou seu nick para Lucas_Maia_Rocha_
+[2015:10:31-14:07:11] Lucas_Maia_Rocha_ Fez um login na conta lucas_maia (IP: 189.13.203.13  || Serial: 7E86DFCB386254C445D1B954AFFDC084)
+[2015:10:31-14:09:27] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-14:10:49] Matheus_Rosse morreu
+[2015:10:31-14:11:21] Matheus_Rosse spawned a(n) Savanna
+[2015:10:31-14:11:46] Lucas_Maia_Rocha_ Agora, é empregue como um Piloto
+[2015:10:31-14:11:56] Lucas_Maia_Rocha_ spawned a(n) Shamal
+[2015:10:31-14:12:07] BrunO Mudou seu nick para Bruno_jose_pacheco_
+[2015:10:31-14:12:07] Bruno_jose_pacheco_ Fez um login na conta srv0023BrunO (IP: 189.101.224.167  || Serial: B0648127F0B986B3D30275FD46B71243)
+[2015:10:31-14:12:15] Ivan_Passos spawned a(n) Reefer
+[2015:10:31-14:13:18] TIGS Mudou seu nick para Tiago_Santos
+[2015:10:31-14:13:18] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-14:13:53] Bruno_jose_pacheco_ spawned a(n) Savanna
+[2015:10:31-14:14:01] #FF0000##121212LuK~' Mudou seu nick para #LuK~'
+[2015:10:31-14:14:02] Tiago_Santos spawned a(n) Reefer
+[2015:10:31-14:15:50] #LuK~' Mudou seu nick para Lucas_Maia_Rocha_
+[2015:10:31-14:15:50] Lucas_Maia_Rocha_ Fez um login na conta lucas_maia (IP: 189.13.203.13  || Serial: 7E86DFCB386254C445D1B954AFFDC084)
+[2015:10:31-14:17:04] Lucas_Maia_Rocha_ spawned a(n) Shamal
+[2015:10:31-14:17:40] Ivan_Passos spawned a(n) Reefer
+[2015:10:31-14:19:34] Lucas_Maia_Rocha_ morreu
+[2015:10:31-14:19:54] ExBr|Coronel.SouZa Mudou seu nick para Hygor_De_Souza
+[2015:10:31-14:19:54] Hygor_De_Souza Fez um login na conta hygoorr (IP: 189.101.224.167  || Serial: DCA403477248A629FC2465AEA7CF2EF4)
+[2015:10:31-14:20:10] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-14:20:27] Thor Mudou seu nick para apolo_sousa
+[2015:10:31-14:20:27] apolo_sousa Fez um login na conta apolo349 (IP: 177.131.15.1  || Serial: 768E9FFBBC255BA81572F6A0E023FB53)
+[2015:10:31-14:20:27] GuiGui Mudou seu nick para Guilherme_Sousa
+[2015:10:31-14:20:27] Guilherme_Sousa Fez um login na conta Guilherme18 (IP: 187.79.234.202  || Serial: 3B0BA84511E5A1792F951AD39FF7F644)
+[2015:10:31-14:21:33] Tiago_Santos gerou suaInfernus
+[2015:10:31-14:23:29] Tiago_Santos escondeu sua Infernus
+[2015:10:31-14:24:09] Tiago_Santos gerou suaInfernus
+[2015:10:31-14:24:09] Lucas_Maia_Rocha_ morreu
+[2015:10:31-14:24:45] ExBr|Coronel.SouZa Mudou seu nick para Hygor_De_Souza
+[2015:10:31-14:24:45] Hygor_De_Souza Fez um login na conta hygoorr (IP: 189.101.224.167  || Serial: DCA403477248A629FC2465AEA7CF2EF4)
+[2015:10:31-14:26:36] GuiGui Mudou seu nick para Guilherme_Sousa
+[2015:10:31-14:26:36] Guilherme_Sousa Fez um login na conta Guilherme18 (IP: 187.79.234.202  || Serial: 3B0BA84511E5A1792F951AD39FF7F644)
+[2015:10:31-14:26:43] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-14:26:54] #b2b2b2Falke#FFFF00N Mudou seu nick para FalkeN
+[2015:10:31-14:28:34] FalkeN Mudou seu nick para Simo_Hayha
+[2015:10:31-14:28:34] Simo_Hayha Fez um login na conta Simo_Hayha (IP: 179.233.151.219  || Serial: AA5BA92BAF81A8511AF8E8F1D2F889A4)
+[2015:10:31-14:29:14] Tiago_Santos gerou suaAdmiral
+[2015:10:31-14:29:14] Tiago_Santos escondeu sua Admiral
+[2015:10:31-14:29:17] Tiago_Santos gerou suaAdmiral
+[2015:10:31-14:29:23] Tiago_Santos escondeu sua Admiral
+[2015:10:31-14:29:40] Tiago_Santos escondeu sua Admiral
+[2015:10:31-14:30:08] Guilherme_Sousa morreu
+[2015:10:31-14:32:06] Tiago_Santos Agora, é empregue como um Policial
+[2015:10:31-14:32:18] Hygor_De_Souza Agora, é empregue como um Policial
+[2015:10:31-14:32:19] Tiago_Santos spawned a(n) Police LS
+[2015:10:31-14:32:41] Bruno_jose_pacheco_ Agora, é empregue como um Policial
+[2015:10:31-14:32:48] Bruno_jose_pacheco_ spawned a(n) Police LS
+[2015:10:31-14:33:54] Lucas_Maia_Rocha_ Agora, é empregue como um Piloto
+[2015:10:31-14:34:09] Lucas_Maia_Rocha_ spawned a(n) Shamal
+[2015:10:31-14:37:06] Lucas_Maia_Rocha_ morreu
+[2015:10:31-14:38:53] Guilherme_Sousa morreu
+[2015:10:31-14:38:58] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-14:40:52] Lucas_Maia_Rocha_ spawned a(n) Savanna
+[2015:10:31-14:42:11] Ivan_Passos Agora, é empregue como um Criminoso
+[2015:10:31-14:42:19] Ivan_Passos spawned a(n) PCJ-600
+[2015:10:31-14:42:58] ExBr|Coronel.SouZa Mudou seu nick para Hygor_De_Souza
+[2015:10:31-14:42:58] Hygor_De_Souza Fez um login na conta hygoorr (IP: 189.101.224.167  || Serial: DCA403477248A629FC2465AEA7CF2EF4)
+[2015:10:31-14:43:46] Bruno_jose_pacheco_ Agora, é empregue como um Caminhoneiro
+[2015:10:31-14:43:56] Bruno_jose_pacheco_ spawned a(n) Roadtrain
+[2015:10:31-14:45:16] Guilherme_Sousa morreu
+[2015:10:31-14:45:39] Guilherme_Sousa spawned a(n) Quadbike
+[2015:10:31-14:45:44] Ivan_Passos Agora, é empregue como um PizzaBOY
+[2015:10:31-14:45:53] Ivan_Passos spawned a(n) Pizzaboy
+[2015:10:31-14:46:12] Guilherme_Sousa spawned a(n) Savanna
+[2015:10:31-14:47:11] Lucas_Maia_Rocha_ Agora, é empregue como um PizzaBOY
+[2015:10:31-14:47:20] Lucas_Maia_Rocha_ spawned a(n) Pizzaboy
+[2015:10:31-14:49:22] Thales Mudou seu nick para [T]hales
+[2015:10:31-14:53:55] ExBr|Coronel.SouZa Mudou seu nick para Hygor_De_Souza
+[2015:10:31-14:53:55] Hygor_De_Souza Fez um login na conta hygoorr (IP: 189.101.224.167  || Serial: DCA403477248A629FC2465AEA7CF2EF4)
+[2015:10:31-14:55:54] |K&S|#99ff00StinG^ Mudou seu nick para |K&S|StinG^
+[2015:10:31-14:56:36] Tiago_Santos está como admih
+[2015:10:31-14:57:07] Hygor_De_Souza está como admih
+[2015:10:31-14:57:14] Bruno_jose_pacheco_ morreu
+[2015:10:31-14:57:35] |K&S|StinG^ Mudou seu nick para StinG_SantoS
+[2015:10:31-14:57:35] StinG_SantoS Fez um login na conta Stingsantos (IP: 201.29.12.14  || Serial: 539DF67FBA519F5A58DB131B057FC971)
+[2015:10:31-14:58:11] Bruno_jose_pacheco_ está como admih
+[2015:10:31-14:58:24] StinG_SantoS morreu
+[2015:10:31-14:58:59] StinG_SantoS spawned a(n) Savanna
+[2015:10:31-15:00:31] ykiller Mudou seu nick para Patrick_Martins
+[2015:10:31-15:00:31] Patrick_Martins Fez um login na conta yKiller06 (IP: 189.13.123.153  || Serial: 4553FC72E6E911E1C59EAEA270312A52)
+[2015:10:31-15:03:00] Patrick_Martins spawned a(n) Savanna
+[2015:10:31-15:05:34] Thales Mudou seu nick para Sem_Nome
+[2015:10:31-16:13:39] DS_#00ff55Matias Mudou seu nick para DS_Matias
+[2015:10:31-16:13:40] DS_Matias Mudou seu nick para Sem_Nome
+[2015:10:31-16:15:50] Sem_Nome Mudou seu nick para Willams_Matias
+[2015:10:31-16:15:50] Willams_Matias Fez um login na conta matias (IP: 179.154.78.111  || Serial: F9016385B19B38EE456F0DF8BE99FBA4)
+[2015:10:31-17:34:57] Willams_Matias morreu
+[2015:10:31-19:53:21] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-19:54:51] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-19:54:51] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-20:06:10] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-20:12:03] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-22:11:44] TIGS Mudou seu nick para Sem_Nome
+[2015:10:31-22:12:35] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:31-22:12:35] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:31-23:16:52] matheus_griff Mudou seu nick para Sem_Nome
+[2015:10:31-23:18:22] Sem_Nome Mudou seu nick para Matheus_Griff
+[2015:10:31-23:18:22] Matheus_Griff Fez um login na conta matheusgriff (IP: 179.108.184.15  || Serial: 893426EBCA3B43D2DE6D16679B5939A3)
+[2015:10:31-23:19:41] Matheus_Griff morreu

@@ -1,0 +1,82 @@
+<meta>	
+	<info author="TIGS98" name="VDBGHud" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<script src="hud-c.luac" type="client" />
+	<script src="loja-c.luac" type="client" />
+	<file src="arquivos/opensans.ttf" type="client"/>
+	
+	<file src="arquivos/ammo.png" />
+	<file src="arquivos/health.png" />
+    <file src="arquivos/fome.png" />
+	<file src="arquivos/item.png" />
+	<file src="arquivos/exp.png" />
+	<file src="arquivos/sede.png" />
+	<file src="arquivos/colete.png" />
+	<file src="arquivos/font.ttf" />	
+	<file src="arquivos/font2.ttf" />	
+	
+	
+	<file src="arquivos/panel1.png" />	
+	<file src="arquivos/panel0.png" />	
+	
+
+	<file src="arquivos/fome_back.png" />
+	<file src="arquivos/sede_back.png" />
+	<file src="arquivos/colete_back.png" />
+	<file src="arquivos/health_back.png" />
+	
+    <file src="arquivos/loja_diamantes_back.png" />
+	<file src="arquivos/loja_diamantes.png" />
+	
+	<file src="arquivos/armas/0.png" />
+	<file src="arquivos/armas/1.png" />
+	<file src="arquivos/armas/2.png" />
+    <file src="arquivos/armas/3.png" />
+	<file src="arquivos/armas/4.png" />
+	<file src="arquivos/armas/5.png" />
+	<file src="arquivos/armas/6.png" />
+	<file src="arquivos/armas/7.png" />
+	<file src="arquivos/armas/8.png" />
+	<file src="arquivos/armas/9.png" />
+	<file src="arquivos/armas/10.png" />
+	<file src="arquivos/armas/11.png" />
+	<file src="arquivos/armas/12.png" />
+	<file src="arquivos/armas/14.png" />
+    <file src="arquivos/armas/15.png" />
+	<file src="arquivos/armas/16.png" />
+	<file src="arquivos/armas/17.png" />
+    <file src="arquivos/armas/18.png" />
+    <file src="arquivos/armas/22.png" />
+    <file src="arquivos/armas/23.png" />
+	<file src="arquivos/armas/24.png" />
+	<file src="arquivos/armas/25.png" />
+	<file src="arquivos/armas/26.png" />
+	<file src="arquivos/armas/27.png" />
+    <file src="arquivos/armas/28.png" />
+	<file src="arquivos/armas/29.png" />
+	<file src="arquivos/armas/30.png" />
+	<file src="arquivos/armas/31.png" />
+	<file src="arquivos/armas/32.png" />
+    <file src="arquivos/armas/33.png" />
+	<file src="arquivos/armas/34.png" />
+	<file src="arquivos/armas/35.png" />
+	<file src="arquivos/armas/36.png" />
+	<file src="arquivos/armas/37.png" />
+	<file src="arquivos/armas/38.png" />
+	<file src="arquivos/armas/39.png" />
+	<file src="arquivos/armas/40.png" />
+	<file src="arquivos/armas/41.png" />
+	<file src="arquivos/armas/42.png" />
+	<file src="arquivos/armas/43.png" />
+	<file src="arquivos/armas/46.png" />
+	
+	
+	<file src="arquivos/1.png" />
+	<file src="arquivos/2.png" />
+	<file src="arquivos/3.png" />
+	<file src="arquivos/4.png" />
+	<file src="arquivos/5.png" />
+	<file src="arquivos/6.png" />
+		
+</meta>

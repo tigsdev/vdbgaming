@@ -1,0 +1,14 @@
+<meta>
+	<info author="TIGS98" name="VDBGEvents" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	<script src="event-server.lua" type="server" />
+	<script src="eventos/Evrace-s.lua" type="server" />
+	<script src="eventos/Evrace-c.lua" type="client" />
+	<script src="eventos/lsrace-s.lua" type="server" />
+	<script src="eventos/lsrace-c.lua" type="client" />
+	<script src="eventos/barcorace-s.lua" type="server" />
+	<script src="eventos/barcorace-c.luac" type="client" />
+	
+	<export function="isPlayerInEvent"  />
+	<export function="getEventInfo"  />
+</meta>

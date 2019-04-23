@@ -1,0 +1,78 @@
+<meta>
+	<info author="TIGS98" name="VDBGJobs" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    <oop>true</oop>
+
+    <script src="jobs-c.luac" type="client" />
+    <script src="jobs-s.lua" type="server" />
+	<script src="mods/mods-c.luac" type="client" />
+    <export function="addPlayerToJobDatabase" />
+    <export function="updateJobColumn" />
+    <export function="getJobColumnData" />
+    <export function="setPlayerJob" />
+    <export function="updateRank" />
+    <export function="getJobRankTable" />
+	<export function="getPlayersByJob" />
+	<export function="getPlayerJob" />
+	
+
+	<file src="mods/17.txd" />
+	<file src="mods/17.dff" />
+    <script src="mods/replace.luac" type="client" />
+    
+    <script src="jobs/criminoso/robloja-s.lua" type="server" />
+    <script src="jobs/criminoso/robloja-c.luac" type="client" />
+	
+    <script src="jobs/criminoso/veiculoroubo-s.lua" type="server" />
+    <script src="jobs/criminoso/veiculoroubo-c.luac" type="client" />
+	
+    <script src="jobs/criminoso/armas-s.lua" type="server" />
+    
+    <script src="jobs/comunidade/mecanico/client.luac" type="client" />
+    <script src="jobs/comunidade/mecanico/server.lua" type="server" />
+	
+	<script src="jobs/comunidade/pesqueiro/client.luac" type="client" />
+	<script src="jobs/comunidade/pesqueiro/server.lua" type="server" />
+	
+	<script src="jobs/comunidade/piloto/piloto-c.luac" type="client" />
+    <script src="jobs/comunidade/piloto/piloto-s.lua" type="server" />
+	
+	<script src="jobs/comunidade/caminhoneiro/caminhoneiro-c.luac" type="client" />
+    <script src="jobs/comunidade/caminhoneiro/caminhoneiro-s.lua" type="server" /> 
+	
+	<script src="jobs/comunidade/busao/busao-c.luac" type="client" />
+    <script src="jobs/comunidade/busao/busao-s.lua" type="server" />
+	
+	
+	
+	<script src="jobs/comunidade/taxista/taxista-c.luac" type="client" />
+    <script src="jobs/comunidade/taxista/taxista-s.lua" type="server" />
+	
+	<script src="jobs/comunidade/lixeiro/lixeiro-c.luac" type="client" />
+    <script src="jobs/comunidade/lixeiro/lixeiro-s.lua" type="server" />
+	
+	<script src="jobs/comunidade/entregador/entregador-c.luac" type="client" />
+    <script src="jobs/comunidade/entregador/entregador-s.lua" type="server" />
+	
+	<script src="jobs/comunidade/motoboy/motoboy-c.luac" type="client" />
+    <script src="jobs/comunidade/motoboy/motoboy-s.lua" type="server" />
+	
+	
+	<script src="jobs/comunidade/stunter/motoboy-c.luac" type="client" />
+
+	
+    <script src="jobs/policia/general/wanted-s.lua" type="server" />
+    <script src="jobs/policia/general/general-s.lua" type="server" />
+    <script src="jobs/policia/general/general-c.luac" type="client" />
+	
+    <script src="jobs/policia/detetive/detetive-s.lua" type="server" />
+    <script src="jobs/policia/detetive/detetive-c.luac" type="client" />
+	
+	<script src="jobs/emergencia/medico/medico-s.lua" type="server" />
+    <script src="jobs/emergencia/medico/medico-c.luac" type="client" />
+	
+	
+	<file src="arquivos/formjob.png" />
+	
+
+</meta>

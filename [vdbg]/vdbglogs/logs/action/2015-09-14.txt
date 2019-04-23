@@ -1,0 +1,14 @@
+Este arquivo foi gerado pelo Console em 2015:09:14-21:10:54
+
+
+
+[2015:09:14-21:10:54] TIGS98 Fez um login na conta tiaguinhods (IP: 192.168.1.250  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:14-21:12:15] TIGS98 gerou suaAdmiral
+[2015:09:14-21:15:31] TIGS98 gerou suaInfernus
+[2015:09:14-21:15:35] TIGS98 escondeu sua Infernus
+[2015:09:14-21:15:37] TIGS98 escondeu sua Admiral
+[2015:09:14-21:15:41] TIGS98 gerou suaAdmiral
+[2015:09:14-21:23:42] TIGS98 escondeu sua Admiral
+[2015:09:14-21:23:58] TIGS98 Fez um login na conta tiaguinhods (IP: 192.168.1.250  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:14-21:24:10] TIGS98 morreu
+[2015:09:14-21:24:35] TIGS98 morreu

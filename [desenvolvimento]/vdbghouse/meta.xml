@@ -1,0 +1,13 @@
+<meta>
+	<info author="TIGS98" name="VDBGHouse" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+
+	<script src="client/house_client.luac" type="client" />
+	<script src="server/server.lua" type="server" />
+	<script src="dx_lib/dx-gridlist.luac" type="client" />
+	<script src="client/myhouses.luac" type="client" />
+
+	<file src="image/dot_white.png" />
+	<file src="image/status.png" />
+	<file src="font/opensans_semibold.ttf" />
+</meta>

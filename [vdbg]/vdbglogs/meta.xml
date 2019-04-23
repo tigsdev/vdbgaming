@@ -1,0 +1,12 @@
+<meta>
+	<info author="TIGS98" name="VDBGLogs" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+   <!-- <script src="setup.lua" /> -->
+    <script src="output.lua" />
+    <export function="outputPunishLog" />
+    <export function="outputActionLog" />
+    <export function="outputChatLog" />
+    <export function="outputServerLog" />
+    <export function="outputSQLLog" />
+    <min_mta_version server="1.3.4-0.00000"></min_mta_version>
+</meta>

@@ -1,0 +1,75 @@
+body {
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-size: 0.8em;
+}
+pre {text-indent: 30px}
+
+#toparea {
+	position: absolute; 
+	top:0px; 
+	right:0px; 
+	left:0px; 
+	height:23px; 
+	background:#555555; 
+	color:#FFFFFF; 
+	padding:7px;
+}
+
+#contentarea {
+	position:absolute;
+	top: 50px;
+	left: 0px;
+}
+
+#wyslij {
+	padding-top: 5px;
+	padding-left: 9px;
+	padding-bottom: 2px;
+	margin-left: 18px;
+	width: 841px;
+	background-color:#CCCCCC;
+}
+
+#wiadomosci {
+	margin-left: 18px;
+	width: 850px;
+	background-color:#CCCCCC;
+	border-collapse: collapse;
+}
+
+#wiadomosci th {
+	padding: 8px;
+	font-size: 13px;
+	color: #EEEEEE;
+	background: #999999;
+	font-weight:bold;
+}
+
+#wiadomosci td {
+	padding: 8px;
+	background: #CCCCCC;
+	border-top: 1px solid #fff;
+}
+
+#wiadomosci tbody tr:hover td {
+	background: #BBBBBB;
+}
+
+.czas {
+	width: 80px;
+	text-align:center;
+}
+
+.nick {
+	width: 150px;
+	text-align:center;
+}
+
+.tryb {
+	width: 50px;
+	text-align:center;
+}
+
+.msg {
+	width: 650px;
+}

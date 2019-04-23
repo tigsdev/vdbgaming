@@ -1,0 +1,19 @@
+Este arquivo foi gerado pelo Console em 2015:07:10-10:45:33
+
+
+
+[2015:07:10-10:45:33] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:10-10:54:04] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:10-11:04:06] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:10-12:17:52] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:10-13:42:50] TIGS Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:10-14:11:39] TIGS morreu
+[2015:07:10-14:21:43] TIGS Agora, é empregue como um Medico
+[2015:07:10-14:22:29] TIGS Agora, é empregue como um Policial
+[2015:07:10-14:23:05] TIGS Agora, é empregue como um Policial
+[2015:07:10-14:25:35] TIGS Agora, é empregue como um Criminoso
+[2015:07:10-14:27:42] TIGS Agora, é empregue como um Policial
+[2015:07:10-14:27:52] TIGS Agora, é empregue como um Policial
+[2015:07:10-14:43:24] TIGS gerou suaSadler Damaged
+[2015:07:10-15:26:39] TIGS Agora, é empregue como um Criminoso
+[2015:07:10-15:43:33] TIGS escondeu sua Sadler Damaged

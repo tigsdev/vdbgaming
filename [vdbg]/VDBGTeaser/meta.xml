@@ -1,0 +1,14 @@
+<meta>
+	<info author="TIGS98" name="VDBGTeaser" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<!-- Client side files -->
+		<script src="ClientResource.lua" type="client" />
+		<script src="ClientWeapon.lua" type="client" />	
+	<!-- Server side Files -->
+		<script src="ServerWeapon.lua" type="server" />
+	<!-- Data Files -->	
+		<file src="data/taser.dff" />
+		<file src="data/taser.txd" />
+		<file src="data/Fire.wav" />
+</meta>

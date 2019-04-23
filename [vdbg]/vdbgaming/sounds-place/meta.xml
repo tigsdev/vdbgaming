@@ -1,0 +1,13 @@
+<meta>
+	
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	
+    <script src="client.luac" type="client" />
+
+	<file src="sons/1.mp3"/>
+	<file src="sons/2.mp3"/>
+	<file src="sons/cachorro_1.mp3"/>
+	<file src="sons/cachorro_2.mp3"/>
+	<file src="sons/cidade_1.mp3"/>
+	<file src="sons/cidade_2.mp3"/>
+</meta>

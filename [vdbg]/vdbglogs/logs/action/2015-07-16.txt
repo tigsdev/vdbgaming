@@ -1,0 +1,106 @@
+Este arquivo foi gerado pelo Console em 2015:07:16-15:40:22
+
+
+
+[2015:07:16-15:40:22] FumblingMuseum98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:16-15:43:05] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-15:46:30] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-15:47:27] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-15:47:29] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-15:49:57] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-15:50:05] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-15:53:24] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-15:53:29] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:00:52] FumblingMuseum98 (tiaguinhods) used a(n) kit_colete
+[2015:07:16-16:01:18] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-16:07:39] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-16:08:14] VDBG!+DK Agora, é empregue como um Mecanico
+[2015:07:16-16:08:47] VDBG!+DK escondeu sua Infernus
+[2015:07:16-16:08:52] VDBG!+DK spawned a(n) Packer
+[2015:07:16-16:08:56] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:11:50] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:11:51] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:12:02] VDBG!+DK spawned a(n) Towtruck
+[2015:07:16-16:12:05] FumblingMuseum98 Agora, é empregue como um Mecanico
+[2015:07:16-16:12:08] FumblingMuseum98 spawned a(n) Towtruck
+[2015:07:16-16:15:22] FumblingMuseum98 escondeu sua Super GT
+[2015:07:16-16:15:23] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:15:28] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:15:28] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:15:48] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-16:17:41] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:17:41] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:17:43] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:17:45] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:18:32] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-16:22:31] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:22:31] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:23:42] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-16:26:27] FumblingMuseum98 escondeu sua Super GT
+[2015:07:16-16:26:27] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:27:21] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-16:28:13] VDBG!+DK Agora, é empregue como um stunter
+[2015:07:16-16:28:22] VDBG!+DK spawned a(n) PCJ-600
+[2015:07:16-16:28:22] FumblingMuseum98 Agora, é empregue como um stunter
+[2015:07:16-16:28:29] FumblingMuseum98 spawned a(n) PCJ-600
+[2015:07:16-16:35:21] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:35:22] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:35:49] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:35:53] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-16:36:08] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-16:36:33] FumblingMuseum98 morreu
+[2015:07:16-16:37:04] FumblingMuseum98 spawned a(n) Caddy
+[2015:07:16-16:37:11] FumblingMuseum98 spawned a(n) Savanna
+[2015:07:16-16:37:20] FumblingMuseum98 spawned a(n) Quadbike
+[2015:07:16-16:37:47] VDBG!+DK morreu
+[2015:07:16-16:38:14] VDBG!+DK spawned a(n) Quadbike
+[2015:07:16-16:38:15] VDBG!+DK morreu
+[2015:07:16-16:57:37] VDBG!+DK morreu
+[2015:07:16-16:57:37] FumblingMuseum98 morreu
+[2015:07:16-17:09:22] VDBG!+DK morreu
+[2015:07:16-17:09:24] FumblingMuseum98 morreu
+[2015:07:16-17:11:43] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-17:12:25] VDBG!+DK morreu
+[2015:07:16-17:14:10] VDBG!+DK morreu
+[2015:07:16-17:14:10] FumblingMuseum98 morreu
+[2015:07:16-17:25:10] VDBG!+DK morreu
+[2015:07:16-18:04:24] FumblingMuseum98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:16-18:04:48] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-18:08:24] VDBG!+DK morreu
+[2015:07:16-18:10:46] VDBG!+DK morreu
+[2015:07:16-18:12:50] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-18:13:18] VDBG!+DK morreu
+[2015:07:16-19:27:58] FumblingMuseum98 comprou um Admiral
+[2015:07:16-19:29:36] FumblingMuseum98 escondeu sua Admiral
+[2015:07:16-19:29:37] FumblingMuseum98 gerou suaAdmiral
+[2015:07:16-19:30:36] FumblingMuseum98 escondeu sua Admiral
+[2015:07:16-19:30:38] FumblingMuseum98 gerou suaInfernus
+[2015:07:16-19:31:04] FumblingMuseum98 (tiaguinhods) used a(n) FuelCans
+[2015:07:16-19:35:07] FumblingMuseum98 escondeu sua Infernus
+[2015:07:16-19:35:27] FumblingMuseum98 gerou suaAdmiral
+[2015:07:16-19:52:32] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-19:53:37] FumblingMuseum98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:16-20:04:37] FumblingMuseum98 Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:07:16-20:19:00] FumblingMuseum98 morreu
+[2015:07:16-20:23:04] FumblingMuseum98 morreu
+[2015:07:16-20:23:28] VDBG!+DK morreu
+[2015:07:16-20:24:26] VDBG!+DK morreu
+[2015:07:16-20:24:26] FumblingMuseum98 morreu
+[2015:07:16-20:26:25] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-20:26:27] FumblingMuseum98 Mudou seu nick para TIGS
+[2015:07:16-20:27:09] FumblingMuseum98 Mudou seu nick para TIGS
+[2015:07:16-20:27:18] Tiago Santos Foi Solto!
+[2015:07:16-20:28:07] FumblingMuseum98 gerou suaAdmiral
+[2015:07:16-20:28:29] FumblingMuseum98 escondeu sua Admiral
+[2015:07:16-20:29:04] FumblingMuseum98 morreu
+[2015:07:16-20:32:58] VDBG!+DK morreu
+[2015:07:16-20:38:43] VDBG!+DK morreu
+[2015:07:16-20:39:20] VDBG!+DK morreu
+[2015:07:16-20:39:21] FumblingMuseum98 morreu
+[2015:07:16-20:53:48] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-21:19:53] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:16-21:22:25] VDBG!+DK morreu
+[2015:07:16-23:04:27] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:16-23:05:16] Psyco gerou suaBobcat
+[2015:07:16-23:05:25] Psyco escondeu sua Bobcat
+[2015:07:16-23:06:33] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)

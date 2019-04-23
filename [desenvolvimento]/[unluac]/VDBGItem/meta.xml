@@ -1,0 +1,206 @@
+<meta>
+	<info author="TIGS98" name="VDBGItem" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<script src="mysql.lua"/>
+	<export function="singleQuery" 			type="server" http="false" />
+	<export function="execute" 			type="server" http="false" />
+	<export function="getConnection" 			type="server" http="false" />
+	<export function="query" 			type="server" http="false" />
+	<export function="query_free" 		type="server" http="false" />
+	<export function="free_result" 		type="server" http="false" />
+	<export function="result" 			type="server" http="false" />
+	<export function="num_rows" 		type="server" http="false" />
+	<export function="query_fetch_assoc"type="server" http="false" />
+	<export function="query_rows_assoc" type="server" http="false" />
+	<export function="query_insert_free"type="server" http="false" />
+	<export function="escape_string"    type="server" http="false" />
+
+	<script src="globais.luac" type="shared" />
+	<!--<script src="craft-c.luac" type="client" />-->
+	<script src="inventario-c.luac" type="client" />
+	<script src="funcoes.luac" type="client" />
+	<script src="server.lua" type="server" />
+	
+	
+	<!--KÉPEK-->	
+	<file src="items/1.png" />
+	<file src="items/2.png" />
+	<file src="items/3.png" />
+	<file src="items/4.png" />
+	<file src="items/5.png" />
+	<file src="items/6.png" />
+	<file src="items/7.png" />
+	<file src="items/8.png" />
+	<file src="items/9.png" />
+	<file src="items/10.png" />
+	<file src="items/11.png" />
+	<file src="items/12.png" />
+	<file src="items/13.png" />
+	<file src="items/14.png" />
+	<file src="items/15.png" />
+	<file src="items/16.png" />
+	<file src="items/17.png" />	
+	<file src="items/18.png" />	
+	<file src="items/19.png" />	
+	<file src="items/20.png" />	
+	<file src="items/21.png" />	
+	<file src="items/22.png" />	
+	<file src="items/23.png" />	
+	<file src="items/24.png" />	
+	<file src="items/25.png" />	
+	<file src="items/26.png" />
+	<file src="items/27.png" />
+	<file src="items/28.png" />
+	<file src="items/29.png" />
+	<file src="items/30.png" />
+	<file src="items/31.png" />	
+	<file src="items/32.png" />	
+	<file src="items/33.png" />	
+	<file src="items/35.png" />	
+	<file src="items/36.png" />	
+	<file src="items/37.png" />	
+	<file src="items/38.png" />	
+	<file src="items/39.png" />	
+	<file src="items/40.png" />	
+	<file src="items/41.png" />
+	<file src="items/42.png" />	
+	<file src="items/43.png" />	
+	<file src="items/44.png" />	
+	<file src="items/45.png" />	
+	<file src="items/46.png" />	
+	<file src="items/47.png" />	
+	<file src="items/48.png" />	
+	<file src="items/49.png" />	
+	<file src="items/50.png" />	
+	<file src="items/51.png" />	
+	<file src="items/52.png" />	
+	<file src="items/53.png" />	
+	<file src="items/54.png" />	
+	<file src="items/55.png" />	
+	<file src="items/56.png" />	
+	<file src="items/57.png" />	
+	<file src="items/58.png" />	
+	<file src="items/59.png" />
+	<file src="items/60.png" />
+	<file src="items/61.png" />
+	<file src="items/62.png" />
+	<file src="items/63.png" />
+	<file src="items/64.png" />
+	<file src="items/65.png" />
+	<file src="items/66.png" />
+	<file src="items/67.png" />
+	<file src="items/68.png" />
+	<file src="items/69.png" />
+	<file src="items/70.png" />
+	<file src="items/71.png" />
+	<file src="items/72.png" />
+	<file src="items/73.png" />
+	<file src="items/74.png" />
+	<file src="items/76.png" />
+	<file src="items/75.png" />
+	<file src="items/77.png" />
+	<file src="items/78.png" />
+	<file src="items/79.png" />
+	<file src="items/80.png" />
+	<file src="items/81.png" />
+	<file src="items/82.png" />
+	<file src="items/83.png" />
+	<file src="items/84.png" />
+	<file src="items/85.png" />
+	<file src="items/86.png" />
+	<file src="items/87.png" />
+	<file src="items/88.png" />
+	<file src="items/89.png" />
+	<file src="items/90.png" />
+	<file src="items/91.png" />
+	<file src="items/92.png" />
+	<file src="items/93.png" />
+	<file src="items/94.png" />
+	<file src="items/95.png" />
+	<file src="items/96.png" />
+	<file src="items/97.png" />
+	<file src="items/98.png" />
+	<file src="items/99.png" />
+	<file src="items/100.png" />
+	<file src="items/101.png" />	
+	<file src="items/102.png" />	
+	<file src="items/103.png" />	
+	<file src="items/104.png" />	
+	<file src="items/105.png" />
+	<file src="items/106.png" />	
+	<file src="items/107.png" />
+	<file src="items/108.png" />	
+	<file src="items/109.png" />	
+	<file src="items/110.png" />	
+	<file src="items/111.png" />	
+	<file src="items/112.png" />	
+	<file src="items/113.png" />	
+	<file src="items/114.png" />	
+	<file src="items/115.png" />	
+	<file src="items/116.png" />	
+	<file src="items/117.png" />	
+	<file src="items/118.png" />	
+	<file src="items/119.png" />	
+	<file src="items/120.png" />	
+	<file src="items/121.png" />	
+	<file src="items/122.png" />	
+	<file src="items/123.png" />	
+	<file src="items/124.png" />	
+	<file src="items/125.png" />	
+	<file src="items/126.png" />	
+	<file src="items/127.png" />	
+	<file src="items/128.png" />	
+	<file src="items/129.png" />	
+	<file src="items/130.png" />	
+	<file src="items/131.png" />	
+	<file src="items/132.png" />	
+	<file src="items/133.png" />	
+	<file src="items/134.png" />	
+	<file src="items/135.png" />	
+	<file src="items/136.png" />	
+	<file src="items/137.png" />	
+	<file src="items/138.png" />	
+	<file src="items/139.png" />	
+	<file src="items/140.png" />	
+	<file src="items/141.png" />	
+	<file src="items/142.png" />	
+	<file src="items/143.png" />	
+	<file src="items/144.png" />	
+	<file src="items/145.png" />	
+	<file src="items/146.png" />
+	
+	<!--KÉPEK VÉGE-->
+	
+	<export function="getItemName" type="shared" />
+	<export function="getItemDesc" type="shared" />
+	<export function="getItemWeight" type="shared" />
+	<export function="getItemImage" type="shared" />
+	<export function="getItemPrice" type="shared" />
+
+	<export function="getElementItemID" type="client" />
+	<export function="recivePlayerItems" type="client" />
+	<export function="hasItemPlayer" type="client" />
+	<export function="getMaxWeight" type="client" />
+	<export function="getItemsWeight" type="client" />
+	<export function="getFreeSlot" type="client" />
+	<export function="openInventory" type="client" />
+	<export function="getPlayerItem" type="shared" />
+	
+	
+	
+	<export function="getElementItemID" type="server" />
+	<export function="getMaxWeight" type="server" />
+	<export function="getItemsWeight" type="server" />
+	<export function="getFreeSlot" type="server" />
+	<export function="sendItemsToClient" type="server" />
+	<export function="giveItem" type="server" />
+	<export function="reciveElementData" type="server" />
+	<export function="deleteItem" type="server" />
+	<export function="transferItem" type="server" />
+	<export function="toggleGun" type="server" />
+	
+	<file src="opensans_semibold.ttf" />
+	
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+	<info author="TIGS98" name="VDBGScoreboard" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+
+	<script src="server/server.lua" type="server" />
+	<script src="server/id.lua" type="server" />
+	<script src="client/client_scoreboard.luac" type="client" />
+	<script src="client/fps.luac" type="client" />
+
+	<file src="fonts/arialbd.ttf" />
+
+	<export function="scoreboardAddColumn" type="shared"/>
+	<export function="scoreboardGetColumnPriority" type="client"/>
+	<export function="isPrioritySlotFree" type="client"/>
+	<export function="getNextFreePrioritySlot" type="client"/>
+</meta>

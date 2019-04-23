@@ -1,0 +1,137 @@
+Este arquivo foi gerado pelo Console em2015:10:14-17:44:07
+
+
+
+[2015:10:14-17:44:07]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Tigs
+[2015:10:14-17:44:11]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Sou eu o Zanluca
+[2015:10:14-17:54:22]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFSem_Nome: Oi
+[2015:10:14-17:54:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: oi
+[2015:10:14-17:54:34]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Como liga om carro:
+[2015:10:14-17:54:38]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: ?
+[2015:10:14-17:54:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: home>config
+[2015:10:14-17:54:52]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: oque mais?
+[2015:10:14-17:55:01]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: desativa e ativa a textura
+[2015:10:14-17:57:27]  (Local) -> [LOCAL][1]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: o
+[2015:10:14-17:57:38]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFSem_Nome: vai
+[2015:10:14-17:58:24]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: ta com todas as skins de carro ?
+[2015:10:14-17:58:29]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:10:14-17:58:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: editei mh hand
+[2015:10:14-17:58:50]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Vc ja viu a hand
+[2015:10:14-17:58:57]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: do aude do saur
+[2015:10:14-17:59:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nao
+[2015:10:14-17:59:16]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Quero ela kk'
+[2015:10:14-17:59:20]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Melhor
+[2015:10:14-17:59:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ss
+[2015:10:14-17:59:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: eu to mexendo no site ok
+[2015:10:14-17:59:47]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFSem_Nome: Ok
+[2015:10:14-17:59:56]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFSem_Nome: Tem?
+[2015:10:14-17:59:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: edita, coloca no bloco de notas
+[2015:10:14-18:00:04]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: como me dar
+[2015:10:14-18:00:14]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: adm 
+[2015:10:14-18:00:20]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: provisorio?
+[2015:10:14-18:00:25]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: so ppra ver 
+[2015:10:14-18:00:30]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: os baguio
+[2015:10:14-18:00:38]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: A
+[2015:10:14-18:00:47]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Como pego a hand la do saur?
+[2015:10:14-18:01:44]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Não consigo dirigir ;/
+[2015:10:14-18:08:07]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Acho q vc não abre  o jogo ;/
+[2015:10:14-18:11:52]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Kkk
+[2015:10:14-18:14:57]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: tiago
+[2015:10:14-18:15:09]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Oi bem vindos kk'
+[2015:10:14-18:15:13]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: O player depois consegue mudar o nome do chat?
+[2015:10:14-18:15:14]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kkkkkk
+[2015:10:14-18:15:31]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Não sei
+[2015:10:14-18:15:41]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Sou o Tigs Fack
+[2015:10:14-18:15:44]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: huehue, fikou mt grtande o nome, pensei que pegava so o primeiro
+[2015:10:14-18:15:47]  (Global) -> #2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: como vc vai explicar para os player que tenk da /motor duas vezes?
+[2015:10:14-18:15:49]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: '-'
+[2015:10:14-18:16:04]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Aff não consegui logar com minha conta
+[2015:10:14-18:16:39]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Como vcs logaram?
+[2015:10:14-18:16:49]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: painel de login
+[2015:10:14-18:16:59]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Meu carro não anda
+[2015:10:14-18:17:07]  (Global) -> #2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: ./motor
+[2015:10:14-18:17:09]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Colocaram oque?
+[2015:10:14-18:17:14]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: O login do forum?
+[2015:10:14-18:17:15]  (Global) -> #2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: corrida quem liga mais rapido
+[2015:10:14-18:17:39]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Pera eu
+[2015:10:14-18:17:41]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: kk'
+[2015:10:14-18:18:04]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kakak
+[2015:10:14-18:18:17]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: pff
+[2015:10:14-18:19:49]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Ganehi
+[2015:10:14-18:19:50]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kakkakakakaak
+[2015:10:14-18:20:03]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Na Trapacia
+[2015:10:14-18:20:12]  (Global) -> #2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: dps dessa vo ate joga ffs
+[2015:10:14-18:20:19]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Me puxa ae
+[2015:10:14-18:20:29]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: To com sede
+[2015:10:14-18:20:59]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Eu coloco o login do forum?
+[2015:10:14-18:21:03]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: ??
+[2015:10:14-18:21:13]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: sim
+[2015:10:14-18:21:19]  (Global) -> #2F7CCC[2] #FFFFFFTiago dos Santos Barros: Pera ja volto kk'
+[2015:10:14-18:22:14]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: lol, curti o F2
+[2015:10:14-18:24:34]  (Local) -> [LOCAL][1]#2F7CCC[3] #FFFFFF^Wall': o
+[2015:10:14-18:29:25]  (Local) -> [LOCAL][0]#2F7CCC[3] #FFFFFF^Wall': lol
+[2015:10:14-18:29:32]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: lol
+[2015:10:14-18:29:50]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: vo nem zuar
+[2015:10:14-18:33:19]  (Global) -> #2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: qmotor
+[2015:10:14-18:33:22]  (Team - Civilizante) -> (TEAM)#2F7CCC[4] #FFFFFFVDBG:Console * Hidinei K: /motor
+[2015:10:14-19:22:09]  (Global) -> #2F7CCC[4] #FFFFFFWallace Ferreira da Silva: lol
+[2015:10:14-19:28:41]  (Global) -> #2F7CCC[4] #FFFFFFWallace Ferreira da Silva: hahah
+[2015:10:14-19:34:41]  (Policial) -> #2F7CCC[2] #FFFFFFHygor Souza: heuhehe
+[2015:10:14-19:34:41]  (Policial) -> [POLICIAL] #2F7CCC[2] #FFFFFFHygor Souza: #ffffffheuhehe
+[2015:10:14-19:34:43]  (Policial) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: eae
+[2015:10:14-19:34:43]  (Policial) -> [POLICIAL] #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: #ffffffeae
+[2015:10:14-19:34:46]  (Global) -> #2F7CCC[4] #FFFFFFWallace Ferreira da Silva: lol
+[2015:10:14-19:35:06]  (Team - Policial) -> (TEAM)#2F7CCC[4] #FFFFFFWallace Ferreira da Silva: oo
+[2015:10:14-19:35:12]  (Local) -> [LOCAL][2]#2F7CCC[4] #FFFFFF^Wall': oo
+[2015:10:14-19:36:43]  (Global) -> #2F7CCC[4] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-19:49:24]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: lol
+[2015:10:14-19:53:10]  (Global) -> #2F7CCC[2] #FFFFFFHygor Souza: saindo  na real manoo
+[2015:10:14-20:03:01]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-20:03:02]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-20:03:06]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-20:07:06]  (Local) -> [LOCAL][1]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: i
+[2015:10:14-20:12:17]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-20:15:20]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: ´
+[2015:10:14-20:26:50]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: malz
+[2015:10:14-20:26:52]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: heuheuheue
+[2015:10:14-20:26:54]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: nem vi a avida
+[2015:10:14-20:29:08]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: oxe
+[2015:10:14-20:29:10]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: saiu so
+[2015:10:14-20:29:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sim
+[2015:10:14-20:29:20]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: ah ta, to livre
+[2015:10:14-20:29:22]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: hueheu
+[2015:10:14-20:29:28]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: me da o lvl 8 no ts
+[2015:10:14-20:29:29]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: gogog
+[2015:10:14-20:33:18]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: fome
+[2015:10:14-20:33:25]  (Local) -> [LOCAL][1]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: n ta prendendo -.-
+[2015:10:14-20:33:32]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: uai
+[2015:10:14-20:33:41]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: vms sair de frente da dp, tem haver nao?
+[2015:10:14-20:33:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nao
+[2015:10:14-20:33:59]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: n preciso relogar nao?
+[2015:10:14-20:34:34]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kkkkk
+[2015:10:14-20:34:40]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: lol
+[2015:10:14-20:34:42]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: to preso
+[2015:10:14-20:34:44]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: prendeu ?
+[2015:10:14-20:34:44]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: na agua
+[2015:10:14-20:34:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ae
+[2015:10:14-20:34:47]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kkakakak
+[2015:10:14-20:34:48]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: top
+[2015:10:14-20:34:51]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: 50 segundos
+[2015:10:14-20:34:55]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: começou com 60
+[2015:10:14-20:35:16]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: falta 30
+[2015:10:14-20:35:35]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: esse lugar q eu to, era pra ter ido pra uma prisao que ainda vai fazer?
+[2015:10:14-20:35:45]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: pq eu consigo nadar e sair normalmente
+[2015:10:14-20:36:08]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: agora eu to livre, to dentro uma dp, nao sei sair dakiew
+[2015:10:14-20:36:28]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: pega vida
+[2015:10:14-20:36:43]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pera
+[2015:10:14-20:36:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta dando erro
+[2015:10:14-20:36:46]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kk
+[2015:10:14-20:36:47]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: ss
+[2015:10:14-20:37:16]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vai
+[2015:10:14-20:37:26]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: deu
+[2015:10:14-20:38:52]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: vixe
+[2015:10:14-20:38:56]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: 16 segfundos
+[2015:10:14-20:38:59]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: to na agua
+[2015:10:14-20:39:18]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: to no interior da DP
+[2015:10:14-20:50:04]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: q
+[2015:10:14-21:00:56]  (Global) -> #2F7CCC[3] #FFFFFFWallace Ferreira da Silva: kakak

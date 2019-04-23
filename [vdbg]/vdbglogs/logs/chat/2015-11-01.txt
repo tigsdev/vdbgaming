@@ -1,0 +1,748 @@
+Este arquivo foi gerado pelo Console em2015:11:01-00:13:25
+
+
+
+[2015:11:01-00:13:25]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: rapidao
+[2015:11:01-00:18:27]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tem como da tp ake ?
+[2015:11:01-00:58:15]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs se alguem alcança o nivel da bazuca vai valer msm ?
+[2015:11:01-00:58:33]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: 1 tiro 1 morte kk
+[2015:11:01-00:58:54]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs os carro nao ta ligando 
+[2015:11:01-01:25:16]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs
+[2015:11:01-01:29:30]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: vo ter que reconecta ake kk
+[2015:11:01-01:44:39]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:11:01-01:47:24]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: avião paro de funcionar no ar kk
+[2015:11:01-01:48:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: gasolina!
+[2015:11:01-01:49:04]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: kk
+[2015:11:01-01:49:14]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: nao foi gasolina nao :'D eu batir mt 
+[2015:11:01-01:50:39]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs tem como min da uma jet spack ?
+[2015:11:01-01:50:54]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: so pra eu tira uma print aki do bug
+[2015:11:01-01:51:47]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: mochila jato rsrs
+[2015:11:01-01:53:54]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: Tigs Como Faz Pra Vira Staff Aki ?
+[2015:11:01-02:07:23]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:11:01-02:11:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos:  /resethd
+[2015:11:01-02:12:28]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: to na conta nova
+[2015:11:01-02:12:35]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs
+[2015:11:01-02:12:39]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: esse respawn aki
+[2015:11:01-02:12:43]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: de jogador novo nao ta pegano
+[2015:11:01-02:12:53]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: Spawner*
+[2015:11:01-02:18:28]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: tigs
+[2015:11:01-02:18:33]  (Global) -> #2F7CCC[2] #FFFFFFPower Rafael: deleta essa conta ake minha
+[2015:11:01-12:13:22]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: wtf
+[2015:11:01-12:13:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: cade meus carro?
+[2015:11:01-12:13:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tive que zerar
+[2015:11:01-12:13:32]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: viado '-'
+[2015:11:01-12:14:02]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFVDBG:Console * Ivan_Silva: to meu saco malhado '-'
+[2015:11:01-12:14:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: te apresento meu saco malahado
+[2015:11:01-12:15:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eo poder do apidi
+[2015:11:01-12:15:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: escuta start
+[2015:11:01-12:15:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kamau
+[2015:11:01-12:15:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: filipe ret
+[2015:11:01-12:15:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: haickaiss
+[2015:11:01-12:15:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: cacife clandestino
+[2015:11:01-12:16:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: haickas e flipe eu escuto
+[2015:11:01-12:16:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: cone
+[2015:11:01-12:16:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo ouvir esse kamau
+[2015:11:01-12:16:19]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: don sujao
+[2015:11:01-12:16:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tb
+[2015:11:01-12:17:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta mechendo em q ?
+[2015:11:01-12:19:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vc coloco
+[2015:11:01-12:19:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra seta 3 veiculos
+[2015:11:01-12:19:41]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e nao pode compra mais?
+[2015:11:01-12:19:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ai sim
+[2015:11:01-12:20:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vixi
+[2015:11:01-12:20:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: velocimetro
+[2015:11:01-12:20:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: bugado
+[2015:11:01-12:20:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: onde vc arrumo dinheiro pra compra carro sdkadkas
+[2015:11:01-12:20:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o minha grana
+[2015:11:01-12:20:32]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: yeyge[w
+[2015:11:01-12:20:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: os carro ta 1 2 real
+[2015:11:01-12:21:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pq o velocimetro ta dendo erro na linha 56
+[2015:11:01-12:21:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 'velocity'
+[2015:11:01-12:21:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: calma to resolvendo
+[2015:11:01-12:21:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a erro number value
+[2015:11:01-12:23:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oq era?
+[2015:11:01-12:23:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: number errado na função?
+[2015:11:01-12:26:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eu tenho uma casa
+[2015:11:01-12:26:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nem sei onde e kk
+[2015:11:01-12:26:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: to sem fazer nada
+[2015:11:01-12:26:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva:  vo fazer
+[2015:11:01-12:26:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: as casas
+[2015:11:01-12:26:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: blz?
+[2015:11:01-12:26:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo fazer la pro cj
+[2015:11:01-12:26:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: casas economicas
+[2015:11:01-12:26:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: com e sem garagem
+[2015:11:01-12:29:48]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tigs
+[2015:11:01-12:30:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: CALMA
+[2015:11:01-12:30:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: entra no saur
+[2015:11:01-12:30:36]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: e baseia os preços
+[2015:11:01-12:30:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: preciso baixar
+[2015:11:01-12:30:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: de la
+[2015:11:01-12:30:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: das casas?
+[2015:11:01-12:30:49]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sim
+[2015:11:01-12:30:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tu arrumo
+[2015:11:01-12:30:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: os trab
+[2015:11:01-12:30:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ?
+[2015:11:01-12:31:00]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: quase todos
+[2015:11:01-12:31:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o salario?
+[2015:11:01-12:31:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: caminheiro?
+[2015:11:01-12:31:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: taxistaw
+[2015:11:01-12:31:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: policial tava combug
+[2015:11:01-12:31:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta tudo no pdf
+[2015:11:01-12:31:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: posta a img
+[2015:11:01-12:31:47]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva:   /criarcasa?
+[2015:11:01-12:31:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: e termina esse pdf
+[2015:11:01-12:31:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: aql img
+[2015:11:01-12:32:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q tu me pediu?
+[2015:11:01-12:32:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: casa é o de menos, ainda tem que arruma os interior da garage
+[2015:11:01-12:32:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ss
+[2015:11:01-12:32:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oq q tem de problema nas casas?
+[2015:11:01-12:36:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se a velocidade ta real
+[2015:11:01-12:36:47]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 250
+[2015:11:01-12:36:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-12:37:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 240
+[2015:11:01-12:37:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: como assim real?
+[2015:11:01-12:37:12]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta a quanto ai ?
+[2015:11:01-12:37:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 140
+[2015:11:01-12:37:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 120
+[2015:11:01-12:37:23]  (Team - Desempregado) -> (TEAM)#2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 160
+[2015:11:01-12:37:29]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: oxi
+[2015:11:01-12:37:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: anda um pouco
+[2015:11:01-12:37:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta tipo
+[2015:11:01-12:37:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a velocidade
+[2015:11:01-12:37:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e um .
+[2015:11:01-12:37:41]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: na frente
+[2015:11:01-12:38:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao aparece
+[2015:11:01-12:38:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o velo pra mim
+[2015:11:01-12:38:41]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao aparece
+[2015:11:01-12:38:44]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: entra de motorista
+[2015:11:01-12:38:48]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: e ve se
+[2015:11:01-12:38:51]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta bom a hand
+[2015:11:01-12:38:54]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta
+[2015:11:01-12:38:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: carro nao liga
+[2015:11:01-12:39:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: liga s
+[2015:11:01-12:39:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q carro e esse?
+[2015:11:01-12:39:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: p1
+[2015:11:01-12:39:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: preço?
+[2015:11:01-12:39:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sem preço ainda
+[2015:11:01-12:39:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 300 ta muito 300 deveria ser no infernus
+[2015:11:01-12:39:59]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta real ?
+[2015:11:01-12:40:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tem q ser poucos carros q chegue a 300
+[2015:11:01-12:40:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: esse carro é super veloz
+[2015:11:01-12:40:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ennt ele tem q ser carão
+[2015:11:01-12:40:17]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: é a p1 zika
+[2015:11:01-12:40:21]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mclarem p1
+[2015:11:01-12:40:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ifenrus vai ate quanto?
+[2015:11:01-12:40:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nao defini preço ainda
+[2015:11:01-12:41:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: to
+[2015:11:01-12:41:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: preço real?
+[2015:11:01-12:41:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo ali 
+[2015:11:01-12:41:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ja vorto
+[2015:11:01-12:41:51]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta top mano
+[2015:11:01-12:41:55]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: s
+[2015:11:01-12:41:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: as hand
+[2015:11:01-12:42:01]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ai vc me puxo, ta tocando uma musica foda
+[2015:11:01-12:42:05]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fico foda o momento tlgd
+[2015:11:01-12:42:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkkk
+[2015:11:01-12:42:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kk
+[2015:11:01-12:42:14]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: role dos boy
+[2015:11:01-12:42:21]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta bom as hand, 
+[2015:11:01-12:42:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-12:42:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: s
+[2015:11:01-12:42:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: so testei
+[2015:11:01-12:42:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de 2 carro
+[2015:11:01-12:42:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fmz
+[2015:11:01-12:42:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tipo, quando bate 300, parece que ta batendo 300 ne
+[2015:11:01-12:42:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ele vai ate 300?
+[2015:11:01-12:42:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: foda
+[2015:11:01-12:42:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vai ate 308
+[2015:11:01-12:43:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: sem nitro
+[2015:11:01-12:44:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: achei um bug kk
+[2015:11:01-12:44:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eu escolho casa sem garagem
+[2015:11:01-12:44:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e msm assim fica o botao
+[2015:11:01-12:44:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: com garagem
+[2015:11:01-12:45:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva:  /kill
+[2015:11:01-12:45:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: to freezado
+[2015:11:01-12:50:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tigs
+[2015:11:01-12:51:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q
+[2015:11:01-12:52:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mano
+[2015:11:01-12:54:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oi
+[2015:11:01-12:55:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: aonde eu coloco a distancia percorrida
+[2015:11:01-12:55:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vover
+[2015:11:01-12:55:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o velo pra ver um lugar dhr
+[2015:11:01-12:55:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem ali
+[2015:11:01-12:55:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no meio embaixo
+[2015:11:01-12:55:57]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de trancar luz e etc
+[2015:11:01-12:56:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: embaixo deles
+[2015:11:01-12:56:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: Distancia Pecorrida :
+[2015:11:01-12:56:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vc tem q por distancia peccordi
+[2015:11:01-12:56:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: sei la
+[2015:11:01-12:56:44]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: maior
+[2015:11:01-12:56:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: faz uma bg ali ?
+[2015:11:01-12:56:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: como?
+[2015:11:01-12:57:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: diz como  se q
+[2015:11:01-12:57:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ali aonde vai ficar
+[2015:11:01-12:57:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o distancia percorrida
+[2015:11:01-12:57:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta
+[2015:11:01-12:57:45]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo pega a psd do velo aq
+[2015:11:01-12:58:03]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: to comendo peixe :D
+[2015:11:01-12:58:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkkkkkk
+[2015:11:01-12:58:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: KKKKKKKKKKKKKKKKKK
+[2015:11:01-12:58:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: peixe mela toda a mao
+[2015:11:01-12:58:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: to comendo com garfo kkkkkkkkkkk
+[2015:11:01-12:58:44]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vai damiha
+[2015:11:01-12:58:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vai damiha?
+[2015:11:01-13:01:07]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo faze igual carro
+[2015:11:01-13:01:12]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mostrando os 0000 
+[2015:11:01-13:01:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q q eu faç
+[2015:11:01-13:01:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: aqls quadrado
+[2015:11:01-13:01:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: dos carro
+[2015:11:01-13:01:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: na bg?
+[2015:11:01-13:01:44]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tipo uma quadradin
+[2015:11:01-13:01:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pera
+[2015:11:01-13:01:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: deixa eu acaba 1
+[2015:11:01-13:05:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: cade
+[2015:11:01-13:05:19]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o radar
+[2015:11:01-13:06:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkk
+[2015:11:01-13:06:39]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: '- kkkkkkkkkk
+[2015:11:01-13:07:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: wtf
+[2015:11:01-13:07:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: uooo
+[2015:11:01-13:07:29]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: erro
+[2015:11:01-13:08:04]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: '-'
+[2015:11:01-13:08:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkkkkkkkkkkk
+[2015:11:01-13:08:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pego pesado kk
+[2015:11:01-13:08:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: faz a bg
+[2015:11:01-13:09:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta
+[2015:11:01-13:10:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: filho
+[2015:11:01-13:10:59]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: de uma quenga
+[2015:11:01-13:11:05]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkkkkkk
+[2015:11:01-13:11:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: fui preso
+[2015:11:01-13:11:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao fui
+[2015:11:01-13:11:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra pisao
+[2015:11:01-13:12:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: deve ser pq tava dentro do tanque
+[2015:11:01-13:12:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: talvez
+[2015:11:01-13:15:10]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o zika
+[2015:11:01-13:15:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkkkkk
+[2015:11:01-13:15:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: maws
+[2015:11:01-13:15:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: terminei a bg
+[2015:11:01-13:15:22]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo te manda
+[2015:11:01-13:15:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q separado
+[2015:11:01-13:15:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ou junto com a img do velo?
+[2015:11:01-13:15:34]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: separado n -'
+[2015:11:01-13:15:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: junto 
+[2015:11:01-13:18:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vamo no reboque?
+[2015:11:01-13:18:28]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se acha uma fonte quebrada
+[2015:11:01-13:18:34]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: quadrada*
+[2015:11:01-13:18:39]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: como se fosse km
+[2015:11:01-13:19:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta
+[2015:11:01-13:19:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pode ser aql
+[2015:11:01-13:19:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de 
+[2015:11:01-13:19:33]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: numeros tipo
+[2015:11:01-13:19:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: aql de letra
+[2015:11:01-13:19:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de letreito
+[2015:11:01-13:19:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de busao
+[2015:11:01-13:19:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ja viu?
+[2015:11:01-13:19:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q sao retas tipo palitos
+[2015:11:01-13:22:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: chove
+[2015:11:01-13:22:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pq delsigar moto nao ta ufnfando
+[2015:11:01-13:22:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pode
+[2015:11:01-13:22:59]  (Team - Desempregado) -> (TEAM)#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 440?
+[2015:11:01-13:23:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ?
+[2015:11:01-13:23:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 440?
+[2015:11:01-13:23:10]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 440 oq?
+[2015:11:01-13:23:17]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: qual letreiro vc fala
+[2015:11:01-13:23:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao e esse
+[2015:11:01-13:23:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tipo aqls font
+[2015:11:01-13:23:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de relogio
+[2015:11:01-13:23:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de numerico
+[2015:11:01-13:23:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pera
+[2015:11:01-13:23:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pq ligar moto nao funfw
+[2015:11:01-13:24:28]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: bora la
+[2015:11:01-13:24:33]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: te mandei a img
+[2015:11:01-13:24:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no skype
+[2015:11:01-13:25:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkk
+[2015:11:01-13:25:12]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: XAMA O XAMU
+[2015:11:01-13:26:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkkkkkkkk
+[2015:11:01-13:26:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkkkkk
+[2015:11:01-13:26:14]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: é aki
+[2015:11:01-13:26:28]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: xaaablaaau
+[2015:11:01-13:26:43]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pode ser aquela fonte q vc falo vai
+[2015:11:01-13:26:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta vo pega
+[2015:11:01-13:27:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: NOME
+[2015:11:01-13:27:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: DS-DIGITAL
+[2015:11:01-13:27:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q fdp
+[2015:11:01-13:28:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem a img q te mandei
+[2015:11:01-13:28:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: calma
+[2015:11:01-13:28:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta mechendo
+[2015:11:01-13:29:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no login?
+[2015:11:01-13:31:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eita porra
+[2015:11:01-13:31:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: bertg
+[2015:11:01-13:31:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: bertg?
+[2015:11:01-13:31:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: berg
+[2015:11:01-13:32:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: corre berg
+[2015:11:01-13:32:09]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: berg?
+[2015:11:01-13:32:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ve o video no youtube
+[2015:11:01-13:32:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: corre berg kk
+[2015:11:01-13:32:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o motoca boa
+[2015:11:01-13:32:43]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vai ate 400 por hora
+[2015:11:01-13:32:57]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 300
+[2015:11:01-13:33:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: esses anuncio do spotfiy
+[2015:11:01-13:33:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e chato viado
+[2015:11:01-13:33:32]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: deixa eu ve
+[2015:11:01-13:33:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a motoca
+[2015:11:01-13:33:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pega conta premium
+[2015:11:01-13:33:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: no legiao
+[2015:11:01-13:37:12]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: os job ta com bang de texto
+[2015:11:01-13:39:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: so alinha
+[2015:11:01-13:39:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e aql bang
+[2015:11:01-13:39:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de  WARNING
+[2015:11:01-13:39:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: expepecte string at argument
+[2015:11:01-13:39:33]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 1 got nil
+[2015:11:01-13:39:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q bang
+[2015:11:01-13:39:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vem aq
+[2015:11:01-13:39:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: onde eu to
+[2015:11:01-13:40:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: depois
+[2015:11:01-13:40:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 2dedo vem aq
+[2015:11:01-13:40:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: é pq esse job n tem
+[2015:11:01-13:40:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ve debug
+[2015:11:01-13:40:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tem que tirar o createJob("Vagabnd"coordenadas)
+[2015:11:01-13:41:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: fico ruim?
+[2015:11:01-13:42:02]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fico show 
+[2015:11:01-13:42:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e..
+[2015:11:01-13:42:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tooooooooooooop
+[2015:11:01-13:43:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem o velo
+[2015:11:01-13:43:19]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q eu fiz
+[2015:11:01-13:43:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra tu ver
+[2015:11:01-13:43:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: como e
+[2015:11:01-13:43:26]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: aquele eu n gostei e.e
+[2015:11:01-13:43:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: serio '-'
+[2015:11:01-13:43:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: '-
+[2015:11:01-13:44:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkk
+[2015:11:01-13:44:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: carai kkkkkkkkkkkkkkk
+[2015:11:01-13:45:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: passo o caminhao
+[2015:11:01-13:45:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2015:11:01-13:45:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: n entendi
+[2015:11:01-13:45:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se nao viu
+[2015:11:01-13:45:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eu fiquei emcima do carro
+[2015:11:01-13:46:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: olhai sso kkkkkkk
+[2015:11:01-13:46:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo faze uma fita
+[2015:11:01-13:46:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se liga
+[2015:11:01-13:46:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se liga
+[2015:11:01-13:46:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: quem e?
+[2015:11:01-13:47:25]  (Global) -> #2F7CCC[3] #FFFFFFDared Evil.: quem se acha *-*
+[2015:11:01-13:47:27]  (Global) -> #2F7CCC[3] #FFFFFFDared Evil.: ehauhe
+[2015:11:01-13:47:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kk
+[2015:11:01-13:47:55]  (Global) -> #2F7CCC[3] #FFFFFFDared Evil.: me coloca na ACL '--
+[2015:11:01-13:48:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: user?
+[2015:11:01-13:48:14]  (Global) -> #2F7CCC[3] #FFFFFFDared Evil.: DaredEvil
+[2015:11:01-13:48:19]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: foi ae?
+[2015:11:01-13:48:24]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: ss
+[2015:11:01-13:48:27]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: vllw
+[2015:11:01-13:48:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: :D
+[2015:11:01-13:48:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: level 7 o dele
+[2015:11:01-13:48:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: COLOQUEI NO 8
+[2015:11:01-13:49:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oq esse iinfo
+[2015:11:01-13:49:10]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no debug?
+[2015:11:01-13:49:26]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: relog
+[2015:11:01-13:50:13]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: quer que eu ajude no q tiago ?
+[2015:11:01-13:51:08]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: ta sem skin ?? ou eu que to bugado ?
+[2015:11:01-13:51:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: aperta f1
+[2015:11:01-13:51:26]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: a *-*
+[2015:11:01-13:51:48]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: texturas pra vip ehauehuahe carai
+[2015:11:01-13:52:30]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: *-*
+[2015:11:01-13:53:32]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eta porra kk
+[2015:11:01-13:53:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta rapido ?
+[2015:11:01-13:53:54]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: como ligo o caroo .-.
+[2015:11:01-13:53:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: J SPAÇO
+[2015:11:01-13:54:10]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: GG
+[2015:11:01-13:54:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: gg
+[2015:11:01-13:54:41]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: nuss man o servidor ta muto pra realidade
+[2015:11:01-13:55:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o guastavo
+[2015:11:01-13:55:22]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: oi
+[2015:11:01-13:55:49]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se a hand ta de acordo com o ponteiro
+[2015:11:01-13:55:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: cdestroi e cria um carro
+[2015:11:01-13:56:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ponteiro
+[2015:11:01-13:56:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se ta real
+[2015:11:01-13:56:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta estranho
+[2015:11:01-13:56:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: diz q ta na marcha 4
+[2015:11:01-13:56:18]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a velocidade do jogo / ponteiro
+[2015:11:01-13:56:22]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a sei la
+[2015:11:01-13:56:35]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: ta poha man
+[2015:11:01-13:56:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: n sei se é pq to com fome
+[2015:11:01-13:56:52]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: *sede
+[2015:11:01-13:56:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai do carro
+[2015:11:01-13:57:07]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: mais parece que to a 10 por hora e ta a 100 tlg
+[2015:11:01-13:57:17]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o jogo ta lento ?
+[2015:11:01-13:57:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: n só o som
+[2015:11:01-13:57:25]  (Team - Desempregado) -> (TEAM)#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o
+[2015:11:01-13:57:26]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ops
+[2015:11:01-13:57:29]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: joga de volta uns 3
+[2015:11:01-13:57:32]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: de cada
+[2015:11:01-13:57:43]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o viado
+[2015:11:01-13:57:46]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: to com fome kk
+[2015:11:01-13:57:48]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: e sede
+[2015:11:01-13:58:12]  (Local) -> [LOCAL][2]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: i
+[2015:11:01-13:58:21]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve agr
+[2015:11:01-13:58:39]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: ta estranho
+[2015:11:01-13:58:47]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: esse carro aqui ta pegando 300 .-.
+[2015:11:01-13:59:00]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mais é 
+[2015:11:01-13:59:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mustang gt
+[2015:11:01-13:59:15]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: mais é que n parece que ta a 300
+[2015:11:01-13:59:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: esse pega 306
+[2015:11:01-13:59:23]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: parece que ta a 100 sei la
+[2015:11:01-13:59:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: go racha
+[2015:11:01-13:59:29]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tendi
+[2015:11:01-13:59:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mais estao todos os carro do sv
+[2015:11:01-13:59:39]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nessa base
+[2015:11:01-13:59:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: go racha
+[2015:11:01-13:59:47]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 3
+[2015:11:01-13:59:48]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 2
+[2015:11:01-13:59:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 1
+[2015:11:01-13:59:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ja
+[2015:11:01-13:59:51]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: deixa assim
+[2015:11:01-13:59:53]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ou refaz
+[2015:11:01-13:59:53]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-14:00:37]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: indo de la pra k peguei 275 só
+[2015:11:01-14:00:47]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: peguei 306
+[2015:11:01-14:00:49]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tem que aumenta a velocidade do carro ?
+[2015:11:01-14:00:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 308
+[2015:11:01-14:00:59]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: vamo denovo
+[2015:11:01-14:01:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ja
+[2015:11:01-14:01:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pera
+[2015:11:01-14:01:16]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: kk
+[2015:11:01-14:01:16]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: conta
+[2015:11:01-14:01:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 3
+[2015:11:01-14:01:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 2
+[2015:11:01-14:01:22]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 1
+[2015:11:01-14:01:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: j
+[2015:11:01-14:01:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: desligo
+[2015:11:01-14:01:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o motor
+[2015:11:01-14:01:29]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: volta
+[2015:11:01-14:01:32]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkk
+[2015:11:01-14:01:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 3
+[2015:11:01-14:01:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 2
+[2015:11:01-14:01:39]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 1
+[2015:11:01-14:01:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: go
+[2015:11:01-14:02:19]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: ta pegando 306 cértinho
+[2015:11:01-14:02:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pera
+[2015:11:01-14:02:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: com C *-*
+[2015:11:01-14:02:34]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkk tudo tabelado
+[2015:11:01-14:02:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-14:02:53]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ["527"] = {"Mustang GT",                      306,
+[2015:11:01-14:03:16]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: velocidade original
+[2015:11:01-14:03:24]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: do jogo, sem calculo
+[2015:11:01-14:03:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: erro velo
+[2015:11:01-14:03:26]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: mais acho que tem que muda umpouco
+[2015:11:01-14:03:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: eita
+[2015:11:01-14:03:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: string
+[2015:11:01-14:03:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: number
+[2015:11:01-14:03:41]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: linha 60
+[2015:11:01-14:03:43]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: tipo vc dando toquinho no acelerador ja passa de 50 meui estranho
+[2015:11:01-14:03:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vamo
+[2015:11:01-14:04:12]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sem calculos
+[2015:11:01-14:04:18]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: no velocimetro
+[2015:11:01-14:04:29]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se locoooooooo
+[2015:11:01-14:04:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: seviu???
+[2015:11:01-14:04:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkk
+[2015:11:01-14:04:58]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: relogando
+[2015:11:01-14:05:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vcs dois
+[2015:11:01-14:05:14]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: destroi e cria o carro dnv
+[2015:11:01-14:06:03]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: lol ta falando que n baixei as skins dos carros
+[2015:11:01-14:06:14]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: :s
+[2015:11:01-14:06:46]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: clica em baixar
+[2015:11:01-14:06:58]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: foi
+[2015:11:01-14:07:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo liga no skp de vcxs
+[2015:11:01-14:07:21]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Console * Dared Evil.: blz
+[2015:11:01-14:10:05]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: j
+[2015:11:01-14:19:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: '-'
+[2015:11:01-14:19:41]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: lkkkkkkkkkkkkkkkkkk
+[2015:11:01-14:19:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tigs
+[2015:11:01-14:19:54]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2015:11:01-14:19:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: coloco num tranque
+[2015:11:01-14:19:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o carro
+[2015:11:01-14:20:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ele coloco o carro num tanque
+[2015:11:01-14:20:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkkkkkkkkkkkkkkkkkkk
+[2015:11:01-14:20:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: maradoan sao silvestre
+[2015:11:01-14:20:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta vendo eu correndo?
+[2015:11:01-14:20:55]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkkkkkk
+[2015:11:01-14:22:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: '-'
+[2015:11:01-14:22:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: EITTAA
+[2015:11:01-14:22:16]  (Local) -> [LOCAL][1]#2F7CCC[2] #FFFFFFVDBG:Console * Ivan_Silva: TANTO DE INFO
+[2015:11:01-15:36:48]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: aew
+[2015:11:01-15:36:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ei
+[2015:11:01-15:36:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: chegai
+[2015:11:01-15:37:00]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: que resolucao ta teu mta
+[2015:11:01-15:37:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: 1366x720
+[2015:11:01-15:37:16]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: da tp
+[2015:11:01-15:37:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se os novos quadrados tao alinhado
+[2015:11:01-15:37:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: totalmente fora *-*
+[2015:11:01-15:37:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: manda print
+[2015:11:01-15:37:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: vo manda print
+[2015:11:01-15:38:21]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai dao
+[2015:11:01-15:38:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dai
+[2015:11:01-15:38:26]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo da restart
+[2015:11:01-15:39:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: tava respondendo skype
+[2015:11:01-15:39:24]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dmr
+[2015:11:01-15:39:32]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: n precisa tirar mais print
+[2015:11:01-15:39:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: carai quando se escreve o personagem meche a boca
+[2015:11:01-15:39:36]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta dando certo
+[2015:11:01-15:39:45]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkk
+[2015:11:01-15:39:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dsadsadsa
+[2015:11:01-15:39:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nadad ver
+[2015:11:01-15:40:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: na hora que vc falo mecheu '---
+[2015:11:01-15:40:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: .-.
+[2015:11:01-15:40:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nada ve
+[2015:11:01-15:40:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dsadsa
+[2015:11:01-15:40:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dsadas
+[2015:11:01-15:40:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dsadsa
+[2015:11:01-15:40:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: dsadsa
+[2015:11:01-15:40:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: posso compra um infernos ?? e.e kkk e uma o1 ?? e.e
+[2015:11:01-15:41:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: kkk
+[2015:11:01-15:41:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: so 1
+[2015:11:01-15:41:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vai sai dai
+[2015:11:01-15:41:46]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: infernus ne
+[2015:11:01-15:41:54]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: ué se falo só 1 '---
+[2015:11:01-15:42:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: vo pega as velocidade aqui
+[2015:11:01-15:43:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: infernus ne
+[2015:11:01-15:43:09]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: blz
+[2015:11:01-15:45:29]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: nuss a velocidade do carro é 78 O.o kkkk
+[2015:11:01-15:45:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sim
+[2015:11:01-15:50:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo fazer função test drive
+[2015:11:01-15:59:27]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: aew
+[2015:11:01-15:59:33]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: os industrial também ??
+[2015:11:01-15:59:49]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: todos
+[2015:11:01-15:59:54]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: ok
+[2015:11:01-16:02:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: vem aqui
+[2015:11:01-16:03:23]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q tem
+[2015:11:01-16:03:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: coloco 53 ou + ?? em decida ele pega mais '--
+[2015:11:01-16:03:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: é um caminhao de lixo
+[2015:11:01-16:03:44]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: kkk
+[2015:11:01-16:03:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: 53
+[2015:11:01-16:04:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: lol la tava 300 '-'
+[2015:11:01-16:04:24]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: acho q fiz errado
+[2015:11:01-16:17:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: ta poha carro de policia voa man
+[2015:11:01-16:19:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Dared Evil.: ta aew ?
+[2015:11:01-17:46:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: bug pra caralho na pagg
+[2015:11:01-17:46:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: dps ve la kk
+[2015:11:01-17:46:47]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tlgd
+[2015:11:01-17:46:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: font zuada ..
+[2015:11:01-17:47:04]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tu no podep or
+[2015:11:01-17:47:05]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai dai
+[2015:11:01-17:47:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o botao
+[2015:11:01-17:47:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: com efeito nao?
+[2015:11:01-17:47:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ss
+[2015:11:01-17:47:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mano
+[2015:11:01-17:47:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o foda
+[2015:11:01-17:47:43]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e q essa loja de carros
+[2015:11:01-17:47:48]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ela diminui o tamanho
+[2015:11:01-17:47:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: conforma a resolulão
+[2015:11:01-17:47:53]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vc tiro isso?
+[2015:11:01-17:47:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: comforme a resolução*
+[2015:11:01-17:48:18]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nao -'
+[2015:11:01-17:48:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: entra na ultima resolucao pra ver
+[2015:11:01-17:48:36]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: reloga agr
+[2015:11:01-17:48:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: da tp
+[2015:11:01-17:49:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ve o print la
+[2015:11:01-17:49:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ja vi
+[2015:11:01-17:50:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: falo
+[2015:11:01-17:50:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no skype
+[2015:11:01-17:50:25]  (Team - Desempregado) -> (TEAM)#2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: T
+[2015:11:01-17:50:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: PRINT NA ULTIMA RESOLUÇÃO.
+[2015:11:01-18:00:00]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: puta q pariu, internet tá foda
+[2015:11:01-18:00:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta emcima da hud
+[2015:11:01-18:00:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e esse ping mano?
+[2015:11:01-18:05:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mano
+[2015:11:01-18:05:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta na ultma resol
+[2015:11:01-18:06:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta ?
+[2015:11:01-18:06:46]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: testa ali
+[2015:11:01-18:07:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ele ta l
+[2015:11:01-18:07:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nos inferno
+[2015:11:01-18:07:13]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: dhr e no canto nao?
+[2015:11:01-18:07:20]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: manda print
+[2015:11:01-18:07:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tá
+[2015:11:01-18:08:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ve la
+[2015:11:01-18:08:46]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: font te grandona
+[2015:11:01-18:08:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: aaaaa
+[2015:11:01-18:08:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: manoo
+[2015:11:01-18:09:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fico certo a fonte
+[2015:11:01-18:09:05]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-18:09:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: foi mal
+[2015:11:01-18:09:34]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkkkkk
+[2015:11:01-18:09:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: da assistir em mim
+[2015:11:01-18:10:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: font ta muito grande
+[2015:11:01-18:10:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: kkk
+[2015:11:01-18:10:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tem como fazer aql role
+[2015:11:01-18:10:12]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e desablita
+[2015:11:01-18:10:12]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: TIRA UMA PRINT
+[2015:11:01-18:10:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a hud quando abrir?
+[2015:11:01-18:10:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: TEM
+[2015:11:01-18:10:30]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: andei la
+[2015:11:01-18:11:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se a fonte tá de boa
+[2015:11:01-18:11:12]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: agr ta boa
+[2015:11:01-18:11:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem ali embaixo ou a imgdo carro ou uma pequena descri
+[2015:11:01-18:11:34]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: saca carro de luxo feito nao sei onde
+[2015:11:01-18:11:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: blalala
+[2015:11:01-18:12:01]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-18:12:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ata
+[2015:11:01-18:12:04]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: fechar nao ta no meio da bg
+[2015:11:01-18:12:35]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oos cara
+[2015:11:01-18:12:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q q tu tire
+[2015:11:01-18:12:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a neblina
+[2015:11:01-18:12:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se a fonte tá de boa
+[2015:11:01-18:13:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: a loja ali
+[2015:11:01-18:13:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta sem codiho
+[2015:11:01-18:13:08]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de #
+[2015:11:01-18:13:15]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai dai
+[2015:11:01-18:13:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta de boa
+[2015:11:01-18:13:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: FECHAR NAO TO MEIO DA BG
+[2015:11:01-18:13:59]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: to sem ideia pra personalizar
+[2015:11:01-18:13:59]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: af
+[2015:11:01-18:14:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: n sou bom
+[2015:11:01-18:14:03]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta dhr
+[2015:11:01-18:14:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: melhor q aqlq branca zuado
+[2015:11:01-18:14:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: branco*
+[2015:11:01-18:14:47]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se nao tivese esssa parada de diminuir com a resolução
+[2015:11:01-18:14:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eu pegava o sscript
+[2015:11:01-18:14:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e fazia com um pouco mais de imagem
+[2015:11:01-18:15:24]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: nem vira refazer
+[2015:11:01-18:15:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nem
+[2015:11:01-18:15:33]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: FECHAR NAO TA MENIO DA BG
+[2015:11:01-18:15:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: meio*
+[2015:11:01-18:16:02]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tá um pouco pra cima ?
+[2015:11:01-18:16:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: sim
+[2015:11:01-18:16:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: coloco pequinin kk
+[2015:11:01-18:16:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tem q por uma imagenzinha ai mano
+[2015:11:01-18:16:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta muito seco
+[2015:11:01-18:16:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oq acha de por um loading
+[2015:11:01-18:17:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: igual aql do login
+[2015:11:01-18:17:06]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ai aparece LOJA DE CARROS
+[2015:11:01-18:17:25]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: menos
+[2015:11:01-18:18:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: do lado
+[2015:11:01-18:19:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: e melhor ..
+[2015:11:01-18:20:03]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vc viu oq eu falei ali emcima?
+[2015:11:01-18:20:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo ver
+[2015:11:01-18:20:39]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: faze a camera rodar e n o carro
+[2015:11:01-18:20:45]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ?
+[2015:11:01-18:20:55]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pode ser tb
+[2015:11:01-18:21:00]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fazer a camera dirar em torno do carro
+[2015:11:01-18:21:04]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mais um loading igual do login la qvc coloco 0
+[2015:11:01-18:21:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: seria legal
+[2015:11:01-18:21:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tu q ideias
+[2015:11:01-18:21:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra deixar
+[2015:11:01-18:21:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o bang
+[2015:11:01-18:21:54]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mais legal?
+[2015:11:01-18:21:59]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: posso dau ma ideia?
+[2015:11:01-18:40:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o regiter no site
+[2015:11:01-18:40:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta funfando?
+[2015:11:01-18:40:15]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-18:40:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: essescara e muito burro
+[2015:11:01-18:40:24]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao sabe por o nome coleto '-'
+[2015:11:01-18:40:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: completo*
+[2015:11:01-18:40:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-18:41:02]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: n ajuda, so diz que " siga todos os passos corretamente "
+[2015:11:01-18:41:49]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-18:42:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q img
+[2015:11:01-18:42:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: de diamantes?
+[2015:11:01-18:42:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo fazendo o trab e te ajudando
+[2015:11:01-18:42:36]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: precisa n
+[2015:11:01-18:44:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vo fazer uma img ilustrativa
+[2015:11:01-18:44:39]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra tira a duvida
+[2015:11:01-18:44:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra sempre
+[2015:11:01-18:45:26]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: blz
+[2015:11:01-18:45:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eta kk
+[2015:11:01-19:19:23]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: zika
+[2015:11:01-19:19:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta ficando
+[2015:11:01-19:19:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ?
+[2015:11:01-19:19:37]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: os botao
+[2015:11:01-19:19:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta foa do lugar
+[2015:11:01-19:19:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: to ageitando
+[2015:11:01-19:19:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: se vai por level?
+[2015:11:01-19:20:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: pra compra carro
+[2015:11:01-19:20:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: claro
+[2015:11:01-19:20:29]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: precisa pra compra arma, pq nao pra carro
+[2015:11:01-19:45:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: zikaaaaaaaaaaaaa
+[2015:11:01-19:45:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tue esmito
+[2015:11:01-19:45:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: praq esse X?
+[2015:11:01-19:46:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pra marcar
+[2015:11:01-19:46:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: se vai compra com diamante
+[2015:11:01-19:46:08]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ou dinheiro
+[2015:11:01-19:46:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem do lado
+[2015:11:01-19:46:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: do bg
+[2015:11:01-19:46:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: fica melhor
+[2015:11:01-19:51:44]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: zikaaaaaaaaaaaaa
+[2015:11:01-20:12:42]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta ai mano?
+[2015:11:01-20:17:49]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva:  omano
+[2015:11:01-20:17:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: faz um favor?
+[2015:11:01-20:17:54]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-20:17:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: 2 palito
+[2015:11:01-20:18:09]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ACA
+[2015:11:01-20:18:12]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: AQL MTA MASTER
+[2015:11:01-20:18:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: jump
+[2015:11:01-20:18:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem no serv ai
+[2015:11:01-20:18:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: quero testa e e um joguin bem dhr
+[2015:11:01-20:18:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vc ja baixo
+[2015:11:01-20:18:36]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: calma
+[2015:11:01-20:33:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se a loja ta dhr
+[2015:11:01-20:33:51]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: dhr
+[2015:11:01-20:33:58]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: os botao
+[2015:11:01-20:33:58]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ou
+[2015:11:01-20:34:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tao emcimada bg
+[2015:11:01-20:34:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo usa isso pra deixa na prisao
+[2015:11:01-20:34:04]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: onde fica dinheiro e as parada
+[2015:11:01-20:34:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: quando o cara tiver preso
+[2015:11:01-20:34:17]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tira print
+[2015:11:01-20:34:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: abriou o jogo ia?
+[2015:11:01-20:34:50]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q dhr
+[2015:11:01-20:36:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: NEMSEI
+[2015:11:01-20:36:19]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ONDE EU ACHO ESSAS PORRA
+[2015:11:01-20:36:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: uheuehe
+[2015:11:01-20:36:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tira print da loja
+[2015:11:01-20:37:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mnadie la
+[2015:11:01-20:53:15]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: dentro da pasta
+[2015:11:01-20:53:16]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: raiz
+[2015:11:01-20:53:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tem 2 .lua
+[2015:11:01-20:53:18]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: no meta
+[2015:11:01-20:53:21]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: eles tao assim --
+[2015:11:01-20:53:26]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: poem normal assim <meta>
+[2015:11:01-20:54:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mandei skype
+[2015:11:01-20:54:10]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o meta
+[2015:11:01-20:55:01]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: mudo ometa?
+[2015:11:01-20:55:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ????????
+[2015:11:01-20:55:56]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mudei
+[2015:11:01-20:56:11]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: tu nem baixo o meta
+[2015:11:01-20:56:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q eu te mandei kjj
+[2015:11:01-20:57:20]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: mano acho q nvai da pra paga a vps
+[2015:11:01-20:57:28]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: vixi
+[2015:11:01-20:57:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: quando vence
+[2015:11:01-20:57:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: amanha
+[2015:11:01-20:57:50]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta sem grana nenhuma?
+[2015:11:01-20:57:58]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:11:01-20:58:03]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se ta alinhado
+[2015:11:01-20:58:14]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: oq?
+[2015:11:01-20:58:17]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: q e pra ver?
+[2015:11:01-20:58:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve se o velocidade maxima fico no lugar certo
+[2015:11:01-20:58:31]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ja fez backup?
+[2015:11:01-20:58:36]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: nao
+[2015:11:01-20:58:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta pra cima
+[2015:11:01-20:58:52]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o nome do carro ta um poco pra cima tb
+[2015:11:01-20:59:05]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ta la emcimão agr
+[2015:11:01-21:00:00]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: um pouco mais pra baixo
+[2015:11:01-21:00:07]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: so 2 dedin
+[2015:11:01-21:00:20]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o nome do veiculo ta um pouco pra cima tb
+[2015:11:01-21:03:02]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ve agr
+[2015:11:01-22:23:23]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: .
+[2015:11:01-22:25:43]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ddddddddddddd
+[2015:11:01-22:30:35]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ei
+[2015:11:01-22:31:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ta bom assim
+[2015:11:01-22:31:31]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: as cores 
+[2015:11:01-22:31:32]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:11:01-22:31:38]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: diamante poem azul
+[2015:11:01-22:31:40]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: o dinheiro verde '-'
+[2015:11:01-22:31:42]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: se o cara
+[2015:11:01-22:31:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tipo, se o dinheiro do cara nao der
+[2015:11:01-22:31:56]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: saquei
+[2015:11:01-22:31:59]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: tendeu
+[2015:11:01-22:32:13]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vo pega rgb azul
+[2015:11:01-22:32:15]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pro diamante
+[2015:11:01-22:34:02]  (Global) -> #2F7CCC[2] #FFFFFFVDBG:Console * Ivan Silva: ..
+[2015:11:01-22:35:23]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: q merda
+[2015:11:01-22:35:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: n to achando

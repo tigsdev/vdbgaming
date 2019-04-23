@@ -1,0 +1,6 @@
+addEvent ( "VDBGPhone:App->Bank:getClientBankLog", true )
+addEventHandler ( "VDBGPhone:App->Bank:getClientBankLog", root, function ( )
+	local a = getAccountName ( getPlayerAccount ( source ) )
+	local q = exports.VDBGSQL:db_query ( "SELECT * FROM bank_transactions WHERE account=?", a )
+	--triggerClientEvent ( source, "VDBGPhone:App->Bank:sendClientBankLog", source, q )
+end )

@@ -1,0 +1,233 @@
+Este arquivo foi gerado pelo Console em 2015:10:14-00:37:33
+
+
+
+[2015:10:14-00:37:33] DaredEvil Mudou seu nick para Sem_Nome
+[2015:10:14-00:38:00] Sem_Nome Mudou seu nick para Gustavo_A
+[2015:10:14-00:38:00] Gustavo_A Fez um login na conta DaredEvil (IP: 152.250.92.143  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:10:14-00:38:10] Gustavo_A gerou suaAdmiral
+[2015:10:14-00:38:50] Gustavo_A escondeu sua Admiral
+[2015:10:14-00:40:12] Gustavo_A gerou suaAdmiral
+[2015:10:14-00:40:55] Gustavo_A escondeu sua Admiral
+[2015:10:14-01:21:46] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-01:23:00] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-01:23:00] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-01:23:12] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:24:37] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:24:38] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:25:41] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:26:07] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:26:18] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:26:18] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:27:20] Tiago_Santos gerou suaAdmiral
+[2015:10:14-01:40:47] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:40:47] Tiago_Santos escondeu sua Admiral
+[2015:10:14-01:40:50] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:40:56] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:40:56] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:40:58] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:41:01] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:41:04] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:44:15] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:44:24] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:47:10] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:47:16] Tiago_Santos gerou suaAdmiral
+[2015:10:14-01:49:06] Tiago_Santos escondeu sua Admiral
+[2015:10:14-01:49:07] Tiago_Santos gerou suaAdmiral
+[2015:10:14-01:51:34] Tiago_Santos escondeu sua Infernus
+[2015:10:14-01:51:34] Tiago_Santos escondeu sua Admiral
+[2015:10:14-01:51:37] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:51:40] Tiago_Santos gerou suaAdmiral
+[2015:10:14-01:52:21] Tiago_Santos gerou suaInfernus
+[2015:10:14-01:52:26] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:13:53] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:14:42] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:15:11] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:15:22] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:15:49] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:10] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:12] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:17:14] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:36] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:17:39] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:40] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:17:41] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:43] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:17:44] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:17:46] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:17:47] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:20:06] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:20:59] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:21:55] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:22:57] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:22:58] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:25:10] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:26:06] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:27:55] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:27:56] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:29:14] Tiago_Santos morreu
+[2015:10:14-02:29:42] Tiago_Santos escondeu sua Infernus
+[2015:10:14-02:29:43] Tiago_Santos gerou suaInfernus
+[2015:10:14-02:30:45] Tiago_Santos escondeu sua Infernus
+[2015:10:14-02:30:45] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:32:17] Tiago_Santos gerou suaAdmiral
+[2015:10:14-02:32:24] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:32:35] Tiago_Santos escondeu sua Admiral
+[2015:10:14-02:36:51] Tiago_Santos Agora, é empregue como um Mecanico
+[2015:10:14-02:40:38] Tiago_Santos escondeu sua Infernus
+[2015:10:14-02:45:02] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-02:45:46] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-02:45:47] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-11:38:36] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-11:39:33] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-11:39:33] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-12:02:56] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:03:01] Tiago_Santos gerou suaAdmiral
+[2015:10:14-12:10:52] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:10:52] Tiago_Santos gerou suaAdmiral
+[2015:10:14-12:17:49] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:17:56] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:17:57] Tiago_Santos gerou suaAdmiral
+[2015:10:14-12:18:02] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:21:53] Tiago_Santos gerou suaAdmiral
+[2015:10:14-12:24:07] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:24:08] Tiago_Santos gerou suaAdmiral
+[2015:10:14-12:24:18] Tiago_Santos escondeu sua Admiral
+[2015:10:14-12:24:41] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-12:30:44] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-12:30:44] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-12:44:13] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-12:52:52] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-12:52:52] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-13:09:36] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-13:10:03] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-13:10:03] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-13:32:18] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-14:04:22] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-14:04:22] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-14:04:57] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-14:05:41] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-14:05:41] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-14:31:41] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-14:32:19] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-14:32:19] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-14:34:24] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:46:37] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:46:52] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:46:54] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:46:55] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:47:09] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:48:42] Tiago_Santos gerou suaAdmiral
+[2015:10:14-14:48:45] Tiago_Santos escondeu sua Admiral
+[2015:10:14-14:48:55] Tiago_Santos gerou suaAdmiral
+[2015:10:14-14:49:08] Tiago_Santos escondeu sua Admiral
+[2015:10:14-14:49:28] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:49:35] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:50:32] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:50:42] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:54:03] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:54:06] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:54:50] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:54:52] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:54:53] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:55:09] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:55:10] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:56:19] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:56:21] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:56:23] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:56:23] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:57:56] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:57:58] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:58:24] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:58:26] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:58:27] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:58:44] Tiago_Santos escondeu sua Infernus
+[2015:10:14-14:58:44] Tiago_Santos gerou suaInfernus
+[2015:10:14-14:58:53] Tiago_Santos escondeu sua Infernus
+[2015:10:14-15:18:09] Tiago_Santos gerou suaHydra
+[2015:10:14-15:18:11] Tiago_Santos gerou suaHydra
+[2015:10:14-15:19:43] Tiago_Santos gerou suaHydra
+[2015:10:14-15:41:24] Tiago_Santos spawned a(n) Towtruck
+[2015:10:14-17:14:02] Tiago_Santos morreu
+[2015:10:14-17:14:49] #1E90FF:::D#00ff00K::: Mudou seu nick para :::DK:::
+[2015:10:14-17:14:49] :::DK::: Mudou seu nick para Sem_Nome
+[2015:10:14-17:17:24] Sem_Nome Mudou seu nick para Hidinei_K
+[2015:10:14-17:17:24] Hidinei_K Fez um login na conta tigsds (IP: 179.223.188.192  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:10:14-17:42:34] *TW*Zanluca Mudou seu nick para Sem_Nome
+[2015:10:14-17:44:03] Sem_Nome Fez um login na conta tigsds1 (IP: 201.21.147.193  || Serial: 49C1490E017FCCFC63A594FC7D572742)
+[2015:10:14-17:44:21] Sem_Nome Mudou seu nick para Zanluca
+[2015:10:14-17:46:38] Sem_Nome morreu
+[2015:10:14-17:47:01] Sem_Nome spawned a(n) Quadbike
+[2015:10:14-17:47:29] Sem_Nome spawned a(n) Savanna
+[2015:10:14-17:49:23] Sem_Nome spawned a(n) Caddy
+[2015:10:14-17:55:53] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:55:57] Tiago_Santos gerou suaInfernus
+[2015:10:14-17:56:00] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:56:08] Tiago_Santos gerou suaInfernus
+[2015:10:14-17:56:10] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:56:11] Tiago_Santos gerou suaInfernus
+[2015:10:14-17:56:22] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:56:23] Tiago_Santos gerou suaInfernus
+[2015:10:14-17:56:38] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:56:43] Tiago_Santos gerou suaInfernus
+[2015:10:14-17:56:43] Tiago_Santos escondeu sua Infernus
+[2015:10:14-17:57:15] Tiago_Santos gerou suaInfernus
+[2015:10:14-18:08:27] Zanluca Mudou seu nick para Sem_Nome
+[2015:10:14-18:10:06] Sem_Nome Fez um login na conta tigsds1 (IP: 201.21.147.193  || Serial: 49C1490E017FCCFC63A594FC7D572742)
+[2015:10:14-18:12:06] Tiago_Santos morreu
+[2015:10:14-18:12:35] ^#1E90FFWal#FF8C00l' Mudou seu nick para ^Wall'
+[2015:10:14-18:13:46] #1E90FF:::D#00ff00K::: Mudou seu nick para :::DK:::
+[2015:10:14-18:14:12] :::DK::: Mudou seu nick para Hidinei_K
+[2015:10:14-18:14:12] Hidinei_K Fez um login na conta tigsds (IP: 179.223.188.192  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:10:14-18:14:48] ^Wall' Fez um login na conta Wallace (IP: 177.205.81.79  || Serial: CE84893C8E6370EFE73B131405BD8A53)
+[2015:10:14-18:19:40] Tiago_Santos escondeu sua Infernus
+[2015:10:14-18:21:31] Zanluca Mudou seu nick para Sem_Nome
+[2015:10:14-18:26:02] Hidinei_K comprou um Admiral
+[2015:10:14-18:37:02] Zanluca Mudou seu nick para Sem_Nome
+[2015:10:14-18:41:57] ^Wall' morreu
+[2015:10:14-18:45:40] ^Wall' morreu
+[2015:10:14-18:48:36] Zanluca Mudou seu nick para Sem_Nome
+[2015:10:14-18:49:00] ^#1E90FFWal#FF8C00l' Mudou seu nick para ^Wall'
+[2015:10:14-18:49:42] ^Wall' Mudou seu nick para Sem_Nome
+[2015:10:14-18:49:54] Sem_Nome Fez um login na conta Wallace (IP: 177.205.81.79  || Serial: CE84893C8E6370EFE73B131405BD8A53)
+[2015:10:14-19:04:14] TIGS Mudou seu nick para Sem_Nome
+[2015:10:14-19:06:46] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:14-19:06:46] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:10:14-19:09:05] Tiago_Santos gerou suaInfernus
+[2015:10:14-19:12:44] ExBr|Coronel.SouZa Mudou seu nick para Sem_Nome
+[2015:10:14-19:19:03] ^#1E90FFWal#FF8C00l' Mudou seu nick para ^Wall'
+[2015:10:14-19:19:31] ^Wall' Fez um login na conta Wallace (IP: 177.205.81.79  || Serial: CE84893C8E6370EFE73B131405BD8A53)
+[2015:10:14-19:20:35] Tiago_Santos morreu
+[2015:10:14-19:21:59] Sem_Nome Mudou seu nick para Hygor_Souza
+[2015:10:14-19:21:59] Hygor_Souza Fez um login na conta tigsds1 (IP: 201.86.67.121  || Serial: DCA403477248A629FC2465AEA7CF2EF4)
+[2015:10:14-19:23:04] Tiago_Santos escondeu sua Infernus
+[2015:10:14-19:23:12] Tiago_Santos spawned a(n) Caddy
+[2015:10:14-19:28:29] ^Wall' Agora, é empregue como um Policial
+[2015:10:14-19:28:33] Hygor_Souza Agora, é empregue como um Policial
+[2015:10:14-19:29:30] ^Wall' spawned a(n) Police LS
+[2015:10:14-19:32:33] Tiago_Santos Agora, é empregue como um Policial
+[2015:10:14-19:35:50] Tiago_Santos Agora, é empregue como um Criminoso
+[2015:10:14-19:36:00] Tiago_Santos spawned a(n) PCJ-600
+[2015:10:14-19:40:54] Hygor_Souza morreu
+[2015:10:14-19:40:59] ^Wall' morreu
+[2015:10:14-19:41:28] ^Wall' spawned a(n) Quadbike
+[2015:10:14-19:44:17] Hygor_Souza spawned a(n) Police LS
+[2015:10:14-19:44:38] Tiago_Santos Agora, é empregue como um Policial
+[2015:10:14-19:45:21] ^Wall' Agora, é empregue como um Criminoso
+[2015:10:14-19:45:27] ^Wall' spawned a(n) PCJ-600
+[2015:10:14-19:47:17] ^#1E90FFWal#FF8C00l' Mudou seu nick para ^Wall'
+[2015:10:14-19:47:19] ^Wall' Mudou seu nick para Sem_Nome
+[2015:10:14-19:47:37] Sem_Nome Fez um login na conta Wallace (IP: 177.205.81.79  || Serial: CE84893C8E6370EFE73B131405BD8A53)
+[2015:10:14-20:26:46] Tiago_Santos morreu
+[2015:10:14-20:35:44] Wallace Ferreira da Silva Foi Solto!
+[2015:10:14-20:39:07] Wallace Ferreira da Silva Foi Solto!
+[2015:10:14-20:41:31] Sem_Nome morreu
+[2015:10:14-20:43:43] Sem_Nome morreu
+[2015:10:14-20:52:59] Wallace Ferreira da Silva Foi Solto!
+[2015:10:14-20:53:26] Tiago_Santos morreu
+[2015:10:14-20:58:42] Wallace Ferreira da Silva Foi Solto!
+[2015:10:14-21:02:28] Wallace Ferreira da Silva Foi Solto!
+[2015:10:14-23:07:22] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:14-23:08:52] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:14-23:08:52] Ivan_Silva Fez um login na conta strikergfx (IP: 201.43.115.32  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:14-23:09:35] Ivan_Silva spawned a(n) Savanna

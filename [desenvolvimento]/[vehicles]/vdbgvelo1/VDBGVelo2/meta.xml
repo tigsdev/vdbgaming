@@ -1,0 +1,30 @@
+<sg_speedo>
+	
+	<!--[Ez a speedo a Social Gaming számára lészült és a lopás az bün..]-->
+	
+	
+	
+	<file src="files/speedo_alap.png" />
+	<file src="files/speedo_needle.png" />
+	<file src="files/speedo_oil.png" />
+	<file src="files/speedo_nitro.png" />
+	<file src="files/speedo_right.png" />
+	<file src="files/speedo_right_on.png"/>	
+	<file src="files/speedo_left.png" />
+	<file src="files/speedo_left_on.png" />		
+	<file src="files/speedo_lock.png" />
+	<file src="files/speedo_lock_on.png" />	
+	<file src="files/speedo_gas.png" />
+	<file src="files/speedo_gas_low.png" />
+	<file src="files/turnsignal.mp3" />
+	
+	
+	<script src="c_indicators.lua" type="client" />
+	<script src="traveled.lua" type="client"/>
+	<script src="traveled_s.lua" type="server"/>
+
+	
+	<script src="clients.lua" type="client" />
+	
+	
+</sg_speedo>

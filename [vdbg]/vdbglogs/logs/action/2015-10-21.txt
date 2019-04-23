@@ -1,0 +1,13 @@
+Este arquivo foi gerado pelo Console em 2015:10:21-14:42:35
+
+
+
+[2015:10:21-14:42:35] Strikergfx Mudou seu nick para Sem_Nome
+[2015:10:21-14:43:36] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:10:21-14:43:36] Ivan_Silva Fez um login na conta strikergfx (IP: 189.78.140.159  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:10:21-14:43:50] Ivan_Silva gerou suaZR-350
+[2015:10:21-14:43:53] Ivan_Silva escondeu sua ZR-350
+[2015:10:21-14:45:05] Ivan_Silva Agora, é empregue como um Taxista
+[2015:10:21-19:35:45] TIGS Mudou seu nick para Sem_Nome
+[2015:10:21-19:36:47] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:10:21-19:36:47] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)

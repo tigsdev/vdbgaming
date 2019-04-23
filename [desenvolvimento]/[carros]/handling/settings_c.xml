@@ -1,0 +1,13 @@
+<config>
+    <usedKey>b</usedKey>
+    <template>default</template>
+    <notifyUpgrade>false</notifyUpgrade>
+    <lockVehicleWhenEditing>true</lockVehicleWhenEditing>
+    <language>english</language>
+    <commode>splitted</commode>
+    <notifyUpdate>false</notifyUpdate>
+    <minVersion>137</minVersion>
+    <version>161</version>
+    <usedCommand>hedit</usedCommand>
+    <mtaVersion>1.2</mtaVersion>
+</config>

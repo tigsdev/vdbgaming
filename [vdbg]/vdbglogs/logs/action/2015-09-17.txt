@@ -1,0 +1,6 @@
+Este arquivo foi gerado pelo Console em 2015:09:17-17:13:04
+
+
+
+[2015:09:17-17:13:04] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:17-18:41:41] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)

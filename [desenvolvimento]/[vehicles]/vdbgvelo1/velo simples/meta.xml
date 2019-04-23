@@ -1,0 +1,83 @@
+<meta>
+     <info author="Galego" description="Velocimetro VDBG" version="1.0" type="script" />
+	
+	<script src="velocimetro/server.lua" type="server" />
+	<script src="velocimetro/cliente.lua" type="client" />
+	<file src="velocimetro/speedo1.png"/>
+	<file src="velocimetro/images/window.png"/>
+	<file src="velocimetro/images/blinkerRightOn.png"/>
+	<file src="velocimetro/images/blinkerRightOff.png"/>
+	<file src="velocimetro/images/blinkerLeftOn.png"/>
+	<file src="velocimetro/images/blinkerLeftOff.png"/>
+	<file src="velocimetro/needle1.png"/>
+	<file src="velocimetro/bg.png"/>
+	<file src="velocimetro/bar.png"/>
+	<file src="velocimetro/luzon.png"/>
+	<file src="velocimetro/luzoff.png"/>
+<!--	<script src="velocimetro/alerta.luac" type="client" />-->
+	<file src="velocimetro/fuel.png"/>
+	<file src="velocimetro/fuel2.png"/>
+	<file src="velocimetro/lockoff.png"/>
+	<file src="velocimetro/lockon.png"/>
+	<file src="velocimetro/motor.png"/>
+	<file src="velocimetro/motor_be.png"/>
+	<file src="velocimetro/acens.ttf"/>
+	
+	<!--
+	<script src="hud/cliente.luac" type="client" />
+	<file src="hud/armour.png" />
+	<file src="hud/h2o.png" />
+	<file src="hud/health.png" />
+	<file src="hud/progresso.png" />
+	<file src="hud/level.png" />
+    <file src="hud/img/0.png" />
+	<file src="hud/img/1.png" />
+	<file src="hud/img/2.png" />
+	<file src="hud/img/3.png" />
+	<file src="hud/img/4.png" />
+	<file src="hud/img/5.png" />
+	<file src="hud/img/6.png" />
+	<file src="hud/img/7.png" />
+	<file src="hud/img/8.png" />
+	<file src="hud/img/9.png" />
+	<file src="hud/img/10.png" />
+	<file src="hud/img/11.png" />
+	<file src="hud/img/12.png" />
+	<file src="hud/img/14.png" />
+	<file src="hud/img/15.png" />
+	<file src="hud/img/17.png" />
+	<file src="hud/img/18.png" />
+	<file src="hud/img/16.png" />
+	<file src="hud/img/22.png" />
+	<file src="hud/img/23.png" />
+	<file src="hud/img/24.png" />
+	<file src="hud/img/25.png" />
+	<file src="hud/img/26.png" />
+	<file src="hud/img/27.png" />
+	<file src="hud/img/28.png" />
+	<file src="hud/img/29.png" />
+	<file src="hud/img/30.png" />
+	<file src="hud/img/31.png" />
+	<file src="hud/img/32.png" />
+	<file src="hud/img/33.png" />
+	<file src="hud/img/34.png" />
+	<file src="hud/img/35.png" />
+	<file src="hud/img/36.png" />
+	<file src="hud/img/37.png" />
+	<file src="hud/img/38.png" />
+	<file src="hud/img/39.png" />
+	<file src="hud/img/40.png" />
+	<file src="hud/img/41.png" />
+	<file src="hud/img/42.png" />
+	<file src="hud/img/43.png" />
+	<file src="hud/img/46.png" />
+	<file src="hud/hud.png" />
+    <file src="hud/font.ttf" />
+	<file src="hud/font2.ttf" />
+	<file src="hud/logo.ttf" />
+	<file src="hud/img/wanted.png" />
+	<file src="hud/img/wanted_a.png" />
+    
+    -->
+   
+</meta>

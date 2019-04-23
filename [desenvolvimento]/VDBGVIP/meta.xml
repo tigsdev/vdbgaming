@@ -1,0 +1,41 @@
+<meta>
+	<info author="TIGS98" name="VDBGVIP" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<script src="vip-s.lua" type="server" />
+	<script src="vip-c.luac" type="client" />
+	
+	<export function="checkPlayerVipTime" type="server" />
+	<export function="isDatePassed" type="server" />
+	<export function="getVipPayoutTimerDetails" type="server" />
+	<export function="getVipLevelFromName" type="server" />
+	<export function="getVipLevelFromName" type="client" />
+	<export function="isPlayerVIP" type="client" />
+	<export function="isPlayerVIP" type="server" />
+	
+	<script src="laser-s.lua" type="server" />
+	<script src="laser-c.luac" type="client" />
+	
+	
+	<script src="jetpack.lua" type="server" />
+	
+	
+	
+    <script src="diamante-s.lua" type="server" />
+    <script src="diamante-c.lua" type="client" />
+	<export function="updateDiamante" http="true" />	
+	<export function="hasPlayerDiamound" type="server" />
+	<export function="takePlayerDiamound" type="server" />
+	<export function="givePlayerDiamound" type="server" />
+	<export function="getPlayerDiamound" type="server" />
+	
+    <script src="diamante-c.lua" type="client" />
+	
+	<export function="hasPlayerDiamound" type="client" />
+	<export function="takePlayerDiamound" type="client" />
+	<export function="givePlayerDiamound" type="client" />
+	<export function="getPlayerDiamound" type="client" />
+	
+	
+	
+</meta>

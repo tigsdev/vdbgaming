@@ -1,0 +1,6 @@
+<meta>
+    <info type="map" version="1.0.0"></info>
+    <map src="novinha.map" dimension="0"></map>
+     <script src="gatescript.lua" type="server"></script>
+    <script src="skinpickups.lua" type="server"></script>
+ </meta>

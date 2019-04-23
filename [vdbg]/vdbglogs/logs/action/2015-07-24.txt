@@ -1,0 +1,14 @@
+Este arquivo foi gerado pelo Console em 2015:07:24-01:09:59
+
+
+
+[2015:07:24-01:09:59] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:24-03:30:33] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:24-03:31:15] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:24-03:45:47] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:24-03:46:09] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:24-14:01:31] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:24-14:01:58] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)
+[2015:07:24-14:52:47] Psyco Fez um login na conta 0102Psyco (IP: 177.81.83.198  || Serial: C1AC8EF78916861763E6AD2CBBD595B3)
+[2015:07:24-15:07:27] VDBG!#00ff00+DK Mudou seu nick para VDBG!+DK
+[2015:07:24-15:07:51] VDBG!+DK Fez um login na conta tigsds (IP: 191.191.68.38  || Serial: F7505CD4F0E1BAFA5A620A06CE1FD282)

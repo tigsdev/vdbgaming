@@ -1,0 +1,20 @@
+<meta>
+	<info author="TIGS98" name="VDBGWarpManagr" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	<oop>true</oop>
+
+
+	<script src="cliente.luac" type="client" />
+	<script src="server.lua" type="server" />
+	
+	
+	<file src="arquivos/entrar.png" />
+	<file src="arquivos/entrar.mp3" />
+	<file src="arquivos/sair.png" />
+	<file src="arquivos/opensans.ttf" />
+
+	
+	<export function='makeWarp' type="client" />
+
+
+</meta>

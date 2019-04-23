@@ -1,0 +1,20 @@
+<meta>
+    <info author="DarkCHETOS" version="1.0" type="script" name="VDBG mod shop"/>
+	
+	<min_mta_version client="1.5.0" server="1.5.0" />
+	
+	<script src="mshop_cart.luac" type="client" />
+    <script src="mshop_client.luac" type="client" />
+    <script src="mshop_server.lua" type="server" />
+	<script src="colorpicker/colorpicker.lua" type="client" />
+	
+	<file  src="moditems.xml" />
+	
+	<file src="bankgothic.ttf" type="client" />
+	
+	<file src="cart.png" type="client" />
+	<file src="colorpicker/palette.png" type="client" />
+	<file src="colorpicker/alpha.png" type="client" />	
+	<file src="models/modShop.txd" type="client"/>
+	<file src="models/modShop.dff" type="client"/>
+</meta>

@@ -1,0 +1,25 @@
+﻿<meta>
+	<info author="TIGS98" name="VDBGNametag" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+    
+    <script src="afk_detecta.luac" type="client" />
+    <script src="nametag_renders.luac" type="client" />
+	<script src="nametag_tag.luac" type="client"/>
+    <script src="sourceS.lua" />
+	
+	
+	<file src="arquivos/staff.png"/>
+    
+	<file src="arquivos/1.png" type="client" />
+	<file src="arquivos/2.png" type="client" />
+	<file src="arquivos/3.png" type="client" />
+	<file src="arquivos/4.png" type="client" />
+	<file src="arquivos/5.png" type="client" />
+	<file src="arquivos/6.png" type="client" />
+	<file src="arquivos/afk.png" type="client" />
+	<file src="arquivos/afk2.png" type="client" />
+	
+    <file src="arquivos/opensans.ttf" type="client" />
+    
+</meta>

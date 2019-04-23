@@ -1,0 +1,15 @@
+<meta>
+	<info author="TIGS98" name="VDBGSQL" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    
+    <script src="sql.lua" />
+    
+    <export function="db_query" />
+    <export function="db_exec" />
+    <export function="createAccount" />
+    <export function="account_exist" />
+    <export function="saveAllData" />
+    <export function="savePlayerData" />
+	
+    <min_mta_version server="1.3.4-0.00000"></min_mta_version>
+</meta>

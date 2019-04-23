@@ -1,0 +1,270 @@
+Este arquivo foi gerado pelo Console em 2015:11:01-00:11:56
+
+
+
+[2015:11:01-00:11:56] #FF0000|PowerSz| Mudou seu nick para Sem_Nome
+[2015:11:01-00:13:16] Sem_Nome Mudou seu nick para Power_Rafael
+[2015:11:01-00:13:16] Power_Rafael Fez um login na conta PowerSz (IP: 186.212.152.147  || Serial: D2E854DF9A529336CD2D9D5FFB94E744)
+[2015:11:01-00:13:29] Power_Rafael spawned a(n) Savanna
+[2015:11:01-00:32:32] Power_Rafael Agora, é empregue como um stunter
+[2015:11:01-00:46:24] Power_Rafael Agora, é empregue como um Piloto
+[2015:11:01-00:49:18] Power_Rafael spawned a(n) Shamal
+[2015:11:01-00:57:30] Power_Rafael morreu
+[2015:11:01-00:57:50] Power_Rafael spawned a(n) Savanna
+[2015:11:01-00:58:47] Power_Rafael spawned a(n) Quadbike
+[2015:11:01-00:59:03] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:05:20] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:11:06] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:22:39] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:29:53] #FF0000|PowerSz| Mudou seu nick para Sem_Nome
+[2015:11:01-01:31:09] Sem_Nome Mudou seu nick para Power_Rafael
+[2015:11:01-01:31:09] Power_Rafael Fez um login na conta PowerSz (IP: 186.212.152.147  || Serial: D2E854DF9A529336CD2D9D5FFB94E744)
+[2015:11:01-01:31:46] Power_Rafael morreu
+[2015:11:01-01:32:10] #FF0000|PowerSz| Mudou seu nick para |PowerSz|
+[2015:11:01-01:32:11] |PowerSz| Mudou seu nick para Sem_Nome
+[2015:11:01-01:32:33] Sem_Nome Mudou seu nick para Power_Rafael
+[2015:11:01-01:32:33] Power_Rafael Fez um login na conta PowerSz (IP: 191.33.48.107  || Serial: D2E854DF9A529336CD2D9D5FFB94E744)
+[2015:11:01-01:35:31] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:37:39] Power_Rafael spawned a(n) Dodo
+[2015:11:01-01:47:13] Power_Rafael morreu
+[2015:11:01-01:47:35] Power_Rafael spawned a(n) Savanna
+[2015:11:01-01:49:21] Power_Rafael spawned a(n) Dodo
+[2015:11:01-01:58:40] Tiago_Santos gerou suaAdmiral
+[2015:11:01-01:58:43] Tiago_Santos escondeu sua Admiral
+[2015:11:01-01:58:44] Tiago_Santos gerou suaAdmiral
+[2015:11:01-01:58:59] Tiago_Santos escondeu sua Admiral
+[2015:11:01-01:59:00] Tiago_Santos gerou suaAdmiral
+[2015:11:01-01:59:14] Tiago_Santos escondeu sua Admiral
+[2015:11:01-01:59:15] Tiago_Santos gerou suaAdmiral
+[2015:11:01-01:59:41] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:00:00] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:00:01] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:00:23] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:00:29] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:00:29] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:00:34] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:00:36] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:00:41] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:00:41] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:02:28] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:02:41] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:02:48] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:02:49] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:03:14] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:04:20] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:04:26] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:04:31] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:04:33] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:05:03] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:05:09] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:05:09] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:05:20] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:05:28] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:05:45] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:05:46] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:05:58] Power_Rafael morreu
+[2015:11:01-02:06:40] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:06:54] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:07:33] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:07:50] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:07:54] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:08:16] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:08:16] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:08:41] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:08:43] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:08:55] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:08:56] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:09:08] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:09:09] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:09:36] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:09:37] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:09:49] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:10:36] #FF0000|PowerSz| Mudou seu nick para |PowerSz|
+[2015:11:01-02:10:36] |PowerSz| Mudou seu nick para Sem_Nome
+[2015:11:01-02:10:47] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:10:57] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:10:57] Tiago_Santos gerou suaAdmiral
+[2015:11:01-02:11:58] Sem_Nome Mudou seu nick para Power_Rafael
+[2015:11:01-02:11:58] Power_Rafael Fez um login na conta kkrisherdykk (IP: 191.33.48.107  || Serial: D2E854DF9A529336CD2D9D5FFB94E744)
+[2015:11:01-02:12:05] Tiago_Santos escondeu sua Admiral
+[2015:11:01-02:16:33] Power_Rafael morreu
+[2015:11:01-02:17:57] Power_Rafael morreu
+[2015:11:01-02:21:15] Tiago_Santos (tiaguinhods) deletou a conta kkrisherdykk
+[2015:11:01-02:21:15] Tiago_Santos (tiaguinhods) deletou a conta kkrisherdykk
+[2015:11:01-02:42:48] Tiago_Santos comprou um Euros
+[2015:11:01-02:43:18] Tiago_Santos comprou um Cheetah
+[2015:11:01-02:43:58] Tiago_Santos comprou um Huntley
+[2015:11:01-02:44:23] Tiago_Santos comprou um Turismo
+[2015:11:01-02:44:48] Tiago_Santos comprou um Feltzer
+[2015:11:01-02:45:08] Tiago_Santos comprou um Super GT
+[2015:11:01-02:45:38] Tiago_Santos comprou um Rancher
+[2015:11:01-02:46:01] Tiago_Santos comprou um Stafford
+[2015:11:01-02:46:32] Tiago_Santos comprou um Bullet
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Euros
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Cheetah
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Huntley
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Turismo
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Feltzer
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Super GT
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Stafford
+[2015:11:01-02:46:42] Tiago_Santos escondeu sua Bullet
+[2015:11:01-02:47:09] Tiago_Santos comprou um Admiral
+[2015:11:01-02:47:32] Tiago_Santos gerou suaFeltzer
+[2015:11:01-02:51:50] Tiago_Santos escondeu sua Feltzer
+[2015:11:01-03:00:28] Tiago_Santos gerou suaFeltzer
+[2015:11:01-03:01:58] Tiago_Santos escondeu sua Feltzer
+[2015:11:01-03:02:01] Tiago_Santos gerou suaHuntley
+[2015:11:01-03:08:45] Tiago_Santos escondeu sua Huntley
+[2015:11:01-12:05:55] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-12:07:40] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-12:07:40] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-12:08:37] Tiago_Santos gerou suaHuntley
+[2015:11:01-12:08:59] Strikergfx Mudou seu nick para Sem_Nome
+[2015:11:01-12:09:53] Tiago_Santos escondeu sua Huntley
+[2015:11:01-12:10:01] Tiago_Santos gerou suaSuper GT
+[2015:11:01-12:12:00] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-12:12:00] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.243  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-12:12:55] Ivan_Silva morreu
+[2015:11:01-12:17:55] Ivan_Silva comprou um Turismo
+[2015:11:01-12:18:00] Ivan_Silva escondeu sua Turismo
+[2015:11:01-12:18:15] Ivan_Silva comprou um Infernus
+[2015:11:01-12:18:19] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:18:41] Ivan_Silva comprou um Sultan
+[2015:11:01-12:18:45] Ivan_Silva escondeu sua Sultan
+[2015:11:01-12:19:53] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:21:34] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:21:38] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:24:57] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:24:58] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:25:30] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:26:37] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:27:37] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:27:38] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:27:56] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:27:56] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:38:12] Tiago_Santos gerou suaSuper GT
+[2015:11:01-12:38:56] Tiago_Santos gerou suaTurismo
+[2015:11:01-12:40:36] Tiago_Santos escondeu sua Turismo
+[2015:11:01-12:44:18] Ivan_Silva morreu
+[2015:11:01-12:44:47] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:44:49] Ivan_Silva gerou suaInfernus
+[2015:11:01-12:44:51] Ivan_Silva escondeu sua Infernus
+[2015:11:01-12:45:12] Ivan_Silva morreu
+[2015:11:01-12:55:38] Ivan_Silva gerou suaInfernus
+[2015:11:01-13:04:55] Tiago_Santos escondeu sua Super GT
+[2015:11:01-13:05:41] Tiago_Santos gerou suaSuper GT
+[2015:11:01-13:06:44] Tiago_Santos escondeu sua Super GT
+[2015:11:01-13:08:03] Ivan_Silva morreu
+[2015:11:01-13:08:23] Tiago_Santos gerou suaSuper GT
+[2015:11:01-13:08:40] Tiago_Santos escondeu sua Super GT
+[2015:11:01-13:08:42] Tiago_Santos gerou suaTurismo
+[2015:11:01-13:09:30] Tiago_Santos escondeu sua Euros
+[2015:11:01-13:09:30] Tiago_Santos gerou suaTurismo
+[2015:11:01-13:10:52] Tiago_Santos morreu
+[2015:11:01-13:11:17] Tiago_Santos gerou suaFeltzer
+[2015:11:01-13:14:20] Ivan Silva Foi Solto!
+[2015:11:01-13:18:14] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:26:31] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:45:56] Ivan_Silva gerou suaInfernus
+[2015:11:01-13:45:56] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:45:59] Ivan_Silva gerou suaInfernus
+[2015:11:01-13:46:27] DaredEvill Mudou seu nick para Sem_Nome
+[2015:11:01-13:46:47] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:47:14] Sem_Nome Mudou seu nick para Dared_Evil.
+[2015:11:01-13:47:14] Dared_Evil. Fez um login na conta DaredEvil (IP: 191.23.7.126  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:11:01-13:49:38] DaredEvill Mudou seu nick para Sem_Nome
+[2015:11:01-13:49:50] Sem_Nome Mudou seu nick para Dared_Evil.
+[2015:11:01-13:49:50] Dared_Evil. Fez um login na conta DaredEvil (IP: 191.23.7.126  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:11:01-13:51:15] Dared_Evil. está como admih
+[2015:11:01-13:52:03] Ivan_Silva gerou suaInfernus
+[2015:11:01-13:52:08] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:54:51] Ivan_Silva gerou suaInfernus
+[2015:11:01-13:56:26] Tiago_Santos gerou suaCheetah
+[2015:11:01-13:59:02] Ivan_Silva escondeu sua Infernus
+[2015:11:01-13:59:03] Ivan_Silva gerou suaInfernus
+[2015:11:01-14:01:05] Tiago_Santos escondeu sua Cheetah
+[2015:11:01-14:01:08] Tiago_Santos gerou suaSuper GT
+[2015:11:01-14:05:08] DaredEvill Mudou seu nick para Sem_Nome
+[2015:11:01-14:05:23] Sem_Nome Mudou seu nick para Dared_Evil.
+[2015:11:01-14:05:23] Dared_Evil. Fez um login na conta DaredEvil (IP: 191.23.7.126  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:11:01-14:06:50] Tiago_Santos gerou suaSuper GT
+[2015:11:01-14:09:59] Tiago_Santos gerou suaCheetah
+[2015:11:01-14:10:10] Tiago_Santos escondeu sua Cheetah
+[2015:11:01-14:10:23] Tiago_Santos gerou suaHuntley
+[2015:11:01-14:10:28] Tiago_Santos escondeu sua Huntley
+[2015:11:01-14:42:59] DaredEvill Mudou seu nick para Sem_Nome
+[2015:11:01-14:43:12] Sem_Nome Mudou seu nick para Dared_Evil.
+[2015:11:01-14:43:12] Dared_Evil. Fez um login na conta DaredEvil (IP: 191.23.7.126  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:11:01-15:00:49] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-15:02:04] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-15:02:05] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-15:06:19] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-15:07:18] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-15:07:18] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-15:36:30] DaredEvill Mudou seu nick para Sem_Nome
+[2015:11:01-15:36:45] Sem_Nome Mudou seu nick para Dared_Evil.
+[2015:11:01-15:36:45] Dared_Evil. Fez um login na conta DaredEvil (IP: 191.23.7.126  || Serial: 75B77506923501D32CA19A23C25A1040)
+[2015:11:01-15:41:31] Dared_Evil. comprou um Super GT
+[2015:11:01-15:41:43] Dared_Evil. escondeu sua Super GT
+[2015:11:01-16:14:00] Tiago_Santos comprou um Banshee
+[2015:11:01-16:14:09] Tiago_Santos escondeu sua Banshee
+[2015:11:01-16:22:18] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-16:24:31] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-16:24:31] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-16:25:10] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-16:26:22] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-16:26:22] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-16:31:22] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-16:33:48] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-16:33:48] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-16:42:30] Tiago_Santos comprou um Admiral
+[2015:11:01-16:45:58] Tiago_Santos comprou um Admiral
+[2015:11:01-16:47:36] Tiago_Santos comprou um Sultan
+[2015:11:01-16:48:49] Tiago_Santos comprou um Admiral
+[2015:11:01-17:43:45] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-17:46:29] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-17:46:29] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.243  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-17:48:44] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-17:49:11] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-17:49:11] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.243  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-17:52:27] Tiago_Santos comprou um Admiral
+[2015:11:01-17:57:35] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-18:00:26] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-18:00:26] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.243  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-18:01:50] Ivan_Silva comprou um Stretch
+[2015:11:01-18:03:10] Ivan_Silva escondeu sua Stretch
+[2015:11:01-18:04:16] Ivan_Silva comprou um Super GT
+[2015:11:01-18:05:19] Ivan_Silva morreu
+[2015:11:01-18:09:04] Ivan_Silva morreu
+[2015:11:01-18:25:37] Ivan_Silva gerou suaSuper GT
+[2015:11:01-18:31:24] Ivan_Silva escondeu sua Super GT
+[2015:11:01-18:34:58] TIGS Mudou seu nick para Sem_Nome
+[2015:11:01-18:36:12] Sem_Nome Mudou seu nick para Tiago_Santos
+[2015:11:01-18:36:12] Tiago_Santos Fez um login na conta tiaguinhods (IP: 177.107.64.21  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:11:01-18:37:01] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-18:39:49] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-18:39:49] Ivan_Silva Fez um login na conta strikergfx (IP: 177.45.156.243  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-19:05:41] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-19:07:45] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-19:07:45] Ivan_Silva Fez um login na conta strikergfx (IP: 179.228.75.63  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-19:17:28] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-19:19:14] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-19:19:14] Ivan_Silva Fez um login na conta strikergfx (IP: 179.228.75.63  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-19:20:19] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-19:21:20] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-19:42:32] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-19:45:28] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-19:45:28] Ivan_Silva Fez um login na conta strikergfx (IP: 179.228.75.63  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-20:19:08] Ivan_Silva gerou suaSuper GT
+[2015:11:01-20:19:16] Ivan_Silva escondeu sua Super GT
+[2015:11:01-20:28:58] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-20:31:32] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-20:31:32] Ivan_Silva Fez um login na conta strikergfx (IP: 179.228.75.63  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-22:27:03] 4C3R0Ll4 Mudou seu nick para Sem_Nome
+[2015:11:01-22:30:57] Sem_Nome Mudou seu nick para Ivan_Silva
+[2015:11:01-22:30:57] Ivan_Silva Fez um login na conta strikergfx (IP: 179.228.75.63  || Serial: 52AFCFA45DC14CD9E2D21AA9665B4803)
+[2015:11:01-22:51:05] Tiago_Santos comprou um Admiral
+[2015:11:01-22:53:14] Tiago_Santos comprou um Admiral
+[2015:11:01-23:22:26] Tiago_Santos comprou um Admiral
+[2015:11:01-23:22:32] Tiago_Santos escondeu sua Admiral
+[2015:11:01-23:31:09] Tiago_Santos escondeu sua Admiral

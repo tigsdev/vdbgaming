@@ -1,0 +1,13 @@
+Este arquivo foi gerado pelo Console em 2015:09:27-16:47:55
+
+
+
+[2015:09:27-16:47:55] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:27-16:51:24] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)
+[2015:09:27-17:04:57] Instaurador morreu
+[2015:09:27-17:05:30] Instaurador gerou suaAdmiral
+[2015:09:27-17:29:48] Instaurador escondeu sua Flash
+[2015:09:27-17:29:56] Instaurador gerou suaAdmiral
+[2015:09:27-17:33:05] Instaurador morreu
+[2015:09:27-17:35:12] Instaurador escondeu sua Flash
+[2015:09:27-20:03:33] Instaurador Fez um login na conta tiaguinhods (IP: 127.0.0.1  || Serial: 92C77FED7F9EDBAA00A52EB0F1F292F4)

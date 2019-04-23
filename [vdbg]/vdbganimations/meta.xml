@@ -1,0 +1,33 @@
+<meta>
+	<info author="TIGS98" name="VDBGAnimations" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+	
+	<script src="Client.lua" type="client"/>
+	<script src="blur.luac" type="client"/>
+	<script src="Server.lua" type="server"/>
+	
+	<file src="files/font.ttf" />
+	<file src="files/som.mp3" />
+	<file src="images/Icon_stop.png" />
+	<file src="images/Icon_pensar.png" />
+	<file src="images/Icon_fumar.png" />
+	<file src="images/Icon_dance.png" />
+	<file src="images/Icon_cumprimentar.png" />
+	<file src="images/Icon_sentar.png" />
+	<file src="images/Icon_conversar.png" />
+	<file src="images/Icon_rir.png" />
+	<file src="images/Icon_stop_1.png" />
+	<file src="images/Icon_pensar_1.png" />
+	<file src="images/Icon_fumar_1.png" />
+	<file src="images/Icon_dance_1.png" />
+	<file src="images/Icon_cumprimentar_1.png" />
+	<file src="images/Icon_sentar_1.png" />
+	<file src="images/Icon_conversar_1.png" />
+	<file src="images/Icon_rir_1.png" />
+	<file src="seta.png" />
+	
+	
+	<file src="blurH.fx" />
+	<file src="blurV.fx" />
+	
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<info author="TIGS98" name="VDBGLevel" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+
+	<script src="lv_server.lua"/>
+	<export function="addXP" type="server" />
+	
+	<script src="lv_client.luac" type="client" />
+	<export function="addXP" type="client" />
+	<export function="checkLevel" type="client" />
+	<export function="checkUP" type="client" />
+	<export function="checkExp" type="client" />
+	
+</meta>

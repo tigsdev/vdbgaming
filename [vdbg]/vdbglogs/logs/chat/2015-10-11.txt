@@ -1,0 +1,10 @@
+Este arquivo foi gerado pelo Console em2015:10:11-01:34:55
+
+
+
+[2015:10:11-01:34:55]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos:  
+[2015:10:11-01:35:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:10:11-03:47:09]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: a
+[2015:10:11-05:01:30]  (Policial) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ola´
+[2015:10:11-05:01:30]  (Policial) -> [POLICIAL] #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: #ffffffola´
+[2015:10:11-06:01:22]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: teste

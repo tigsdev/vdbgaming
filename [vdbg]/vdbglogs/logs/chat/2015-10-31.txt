@@ -1,0 +1,1390 @@
+Este arquivo foi gerado pelo Console em2015:10:31-09:50:49
+
+
+
+[2015:10:31-09:50:49]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-09:50:58]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: tem que esperar a gente terminar a atualização
+[2015:10:31-09:51:07]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ai ele vai estar disponível para compra
+[2015:10:31-09:54:59]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-09:55:04]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: eu so level 3
+[2015:10:31-09:55:10]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: mas aparece 1 ali pq
+[2015:10:31-09:57:09]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: opa
+[2015:10:31-10:01:23]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: nc
+[2015:10:31-10:01:31]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: tnc
+[2015:10:31-10:01:37]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: 6 reais
+[2015:10:31-10:02:31]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: a radio funciona?
+[2015:10:31-10:02:36]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: n
+[2015:10:31-10:02:47]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: af
+[2015:10:31-10:02:58]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: tem como usar o celular?
+[2015:10:31-10:03:12]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: n
+[2015:10:31-10:03:19]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: ok
+[2015:10:31-10:03:27]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: Eae poha VDBRPG
+[2015:10:31-10:03:52]  (Global) -> #2F7CCC[5] #FFFFFFTeteu Oliveira: cadÊ o f1?
+[2015:10:31-10:04:01]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: e RPG
+[2015:10:31-10:04:39]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: como troco a skin
+[2015:10:31-10:05:33]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: adm corre aki
+[2015:10:31-10:05:38]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: adm socorro
+[2015:10:31-10:05:52]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: como liga o carro
+[2015:10:31-10:06:00]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: espaço + j
+[2015:10:31-10:06:43]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: a
+[2015:10:31-10:11:23]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: onde eu vejo combustivel
+[2015:10:31-10:11:56]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: no posto
+[2015:10:31-10:12:07]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: fika em cima do treco vermelho
+[2015:10:31-10:14:47]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: OXi meu dinheiro sumiu
+[2015:10:31-10:14:50]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: boa tarde
+[2015:10:31-10:14:56]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: tinha 5100
+[2015:10:31-10:15:06]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: agr tenho -4900
+[2015:10:31-10:15:20]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: olicio, relata pra mim o que vc fez 
+[2015:10:31-10:15:36]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: andei de carro so
+[2015:10:31-10:15:44]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: e vi umas skins mas n comprei
+[2015:10:31-10:16:03]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: acho que vc
+[2015:10:31-10:16:14]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: passou em algo
+[2015:10:31-10:16:18]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: eu apertei Backspace
+[2015:10:31-10:16:42]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: thiago vc e o Galeo
+[2015:10:31-10:16:45]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: s
+[2015:10:31-10:17:01]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: opa riflezin
+[2015:10:31-10:17:13]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: vc n deve lembra de mim mas eu te ajudei a configurar o sistema de prender lembra
+[2015:10:31-10:17:36]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: sim
+[2015:10:31-10:17:44]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: chegai
+[2015:10:31-10:18:28]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vo te da gasolina fmz
+[2015:10:31-10:18:35]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: okay
+[2015:10:31-10:18:38]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: pronto
+[2015:10:31-10:18:43]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: vlw
+[2015:10:31-10:20:47]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: hm
+[2015:10:31-10:20:49]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: deagle
+[2015:10:31-10:20:52]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ta baum
+[2015:10:31-10:21:37]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: Como pega a moto no pizzaboy
+[2015:10:31-10:22:53]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: pizza senhor ?
+[2015:10:31-10:22:58]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: opa
+[2015:10:31-10:23:01]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: kk
+[2015:10:31-10:23:15]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: cade o D  no mapa ?
+[2015:10:31-10:23:23]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: servidor ta cheio dos bug, mais uma nota de 0 a 10 em comparação a versão 2.0
+[2015:10:31-10:23:31]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: qual vcs daria
+[2015:10:31-10:23:42]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: bem honesto 6,5
+[2015:10:31-10:23:50]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: 7 
+[2015:10:31-10:25:02]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: me ajudem a resolver os bug
+[2015:10:31-10:25:34]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-10:25:36]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n ta mostrando o D no mapa na prof do PizzaBoy
+[2015:10:31-10:25:50]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: empresta a motoca
+[2015:10:31-10:27:52]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: To antes de começar a ganhar dinheiro '-'
+[2015:10:31-10:29:32]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: esse carro e bonito
+[2015:10:31-10:29:46]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: para mim ta sem MOD '-'
+[2015:10:31-10:29:50]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-10:30:10]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ooo como faz isso
+[2015:10:31-10:30:18]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: botao k
+[2015:10:31-10:30:43]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: kk
+[2015:10:31-10:30:56]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: vem no racha
+[2015:10:31-10:31:10]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ate o final da rua
+[2015:10:31-10:31:13]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: ate o cj ?
+[2015:10:31-10:31:17]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ta
+[2015:10:31-10:31:32]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: conta 3 oiscada de farol e vai
+[2015:10:31-10:31:53]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: testa agr
+[2015:10:31-10:32:07]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: agr sim
+[2015:10:31-10:32:46]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ai
+[2015:10:31-10:33:11]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: ganha quanto pizza boy
+[2015:10:31-10:33:21]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: de 100 a 1000
+[2015:10:31-10:33:28]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: hum
+[2015:10:31-10:33:29]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: mo merreca
+[2015:10:31-10:33:36]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: kkk
+[2015:10:31-10:33:42]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: Tiago
+[2015:10:31-10:33:51]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: teagao
+[2015:10:31-10:33:57]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: qual o emprego q da mais grana?
+[2015:10:31-10:34:10]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: a neblina atrapalha muito para o piloto
+[2015:10:31-10:34:35]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: tem como tirar ?
+[2015:10:31-10:36:06]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: quanto vai custa esse carro ?
+[2015:10:31-10:36:48]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-10:36:55]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: aonde fika red country?
+[2015:10:31-10:37:02]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: oie
+[2015:10:31-10:37:08]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: deserto
+[2015:10:31-10:37:27]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: como recupero vida?
+[2015:10:31-10:39:43]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: ja pode
+[2015:10:31-10:39:50]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: comprar casa ?
+[2015:10:31-10:40:01]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: n
+[2015:10:31-10:40:06]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: como compra casa
+[2015:10:31-10:40:27]  (Global) -> #2F7CCC[5] #FFFFFFricardo lima: Acho que ainda nao ativaram as casas pra venda
+[2015:10:31-10:40:34]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: pegaram o carro ja?
+[2015:10:31-10:42:58]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: a tnc
+[2015:10:31-10:43:14]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: dexa mais coisa thi
+[2015:10:31-10:43:39]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: dae
+[2015:10:31-10:46:27]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: COMO COMPRA CARRO
+[2015:10:31-10:51:59]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-10:53:58]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: morfo
+[2015:10:31-10:54:03]  (Local) -> [LOCAL][0]#2F7CCC[3] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-10:54:15]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: q
+[2015:10:31-10:54:18]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: chega ai
+[2015:10:31-10:54:21]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: 1t
+[2015:10:31-10:54:23]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: achei 1 bagui mor loko
+[2015:10:31-10:54:34]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: cade tu
+[2015:10:31-10:54:39]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: olha mapa
+[2015:10:31-10:55:30]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: monta
+[2015:10:31-10:55:37]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: aperta g
+[2015:10:31-10:55:42]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: vo te leva la
+[2015:10:31-10:56:01]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: to lagaado
+[2015:10:31-10:56:06]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva: affs n arrumaram o mapa ainda
+[2015:10:31-10:56:24]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: como baixo as paradas ,od
+[2015:10:31-10:56:41]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: mod*
+[2015:10:31-10:56:44]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva: tiago 
+[2015:10:31-10:56:52]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: o f1 ainda ta bogado?
+[2015:10:31-10:56:58]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva: map
+[2015:10:31-10:57:00]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva: n
+[2015:10:31-10:57:12]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: n da para escolher carro?
+[2015:10:31-10:57:21]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva: f1 nao e pra escolher carros
+[2015:10:31-10:57:28]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva:  f1 e pra baixar os mods
+[2015:10:31-10:57:31]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: entao onde e?
+[2015:10:31-10:57:37]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: para escolher carros?
+[2015:10:31-10:57:40]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: krlh
+[2015:10:31-10:57:43]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva:  va na loja de carro e compra
+[2015:10:31-10:57:56]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: obg e onde e a loja?
+[2015:10:31-10:58:01]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva:  aah cara
+[2015:10:31-10:58:03]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva:  olha o mapinha ai
+[2015:10:31-10:58:07]  (Global) -> #2F7CCC[8] #FFFFFFKennedy Silva:  nao sei de có
+[2015:10:31-10:58:54]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: tiago como compro casa
+[2015:10:31-10:59:12]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-' n tem casa ainda o joga ta beta
+[2015:10:31-10:59:19]  (Local) -> [LOCAL][0]#2F7CCC[3] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-10:59:26]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: ata
+[2015:10:31-10:59:31]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: carro tem
+[2015:10:31-10:59:51]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: tem so q n da pra compra ainda
+[2015:10:31-11:00:23]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: o server assim ta muito mao so da para trabalhar 
+[2015:10:31-11:01:36]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: pq tem um balao no mapa
+[2015:10:31-11:01:38]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: tira a menliba pf
+[2015:10:31-11:02:20]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: atraplha pilotso
+[2015:10:31-11:02:23]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: pq tem um balao no mapa
+[2015:10:31-11:05:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Como faz pra baixar os carros modificados ?
+[2015:10:31-11:05:37]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: f1 m
+[2015:10:31-11:07:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vlw
+[2015:10:31-11:07:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha :  #000000●#FFDD00รєjα bєм viиdσ ασ тяαиรρσятαиdσ σ Bяαรil 2.0
+[2015:10:31-11:07:16]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mal
+[2015:10:31-11:07:17]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago socorro
+[2015:10:31-11:07:21]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: to bugado
+[2015:10:31-11:07:25]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: me puxa
+[2015:10:31-11:07:47]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: vlw
+[2015:10:31-11:07:53]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: tenta atirar com a teaser
+[2015:10:31-11:07:54]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: tava dentro de uma delegacia sem saidas
+[2015:10:31-11:08:03]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: omg
+[2015:10:31-11:08:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago me arruma um carro pf ?
+[2015:10:31-11:08:08]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: kkkkk
+[2015:10:31-11:08:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To baixando ainda man
+[2015:10:31-11:08:15]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : N tem mais respawn n ? '-'
+[2015:10:31-11:08:29]  (Global) -> #2F7CCC[11] #FFFFFFMatheus Menezes: tigs como ligo o carro?
+[2015:10:31-11:08:37]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: espaço + j
+[2015:10:31-11:08:39]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior:  espaço + j
+[2015:10:31-11:09:24]  (Global) -> #2F7CCC[11] #FFFFFFMatheus Menezes: osh pq os empregos ta com blip de hamburg?
+[2015:10:31-11:09:37]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: e mala
+[2015:10:31-11:09:49]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : VDBG antigo era melhor
+[2015:10:31-11:09:53]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : baixava mais rapido '-'
+[2015:10:31-11:10:13]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n n nd a ver irmão
+[2015:10:31-11:11:20]  (Global) -> #2F7CCC[11] #FFFFFFMatheus Menezes: faltou velocimetro 
+[2015:10:31-11:11:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ta mo frescura agr man
+[2015:10:31-11:11:48]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: como upo nessa coisa
+[2015:10:31-11:11:52]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ter que registrar no site ;-; meu not n entra no site
+[2015:10:31-11:11:58]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : tive q registra pelo cel
+[2015:10:31-11:12:00]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: POHA 5,00 o litro da gasosa mais caro q no brasil
+[2015:10:31-11:12:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Everdadi :v
+[2015:10:31-11:12:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : AI CUZAO
+[2015:10:31-11:12:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : CAPOTEI
+[2015:10:31-11:12:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : FUDEU BAHIA
+[2015:10:31-11:12:17]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : CORRE BERG
+[2015:10:31-11:12:22]  (Global) -> #2F7CCC[11] #FFFFFFMatheus Menezes: como uso meu celular ?
+[2015:10:31-11:12:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Alguem da carona ?
+[2015:10:31-11:12:29]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior:  ai vamo fazer um grupo de whats do serve ?
+[2015:10:31-11:12:30]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: tem hora q ta 9 o litro hue
+[2015:10:31-11:12:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Sou um menino de bom colação
+[2015:10:31-11:12:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : alguem me arruma uma caroninha ?
+[2015:10:31-11:13:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : OS CUZAO
+[2015:10:31-11:13:08]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: nem tem cel 
+[2015:10:31-11:13:11]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : DA CARONA AI
+[2015:10:31-11:13:14]  (Global) -> #2F7CCC[11] #FFFFFFMatheus Menezes: COMO USO MEU INVENTARIOOOOOO ????
+[2015:10:31-11:13:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : i
+[2015:10:31-11:13:21]  (Local) -> [LOCAL][0]#2F7CCC[4] #FFFFFFOlicio_Junior: onde ta
+[2015:10:31-11:13:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aperta i
+[2015:10:31-11:13:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : agr q eu te ensinei
+[2015:10:31-11:13:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : me da carona ?
+[2015:10:31-11:13:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aeuauhehae
+[2015:10:31-11:14:03]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: 49 uma coca cola lata zero
+[2015:10:31-11:14:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ainda tem jeito  de ser preso ?
+[2015:10:31-11:14:11]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 49 real?
+[2015:10:31-11:14:14]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: ja tem essa arma nem vi
+[2015:10:31-11:14:15]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: sim
+[2015:10:31-11:14:15]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Putaqmepariu
+[2015:10:31-11:14:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Mais caro que puta aqui na cidade mano
+[2015:10:31-11:14:58]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: kkkk
+[2015:10:31-11:14:58]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So medico nessaporra tamei
+[2015:10:31-11:15:09]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS
+[2015:10:31-11:15:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Quem quer vida ai ?
+[2015:10:31-11:15:15]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: olicio
+[2015:10:31-11:15:19]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: oi
+[2015:10:31-11:15:21]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: como vc pego pistola de choque
+[2015:10:31-11:15:23]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:15:30]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:15:32]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: eu n tenho
+[2015:10:31-11:15:34]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: eu matei 1 cara
+[2015:10:31-11:15:39]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ai du nada fui pro mar
+[2015:10:31-11:15:42]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: pq?
+[2015:10:31-11:15:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E pq tu
+[2015:10:31-11:15:46]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-11:15:48]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS arruma os preço
+[2015:10:31-11:15:57]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:15:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E pq tu maoto jesuis
+[2015:10:31-11:16:02]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aii ele se vingou
+[2015:10:31-11:16:04]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: so eu q to com a pistola de choque
+[2015:10:31-11:16:04]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: thiago
+[2015:10:31-11:16:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e te mandou pa putaqpariu
+[2015:10:31-11:16:09]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: gay
+[2015:10:31-11:16:13]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: me puxa
+[2015:10:31-11:16:18]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS o descarte automatico ta bugado
+[2015:10:31-11:16:22]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: como vc pego
+[2015:10:31-11:16:37]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: nas caxa de bandit
+[2015:10:31-11:16:42]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: queria a teaser
+[2015:10:31-11:16:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ah
+[2015:10:31-11:16:46]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: t
+[2015:10:31-11:16:48]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: hiago
+[2015:10:31-11:16:53]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGSS!!!!
+[2015:10:31-11:16:54]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: tem uma contagem aki em baxo
+[2015:10:31-11:17:01]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ta 170 degundos
+[2015:10:31-11:17:04]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: pq?
+[2015:10:31-11:17:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E pq tu foi preso
+[2015:10:31-11:17:10]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ta parado ?
+[2015:10:31-11:17:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ai tu foi pro meio do mar
+[2015:10:31-11:17:13]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: s
+[2015:10:31-11:17:17]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: rlx
+[2015:10:31-11:17:19]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: n consigo me mexer
+[2015:10:31-11:17:28]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ai eu vo pra uma delegacia q n tem portas
+[2015:10:31-11:17:29]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: reloga
+[2015:10:31-11:17:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vish
+[2015:10:31-11:17:37]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vo arruma as portas dela
+[2015:10:31-11:17:43]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: quando vc for pra la me fala
+[2015:10:31-11:17:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Saporra desse carro
+[2015:10:31-11:17:47]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: okay
+[2015:10:31-11:17:48]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: ALGUM MECANICO?
+[2015:10:31-11:17:49]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : fica desligano
+[2015:10:31-11:17:50]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : manocu
+[2015:10:31-11:17:59]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGSS
+[2015:10:31-11:18:14]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:18:14]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: e os assaltos ?
+[2015:10:31-11:18:23]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: quais sao os carros de delegado?
+[2015:10:31-11:18:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eai tio
+[2015:10:31-11:18:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tudo bem?
+[2015:10:31-11:18:39]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: sim
+[2015:10:31-11:18:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tudo tranquilo tio?
+[2015:10:31-11:18:48]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tudo na paiz ?
+[2015:10:31-11:18:49]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: tudo
+[2015:10:31-11:18:52]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: opa
+[2015:10:31-11:18:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : oia
+[2015:10:31-11:19:02]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eduardo teleporto pa ca
+[2015:10:31-11:19:10]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-11:19:28]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: ai meu gps sumiu
+[2015:10:31-11:19:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : eita
+[2015:10:31-11:19:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ele tem uma pixtola
+[2015:10:31-11:19:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eduardo
+[2015:10:31-11:19:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : me empresta sua pistola?
+[2015:10:31-11:19:47]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: vem ca pega
+[2015:10:31-11:19:52]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Seloco tio
+[2015:10:31-11:19:53]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ai thiago
+[2015:10:31-11:19:54]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : sai fora '-
+[2015:10:31-11:20:00]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: :v
+[2015:10:31-11:20:03]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: to na delegacia
+[2015:10:31-11:20:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : eitacuzao
+[2015:10:31-11:20:05]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: fds tou sem gasolina no carro sem dinheiro aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2015:10:31-11:20:06]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: me puxa
+[2015:10:31-11:20:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : eduardo
+[2015:10:31-11:20:15]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vamo da uns role  ?
+[2015:10:31-11:20:17]  (Team - Criminoso) -> (TEAM)#2F7CCC[1] #FFFFFFThiago Bispo: y
+[2015:10:31-11:20:17]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-11:20:19]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-11:20:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : o piranha
+[2015:10:31-11:20:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : bate nao
+[2015:10:31-11:20:24]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: eu to travado
+[2015:10:31-11:20:26]  (Team - Criminoso) -> (TEAM)#2F7CCC[5] #FFFFFFsponge silva: oi
+[2015:10:31-11:20:26]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-11:20:29]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: o mause do m
+[2015:10:31-11:20:29]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS
+[2015:10:31-11:20:33]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ta aki
+[2015:10:31-11:20:48]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: e n quer sair
+[2015:10:31-11:20:51]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: q porra
+[2015:10:31-11:20:52]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: ueheue
+[2015:10:31-11:20:57]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : o vaca
+[2015:10:31-11:20:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : entrai
+[2015:10:31-11:21:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mata n 
+[2015:10:31-11:21:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : oia a putaria
+[2015:10:31-11:21:13]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-11:21:17]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: como assim teste
+[2015:10:31-11:21:23]  (Team - Criminoso) -> (TEAM)#2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-11:21:33]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: lucas
+[2015:10:31-11:21:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Oi
+[2015:10:31-11:21:41]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: tem whats
+[2015:10:31-11:21:44]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: me puxa logo capiroto
+[2015:10:31-11:21:47]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: meu gps sumiu
+[2015:10:31-11:21:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : eu tenho
+[2015:10:31-11:21:48]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: ALGUEM ME AJUDA
+[2015:10:31-11:21:55]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:21:59]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: passa ai e vamo cria um grupo do serve
+[2015:10:31-11:21:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aus
+[2015:10:31-11:22:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : perai oliciu
+[2015:10:31-11:22:10]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: kkk ta
+[2015:10:31-11:22:20]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: thiago me puxa
+[2015:10:31-11:22:23]  (Global) -> #2F7CCC[1] #FFFFFFThiago Bispo: demo
+[2015:10:31-11:22:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : onde q ta
+[2015:10:31-11:22:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : o 
+[2015:10:31-11:22:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : bagui
+[2015:10:31-11:22:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : das arma
+[2015:10:31-11:22:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : eu quero
+[2015:10:31-11:22:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Alguem me ajuda?
+[2015:10:31-11:22:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Fio daput
+[2015:10:31-11:23:02]  (Team - Civilizante) -> (TEAM)#2F7CCC[4] #FFFFFFOlicio Junior: yyyyyy
+[2015:10:31-11:23:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PEGO MINHAS ARMA
+[2015:10:31-11:23:07]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: opa
+[2015:10:31-11:23:13]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: meu gps n ta aparecendo
+[2015:10:31-11:23:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo dxa esse negocio baixano
+[2015:10:31-11:23:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e vo la cria outra acc
+[2015:10:31-11:23:43]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: thiago
+[2015:10:31-11:23:48]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: seu gay de 3 teta
+[2015:10:31-11:23:52]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: me puxa logo
+[2015:10:31-11:23:58]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : NOO
+[2015:10:31-11:24:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 3 TETA
+[2015:10:31-11:24:04]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-11:24:07]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: : 3
+[2015:10:31-11:24:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eita caralho
+[2015:10:31-11:24:43]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : hamburger caro da porra
+[2015:10:31-11:24:44]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: dei /kill
+[2015:10:31-11:24:52]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: eu to nem ai tenho 80 mil msm
+[2015:10:31-11:24:55]  (Team - Criminoso) -> (TEAM)#2F7CCC[6] #FFFFFFThiago Bispo: euehueh
+[2015:10:31-11:24:59]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: olha a coca
+[2015:10:31-11:25:00]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: compro mil hamburguer
+[2015:10:31-11:25:04]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : MANO DO CEU
+[2015:10:31-11:25:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 63 REAL
+[2015:10:31-11:25:12]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: kkkkkk
+[2015:10:31-11:25:15]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PQP
+[2015:10:31-11:25:18]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: hashuashuahsduha tigs assim n da
+[2015:10:31-11:25:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Isso e um roubo veio
+[2015:10:31-11:25:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : pqp '-'
+[2015:10:31-11:26:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo junta
+[2015:10:31-11:26:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 100k
+[2015:10:31-11:26:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : so pra compra tudo em coca
+[2015:10:31-11:26:41]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: huahsuahsuhsaushauhsuayhhs
+[2015:10:31-11:26:48]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So br memo porra
+[2015:10:31-11:26:50]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aehuahueuhaehuaeha
+[2015:10:31-11:26:59]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: passa o whats carai
+[2015:10:31-11:27:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Olicio tem  skype?
+[2015:10:31-11:27:06]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: hmmmmm
+[2015:10:31-11:27:09]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: boiolas
+[2015:10:31-11:27:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Seu pai vei
+[2015:10:31-11:27:21]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: e para criar grupo do serve viadi,
+[2015:10:31-11:27:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : zoa :v
+[2015:10:31-11:27:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : meche cu pai e vacillo
+[2015:10:31-11:27:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ETA
+[2015:10:31-11:27:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : BATI NA ARVORE
+[2015:10:31-11:27:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E SAIU  MACONHA DELA
+[2015:10:31-11:27:42]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PQP VO ESMURRA A ARVORE VEI
+[2015:10:31-11:27:51]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: meu deus do seu berg
+[2015:10:31-11:28:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : a arvore da maconha vei '-'
+[2015:10:31-11:28:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ALA
+[2015:10:31-11:28:25]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: seis so pode ter aids
+[2015:10:31-11:28:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Como ve o mapa todo no f11?
+[2015:10:31-11:28:31]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: s
+[2015:10:31-11:28:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : saporra
+[2015:10:31-11:28:36]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: dkkkkkkkkkkkk
+[2015:10:31-11:28:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So ve  a parte q eu to
+[2015:10:31-11:28:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : manocu
+[2015:10:31-11:28:44]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: como ve o mapa todo no f11
+[2015:10:31-11:28:48]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-11:28:50]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: kkkkkkkkk
+[2015:10:31-11:28:53]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2015:10:31-11:28:56]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: nao tem como
+[2015:10:31-11:29:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Então o scripter q fez isso e um jamal
+[2015:10:31-11:29:23]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: q level seis sao?
+[2015:10:31-11:29:26]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 1
+[2015:10:31-11:29:26]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: ada
+[2015:10:31-11:29:32]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: kkkk
+[2015:10:31-11:29:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-11:29:40]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: 1 ainda
+[2015:10:31-11:29:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu era lvl  53 vei
+[2015:10:31-11:29:51]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tinha 3kk
+[2015:10:31-11:29:56]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vacilo isso
+[2015:10:31-11:29:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : EDUARDO PAUNOCU
+[2015:10:31-11:30:01]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : EU TAVA INO PEGA
+[2015:10:31-11:30:03]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: eu tinha 50kk e n to chorando
+[2015:10:31-11:30:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : A PORRA DA ARMA
+[2015:10:31-11:30:06]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : CUZAO
+[2015:10:31-11:30:06]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: kkkkkkkkkkk
+[2015:10:31-11:30:06]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: opa 
+[2015:10:31-11:30:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : TAVA INO MO FELIZ
+[2015:10:31-11:30:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PO A ARMA E MINHA :')
+[2015:10:31-11:30:23]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: euheueehueheueheueh
+[2015:10:31-11:30:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : TAVA ATE CANTANO AQUI
+[2015:10:31-11:30:31]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: kkk
+[2015:10:31-11:30:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : I BELIVA I CAN FLY
+[2015:10:31-11:30:35]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: iludiu
+[2015:10:31-11:30:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : O FDP VAI E PEGA
+[2015:10:31-11:30:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : MINHA ARMA
+[2015:10:31-11:30:47]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: tadin
+[2015:10:31-11:30:53]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo xora carai
+[2015:10:31-11:31:02]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior:  a pizzaboy e mo agil 
+[2015:10:31-11:31:02]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : UHU
+[2015:10:31-11:31:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 2  REAL
+[2015:10:31-11:31:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo enche  uns galao
+[2015:10:31-11:31:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo bebe  gasolina
+[2015:10:31-11:31:17]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mais facil do q compra coca
+[2015:10:31-11:31:18]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: -_-
+[2015:10:31-11:31:22]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ta certo
+[2015:10:31-11:31:46]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aus
+[2015:10:31-11:32:05]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: PQP TIRA A NEBLINA POHA
+[2015:10:31-11:32:53]  (Team - Civilizante) -> (TEAM)#2F7CCC[6] #FFFFFFJapa  Morfo: y
+[2015:10:31-11:33:00]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: paulo 
+[2015:10:31-11:33:16]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: Onde compra veiculo automotivo
+[2015:10:31-11:33:20]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: vo morre minha sede n aumenta
+[2015:10:31-11:33:22]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: ainda n tem loja
+[2015:10:31-11:33:35]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: affs
+[2015:10:31-11:33:43]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Çv
+[2015:10:31-11:33:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Virei o CJ
+[2015:10:31-11:33:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : negao
+[2015:10:31-11:33:49]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-11:34:05]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: op
+[2015:10:31-11:34:33]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: ueheueheuh
+[2015:10:31-11:34:50]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: gente baixa as parada pelo f1
+[2015:10:31-11:34:58]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: sim
+[2015:10:31-11:35:13]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vo perde meu dinheiro tiago
+[2015:10:31-11:35:33]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: DMR mais q baixa o srv
+[2015:10:31-11:35:59]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: se eu morre peco dinheiro
+[2015:10:31-11:36:05]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: servidor perder muito desempeno sorte que semana que vem vou tar com outro pc
+[2015:10:31-11:36:08]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: sim
+[2015:10:31-11:36:09]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: nn
+[2015:10:31-11:36:42]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : morrer perde money ?
+[2015:10:31-11:36:45]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: paulooo
+[2015:10:31-11:36:49]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n d
+[2015:10:31-11:36:53]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: antes jogava com 22-28 fps agora e com 8~13
+[2015:10:31-11:36:58]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n perde td so um pouquinho
+[2015:10:31-11:37:08]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : baixa o wisegameboster e cclenaer
+[2015:10:31-11:37:09]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: onde olha fps
+[2015:10:31-11:37:12]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: so pcs mais sensiveis que sente a mudança
+[2015:10:31-11:37:20]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: hasuhuahuahuhsauahs
+[2015:10:31-11:37:28]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : o meu
+[2015:10:31-11:37:44]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : a loja de carros ta desponivel
+[2015:10:31-11:37:59]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: olha o fps no tab
+[2015:10:31-11:38:12]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: o toreto
+[2015:10:31-11:38:16]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: oi
+[2015:10:31-11:38:30]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: tiago ta  a 100 '-'
+[2015:10:31-11:38:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PC nem e foda
+[2015:10:31-11:38:43]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :V
+[2015:10:31-11:38:54]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: mano minha placa mae ficou ruin enviei pra garantia
+[2015:10:31-11:38:59]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : nostalgia nesse velocimetro
+[2015:10:31-11:39:00]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: so semana que vem que chega outra nova
+[2015:10:31-11:39:20]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: kmd o velocimetro
+[2015:10:31-11:39:42]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: Fps fica entra 9 ~13 em LA e pior
+[2015:10:31-11:39:50]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: esse fps aqui em  LS
+[2015:10:31-11:39:53]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: opa
+[2015:10:31-11:40:02]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : o meu ta 26 antes era 38
+[2015:10:31-11:40:21]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: se tira a neblina melhora
+[2015:10:31-11:40:23]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: eu acho que e os efeitos de fumaça
+[2015:10:31-11:40:23]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vo compra uma arma toca o terro na bagaça vai resetart as contas mesmo
+[2015:10:31-11:40:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : F11 fico mo ruim
+[2015:10:31-11:40:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Não da pra ver onde é as coisas direito
+[2015:10:31-11:40:30]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS onde fica o velocimetrok
+[2015:10:31-11:41:01]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-11:41:03]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: hmmmmmm
+[2015:10:31-11:41:07]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: hmmmmmmmmmmmmmmmmmmmmm
+[2015:10:31-11:41:10]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: sniper
+[2015:10:31-11:41:14]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: adoro
+[2015:10:31-11:41:16]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So queria uma Lee enfield
+[2015:10:31-11:41:22]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno:  so nao pode sair ne :v
+[2015:10:31-11:41:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu ia owna =(
+[2015:10:31-11:41:24]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: 1-1
+[2015:10:31-11:42:02]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: tem q ter loja de carro logo
+[2015:10:31-11:42:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : N tem ainda n ?
+[2015:10:31-11:42:11]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n
+[2015:10:31-11:42:17]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E como compra carro ? '-'
+[2015:10:31-11:42:23]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: n tem como
+[2015:10:31-11:42:24]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: n compra
+[2015:10:31-11:42:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aaaaa '-
+[2015:10:31-11:42:30]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: pega em frente de hospital
+[2015:10:31-11:43:09]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS achei um BUG
+[2015:10:31-11:43:09]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : dilma dilma
+[2015:10:31-11:43:23]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: q carro e esse
+[2015:10:31-11:43:26]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: posta no Fórum
+[2015:10:31-11:43:35]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: com print
+[2015:10:31-11:43:41]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: ?
+[2015:10:31-11:43:51]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: s
+[2015:10:31-11:44:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : O arrombado
+[2015:10:31-11:44:07]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : KKKKK
+[2015:10:31-11:44:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Sem ma
+[2015:10:31-11:44:09]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : MALS
+[2015:10:31-11:44:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tranquilo kkkkkkk
+[2015:10:31-11:44:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Vei tomei um susto pqp
+[2015:10:31-11:44:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ainda te mato viado kkkkkkkkkkkk
+[2015:10:31-11:44:30]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: a textira da rua voltou a bugar
+[2015:10:31-11:44:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To de boa aqui
+[2015:10:31-11:44:33]  (Team - Criminoso) -> (TEAM)#2F7CCC[8] #FFFFFFMello Fuck : volta
+[2015:10:31-11:44:36]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: textura
+[2015:10:31-11:44:36]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : lucas volta aki
+[2015:10:31-11:44:44]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : volta aki tio
+[2015:10:31-11:44:44]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: como eu vo pro level 2
+[2015:10:31-11:44:47]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : ae
+[2015:10:31-11:44:49]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: parado
+[2015:10:31-11:44:50]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: perai
+[2015:10:31-11:44:58]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ?
+[2015:10:31-11:45:01]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: um de vcs dois sai do carro
+[2015:10:31-11:45:04]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: e me segue
+[2015:10:31-11:45:06]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Pra?
+[2015:10:31-11:45:10]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vaza
+[2015:10:31-11:45:12]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: tem um de vcs bugado
+[2015:10:31-11:45:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: é vc msm
+[2015:10:31-11:45:26]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Nao nadaver imroa
+[2015:10:31-11:45:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : faleceu
+[2015:10:31-11:45:40]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkkkkk
+[2015:10:31-11:45:49]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : o te m que
+[2015:10:31-11:45:56]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vc tbm toreto
+[2015:10:31-11:46:00]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: lento
+[2015:10:31-11:46:01]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: oq
+[2015:10:31-11:46:04]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : eu bugado
+[2015:10:31-11:46:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tem ngm bugado n 
+[2015:10:31-11:46:07]  (Local) -> [LOCAL][0]#2F7CCC[3] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-11:46:09]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: eu nunca buguei
+[2015:10:31-11:46:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-11:46:12]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: pode olhar no site
+[2015:10:31-11:46:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Como que
+[2015:10:31-11:46:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu sei
+[2015:10:31-11:46:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : onde o ? ta 
+[2015:10:31-11:46:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ?
+[2015:10:31-11:46:28]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : fala
+[2015:10:31-11:46:28]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Sendo que n mostra no F11 vei ?
+[2015:10:31-11:46:30]  (Global) -> #2F7CCC[6] #FFFFFFJapa  Morfo: n da de morre pela sede
+[2015:10:31-11:46:42]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: toreto fica na ponta do predio
+[2015:10:31-11:46:42]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago Santos
+[2015:10:31-11:46:45]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: aq
+[2015:10:31-11:46:53]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: mello
+[2015:10:31-11:46:55]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: a mulek
+[2015:10:31-11:46:56]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ele vai trolla vcs
+[2015:10:31-11:47:02]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So pra avisa k
+[2015:10:31-11:47:06]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: preciso resolver a cor de blip
+[2015:10:31-11:47:13]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : assim
+[2015:10:31-11:47:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Thiago
+[2015:10:31-11:47:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : o Bispo
+[2015:10:31-11:47:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Me ajuda ?
+[2015:10:31-11:47:24]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: saquei
+[2015:10:31-11:47:28]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: t
+[2015:10:31-11:47:28]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: oq?
+[2015:10:31-11:47:31]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: oq foi
+[2015:10:31-11:47:38]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: y
+[2015:10:31-11:47:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Como eu acho o ponto de interrogação do mapa pra eu pega as arma man?
+[2015:10:31-11:47:40]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vams fazer testes
+[2015:10:31-11:47:41]  (Local) -> [LOCAL][0]#2F7CCC[9] #FFFFFFPaulo_Martins: o
+[2015:10:31-11:47:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : N aparece no F11
+[2015:10:31-11:47:48]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: se tem q sabe onde fika os local
+[2015:10:31-11:47:51]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: paulo
+[2015:10:31-11:47:55]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: tipo se fala
+[2015:10:31-11:47:57]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: em san fierro
+[2015:10:31-11:48:01]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: se corre pra la
+[2015:10:31-11:48:03]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : blz
+[2015:10:31-11:48:07]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: sponge
+[2015:10:31-11:48:09]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : a pdp
+[2015:10:31-11:48:11]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vlw !
+[2015:10:31-11:48:13]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: na hora q se chega na cyti
+[2015:10:31-11:48:17]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: apera f11
+[2015:10:31-11:48:20]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: ai ja aparece
+[2015:10:31-11:48:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Blz mano , vlw !
+[2015:10:31-11:49:15]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: fecho
+[2015:10:31-11:49:18]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: toreto da /demitir
+[2015:10:31-11:49:22]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: ja dei
+[2015:10:31-11:49:39]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: mdf
+[2015:10:31-11:49:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago me doa um pouco de grana ? asahus
+[2015:10:31-11:50:37]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: pqp
+[2015:10:31-11:50:43]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: fala que to desempregado
+[2015:10:31-11:51:16]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Como faço o meu telefone sumir agr?
+[2015:10:31-11:51:16]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: adm
+[2015:10:31-11:51:21]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: ajuda
+[2015:10:31-11:51:27]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : se preucupa n 
+[2015:10:31-11:51:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Comprei um celular :o
+[2015:10:31-11:51:31]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : segunda volta do inicio
+[2015:10:31-11:51:44]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: so clicar no botao home do celular
+[2015:10:31-11:51:52]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Thiaago dxa a caxa pra min pf ?
+[2015:10:31-11:52:01]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: pega a proxima
+[2015:10:31-11:52:04]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : nostalgia nesse celular
+[2015:10:31-11:52:15]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: segunda vai rea
+[2015:10:31-11:52:20]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : af
+[2015:10:31-11:52:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : =(
+[2015:10:31-11:52:24]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: resetar???????
+[2015:10:31-11:52:30]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: rlx
+[2015:10:31-11:52:33]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: lucas
+[2015:10:31-11:52:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : oi
+[2015:10:31-11:52:40]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: eu vo trabaia de piloto
+[2015:10:31-11:52:46]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: se vai pega todas
+[2015:10:31-11:52:52]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: fecho 
+[2015:10:31-11:52:54]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: Pizza Boy rende money dmais
+[2015:10:31-11:52:55]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: eu sei o segredo pra pega varias armas
+[2015:10:31-11:53:06]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : fecho oq
+[2015:10:31-11:53:09]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: so q eu guardo so pra mim esse sefredo
+[2015:10:31-11:53:12]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: venham
+[2015:10:31-11:53:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Que trampo da mais grana?
+[2015:10:31-11:53:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: toreto
+[2015:10:31-11:53:29]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vc ta no ts
+[2015:10:31-11:53:33]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: vo entra la
+[2015:10:31-11:53:37]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vo entra espera ae
+[2015:10:31-11:53:39]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vo baixa no meu celular
+[2015:10:31-11:53:40]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: num sei Pizza Boy da muito
+[2015:10:31-11:53:41]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: to sem headset
+[2015:10:31-11:53:51]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vo entar aki 2 minutos tigs
+[2015:10:31-11:54:08]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : preciso de mone
+[2015:10:31-11:54:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To com 36 reai
+[2015:10:31-11:54:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Reais *
+[2015:10:31-11:54:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Da pra compra nem uma coca
+[2015:10:31-11:54:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : hueaehuae
+[2015:10:31-11:54:45]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: AJUDA
+[2015:10:31-11:55:14]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: com o que paulo
+[2015:10:31-11:55:25]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : to no ts ja
+[2015:10:31-11:55:36]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: ta em camera lenta
+[2015:10:31-11:55:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vc ta com fome zika
+[2015:10:31-11:55:46]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: to no ts
+[2015:10:31-11:56:00]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: ahhhh obrigado
+[2015:10:31-11:57:18]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: bugs
+[2015:10:31-11:57:20]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: nos trabalhos
+[2015:10:31-11:57:23]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: alguem achou ?
+[2015:10:31-11:57:41]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : achei bug en lojas
+[2015:10:31-11:57:50]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: caminhoneiro
+[2015:10:31-11:58:01]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : kk
+[2015:10:31-11:58:03]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: tinha no no onibus
+[2015:10:31-11:58:22]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : o do piloto podia ser melhor
+[2015:10:31-11:58:29]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : o jeito que ta ta estranho
+[2015:10:31-11:58:39]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: qual sua ideia
+[2015:10:31-11:58:40]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : nen previsa pousar
+[2015:10:31-11:58:55]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : coloca aquele angar aberto com o negocio amarelo dentro
+[2015:10:31-11:58:56]  (Local) -> [LOCAL][1]#2F7CCC[3] #FFFFFFVDBG:Owner * Tiago_Santos: claro que precisa
+[2015:10:31-11:59:08]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : ai e obrigatorio pousar
+[2015:10:31-11:59:13]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: é entrega de carga
+[2015:10:31-11:59:26]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: sim, vou definir
+[2015:10:31-11:59:27]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: qual o ts do serve
+[2015:10:31-11:59:29]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: esses novos locais
+[2015:10:31-11:59:30]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : vamso ali no aeroporto vo amostar a vc
+[2015:10:31-11:59:31]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: morri
+[2015:10:31-11:59:31]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS
+[2015:10:31-11:59:31]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ts.vdbg.org
+[2015:10:31-11:59:34]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: uheuehe
+[2015:10:31-11:59:48]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: Abaixa o preço das comidas
+[2015:10:31-11:59:52]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ne
+[2015:10:31-11:59:54]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : poe mais real
+[2015:10:31-12:00:17]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : AEEEEEEEEE
+[2015:10:31-12:00:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Lee enfieeld :3
+[2015:10:31-12:00:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo onwna mlk
+[2015:10:31-12:00:35]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: Tem que aumentar o salario dos Jobs se nao so vao ficar de piloto e Criminoso
+[2015:10:31-12:01:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : tIAGO
+[2015:10:31-12:01:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : As radio no celular n funciona man
+[2015:10:31-12:01:32]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : tigs da teleporte em min
+[2015:10:31-12:02:32]  (Local) -> [LOCAL][0]#2F7CCC[9] #FFFFFFPaulo_Martins: i~´
+[2015:10:31-12:04:18]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: Tigs tenta colocar uma opção de desabilitar marcação de pneu e fumaças
+[2015:10:31-12:04:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Peguei 2 arma boa ja :3
+[2015:10:31-12:05:04]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: quando voce relogar as armas vão sumir porque ela nao esta no inventario
+[2015:10:31-12:05:30]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: morra verme
+[2015:10:31-12:06:01]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Af serio?
+[2015:10:31-12:06:11]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: ;kil]]]]]]]]]]]]/kill
+[2015:10:31-12:06:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu clico pra baixar os personagens modificados
+[2015:10:31-12:06:40]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e n baixa '-'
+[2015:10:31-12:06:49]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: eu so uima senhoria
+[2015:10:31-12:06:50]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior:  tem q aperta m antes
+[2015:10:31-12:06:54]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: q bosta
+[2015:10:31-12:06:55]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ja apertei man
+[2015:10:31-12:07:09]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: eu so uma senhora mor feia~
+[2015:10:31-12:07:17]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo troca de acc
+[2015:10:31-12:07:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo cria uma com outro nome
+[2015:10:31-12:07:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-12:07:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : N quero meu nomi
+[2015:10:31-12:07:53]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: lucas
+[2015:10:31-12:07:54]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: haushuahsuahsuah
+[2015:10:31-12:07:55]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : oi
+[2015:10:31-12:07:56]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: espera
+[2015:10:31-12:07:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : blz
+[2015:10:31-12:08:03]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: que mais pra frente vai poder trocar de nome
+[2015:10:31-12:08:06]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Aee
+[2015:10:31-12:08:09]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Entao vo troca n
+[2015:10:31-12:08:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :3 vlw por avisar tiago
+[2015:10:31-12:08:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mas tipo isso vai demora ainda
+[2015:10:31-12:08:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ou e questao de dias ?
+[2015:10:31-12:08:42]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: kkkkkkkkkkk
+[2015:10:31-12:08:44]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: ae
+[2015:10:31-12:08:46]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : kkk
+[2015:10:31-12:08:51]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Caralho to rapidau :3 kkkkkkkk
+[2015:10:31-12:08:56]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: tira isso man
+[2015:10:31-12:08:58]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: thiago eu buguei
+[2015:10:31-12:08:59]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: n
+[2015:10:31-12:09:02]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: oloko
+[2015:10:31-12:09:04]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: q bug daora
+[2015:10:31-12:09:11]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: o moh bugado tira
+[2015:10:31-12:09:12]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: leg
+[2015:10:31-12:09:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : n e bug n kkkk
+[2015:10:31-12:09:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Isso e do Painel
+[2015:10:31-12:09:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : poe 1 
+[2015:10:31-12:09:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ai fica normal
+[2015:10:31-12:09:25]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: NN
+[2015:10:31-12:09:26]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: porra ai cai na agua pqp
+[2015:10:31-12:09:55]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Alguem me doa
+[2015:10:31-12:09:57]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 100 reais
+[2015:10:31-12:09:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : so pra eu compra
+[2015:10:31-12:10:00]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-
+[2015:10:31-12:10:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : um guarana
+[2015:10:31-12:10:04]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : pra eu desbuga ?
+[2015:10:31-12:10:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Por favor ?
+[2015:10:31-12:10:38]  (Global) -> #2F7CCC[6] #FFFFFFThiago Bispo: uehueheueheuhe
+[2015:10:31-12:10:45]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Alguem pf?
+[2015:10:31-12:11:01]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : tigs
+[2015:10:31-12:11:06]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: thigs
+[2015:10:31-12:11:10]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tigs
+[2015:10:31-12:11:12]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : mano esse negocio de level
+[2015:10:31-12:11:37]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: a agora que me lembrei
+[2015:10:31-12:11:43]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: -9807
+[2015:10:31-12:11:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : -14
+[2015:10:31-12:11:49]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : =(
+[2015:10:31-12:11:50]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: as manobras de stunter nao estao dando exp de level
+[2015:10:31-12:12:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : antes era loco
+[2015:10:31-12:12:05]  (Global) -> #2F7CCC[12] #FFFFFFthiago henrique: lol so um ladrao 5 estrelas :)
+[2015:10:31-12:12:14]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: TIRA CAMERA LENTA FG SERVER LEGADO
+[2015:10:31-12:12:20]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Come algo
+[2015:10:31-12:12:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tu q ta com fome
+[2015:10:31-12:12:28]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: n
+[2015:10:31-12:12:32]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: ta ao maximo
+[2015:10:31-12:12:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ta cinza ?
+[2015:10:31-12:12:42]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: n
+[2015:10:31-12:12:46]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: amarelo
+[2015:10:31-12:13:06]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tigs
+[2015:10:31-12:13:08]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: foi o amd
+[2015:10:31-12:13:10]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: adm
+[2015:10:31-12:13:26]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ta cinza o seu hamburguer ?
+[2015:10:31-12:13:33]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: NAO
+[2015:10:31-12:13:34]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tira essa neblina pf ta foda não bater nos predio de aviao
+[2015:10:31-12:13:37]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: TA AMARELO
+[2015:10:31-12:13:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Voa mais alto victor
+[2015:10:31-12:13:55]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu to fazendo assim
+[2015:10:31-12:14:07]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tipo nao da pra ver nada
+[2015:10:31-12:14:11]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ss kkkkk
+[2015:10:31-12:14:12]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: e branco
+[2015:10:31-12:14:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ta branco kkkk
+[2015:10:31-12:14:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ate pra pousa
+[2015:10:31-12:14:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : fica tenso
+[2015:10:31-12:14:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mais e mais real man
+[2015:10:31-12:15:00]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : afff ganhei nada 
+[2015:10:31-12:15:02]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : que bosta
+[2015:10:31-12:15:15]  (Global) -> #2F7CCC[9] #FFFFFFPaulo Martins: .l.
+[2015:10:31-12:15:17]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: mais não te mnada para ver a altitude
+[2015:10:31-12:15:25]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : da carona ai toreto
+[2015:10:31-12:15:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : to voando as cegas aqui tbm
+[2015:10:31-12:15:42]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : da carona torreto
+[2015:10:31-12:15:46]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: PAUO
+[2015:10:31-12:15:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ai eu subo mais pras  nuvem
+[2015:10:31-12:15:51]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: *PAULO
+[2015:10:31-12:15:52]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : cara ruim
+[2015:10:31-12:15:53]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : q ai da pra ver
+[2015:10:31-12:16:11]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : to voando com uma asa e meia
+[2015:10:31-12:16:20]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : to cainooo
+[2015:10:31-12:16:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : fudeu
+[2015:10:31-12:16:28]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: kkkkkkkk
+[2015:10:31-12:16:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : FUDEEEEU BAHIAAA
+[2015:10:31-12:16:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aa
+[2015:10:31-12:16:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ali terra
+[2015:10:31-12:16:46]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : vo pousa e p pega outro
+[2015:10:31-12:18:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PQP MANOOOOO
+[2015:10:31-12:18:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : PASSEI NO MEIO DA PONTE
+[2015:10:31-12:18:35]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : DE SF
+[2015:10:31-12:18:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : DE LADO VEI
+[2015:10:31-12:18:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : SEM  VER N
+[2015:10:31-12:18:40]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ND 
+[2015:10:31-12:18:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : NA HRA Q EU VI
+[2015:10:31-12:18:46]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : SO VIREI :3
+[2015:10:31-12:18:54]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Caraio veio foi mt foda
+[2015:10:31-12:19:27]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: bug do busao ja resolvi, 
+[2015:10:31-12:19:30]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: tem mais bug nos job ?
+[2015:10:31-12:19:36]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : n
+[2015:10:31-12:19:44]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : eu n vi
+[2015:10:31-12:19:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago , aumenta o salario de alguns jobs ?
+[2015:10:31-12:19:46]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: o stunter nao da level quando faz manobra
+[2015:10:31-12:19:54]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tigs tira a neblina pf
+[2015:10:31-12:19:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e diminui o preço da comida ?
+[2015:10:31-12:20:04]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: aperta HOME
+[2015:10:31-12:20:06]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: sim adiciona um zero em cada salario exceto o de piloto que esta bom
+[2015:10:31-12:20:14]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: kkkkk
+[2015:10:31-12:20:20]  (Local) -> [LOCAL][0]#2F7CCC[4] #FFFFFFOlicio_Junior: horizonte full
+[2015:10:31-12:20:39]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : tiago vai entrar no TS
+[2015:10:31-12:20:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : as comida ta sem base vei
+[2015:10:31-12:20:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ta mt caro
+[2015:10:31-12:21:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : passei do lado de um avião
+[2015:10:31-12:21:15]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: essa moto n empina lol
+[2015:10:31-12:21:16]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : quem foi ?
+[2015:10:31-12:21:18]  (Global) -> #2F7CCC[14] #FFFFFFfahed griggi: ira neblina
+[2015:10:31-12:21:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : so vi no GPS
+[2015:10:31-12:21:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Quem passo do meu lado?
+[2015:10:31-12:21:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ndo pra sf
+[2015:10:31-12:21:31]  (Global) -> #2F7CCC[14] #FFFFFFfahed griggi: tira neblina
+[2015:10:31-12:21:33]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: quase bati no predio dnv
+[2015:10:31-12:21:40]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkk e dois
+[2015:10:31-12:21:51]  (Global) -> #2F7CCC[15] #FFFFFFfelipe azevedo: #00ffffjatem loja ?
+[2015:10:31-12:21:55]  (Global) -> #2F7CCC[8] #FFFFFFMello Fuck : n
+[2015:10:31-12:22:05]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: so da skins mas ainda tem pouca
+[2015:10:31-12:22:09]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tirei tinta do mazebang
+[2015:10:31-12:22:10]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Bank *
+[2015:10:31-12:23:11]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: adiciona um zero no MTM  dois zeros no sorteio e gg
+[2015:10:31-12:23:17]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: loterica vai bombar
+[2015:10:31-12:23:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : preciso de comida
+[2015:10:31-12:23:44]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :v k
+[2015:10:31-12:24:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-12:24:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Meu F1 ta bugado mano
+[2015:10:31-12:24:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: como assim
+[2015:10:31-12:24:50]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: tem q aperta m
+[2015:10:31-12:24:51]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tipoo num tem pra
+[2015:10:31-12:24:56]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Baixar os carro e as skin ?
+[2015:10:31-12:24:58]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Os carro ja baixei
+[2015:10:31-12:25:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ai as skin
+[2015:10:31-12:25:01]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Tiago
+[2015:10:31-12:25:02]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : na hra q eu aperto f1
+[2015:10:31-12:25:03]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : aperto m
+[2015:10:31-12:25:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : pra clica la
+[2015:10:31-12:25:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : N acontece nd
+[2015:10:31-12:25:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Continua o Baixar
+[2015:10:31-12:25:14]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: oq aparece no chat
+[2015:10:31-12:25:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Nada
+[2015:10:31-12:25:26]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior:  a SKIN MOD E MO FEIA
+[2015:10:31-12:25:28]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ativa os carro
+[2015:10:31-12:25:36]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ja ativei ja
+[2015:10:31-12:25:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ja baixo as skin
+[2015:10:31-12:25:47]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ?
+[2015:10:31-12:25:49]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: ja tem como compra
+[2015:10:31-12:25:53]  (Global) -> #2F7CCC[9] #FFFFFFDom Toretto: nao
+[2015:10:31-12:25:57]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: carro
+[2015:10:31-12:25:57]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Não mano , quando eu vou clicar pra baixar
+[2015:10:31-12:26:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : não acontece nd
+[2015:10:31-12:26:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : E mesma coisa de um click em vão tlg ?
+[2015:10:31-12:26:09]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: eee morri : (
+[2015:10:31-12:26:16]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu clico em baixar
+[2015:10:31-12:26:19]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e n aparece nd
+[2015:10:31-12:26:22]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Que ta baixando
+[2015:10:31-12:26:23]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: lol
+[2015:10:31-12:26:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : nem pra atia
+[2015:10:31-12:26:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: reloga pra ve
+[2015:10:31-12:26:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Foda e so um
+[2015:10:31-12:26:41]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To com 2 arma
+[2015:10:31-12:26:46]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Se eu reloga eu perco?
+[2015:10:31-12:26:46]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Tiagoo tira a neblina ta atrapalhando muitoo 
+[2015:10:31-12:26:48]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS entra no TS
+[2015:10:31-12:26:52]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: ta mt
+[2015:10:31-12:26:55]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Ricardo , na vida real e assim mano
+[2015:10:31-12:27:03]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: é nada
+[2015:10:31-12:27:05]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e s
+[2015:10:31-12:27:08]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: e quando tem chuva
+[2015:10:31-12:27:15]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: neh
+[2015:10:31-12:27:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Vai de avião pro RS então  pra tu ver
+[2015:10:31-12:27:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu ja fui
+[2015:10:31-12:27:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tu n ve um palmo na sua frente
+[2015:10:31-12:27:29]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Mais aki n é RS parça
+[2015:10:31-12:27:39]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : mas e brasil porra :v k
+[2015:10:31-12:27:40]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: é só 500m de visao
+[2015:10:31-12:27:49]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: q paia
+[2015:10:31-12:27:53]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : n e paia man
+[2015:10:31-12:27:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e pra ficar mais real po
+[2015:10:31-12:28:00]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: ta mt ruim pelo menos coloca os altimetro
+[2015:10:31-12:28:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Uma dica ai : Voa mais alto que as nuvem
+[2015:10:31-12:28:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : ai vcs n batem em nd
+[2015:10:31-12:28:34]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Quando tiverem chegando
+[2015:10:31-12:28:34]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: sumiuj meu gps
+[2015:10:31-12:28:39]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: como se eu nem vejo ela kkk
+[2015:10:31-12:28:40]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Aponta o avião todo pra baixo
+[2015:10:31-12:28:46]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ativa no home
+[2015:10:31-12:28:46]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : e freia tudo
+[2015:10:31-12:28:50]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Tu pousa igual heli
+[2015:10:31-12:29:05]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: mais pra frente vo faze um velocimetro de aviao
+[2015:10:31-12:29:05]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: hiago
+[2015:10:31-12:29:09]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: thiago
+[2015:10:31-12:29:19]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: bugo aki  man
+[2015:10:31-12:29:26]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: como pego moto
+[2015:10:31-12:29:28]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: eu to full comida e full bebida[
+[2015:10:31-12:29:31]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: e os carro as casa vai colocar quando ?
+[2015:10:31-12:29:34]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo:  to em camera lenta
+[2015:10:31-12:29:44]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: gente 
+[2015:10:31-12:29:52]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: thiago vc ta com fome sepa
+[2015:10:31-12:29:53]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: iva  o horizonte full q sai a neblina
+[2015:10:31-12:29:59]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: n to nao
+[2015:10:31-12:30:02]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: eu to full
+[2015:10:31-12:30:06]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: os 2
+[2015:10:31-12:30:11]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: fico em camera lenta depois doq
+[2015:10:31-12:30:25]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: dps q eu morri usando arma em otro char
+[2015:10:31-12:30:26]  (Global) -> #2F7CCC[4] #FFFFFFOlicio Junior: TIGS meu GPS sumiu
+[2015:10:31-12:30:33]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: ai eu criei esse
+[2015:10:31-12:30:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Que dahora fico o Home tiago
+[2015:10:31-12:30:39]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: ai bugo aki tb
+[2015:10:31-12:30:47]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: nao entendi 
+[2015:10:31-12:30:54]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: eu tava em otro char
+[2015:10:31-12:30:58]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: e tava com fome
+[2015:10:31-12:31:00]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-12:31:03]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: ai eu morri
+[2015:10:31-12:31:06]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Praq tu me puniu ? '-'
+[2015:10:31-12:31:06]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: e bugo
+[2015:10:31-12:31:14]  (Global) -> #2F7CCC[14] #FFFFFFThiago Bispo: msm eu comendo
+[2015:10:31-12:31:15]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: hue
+[2015:10:31-12:31:15]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Nem te punin vei
+[2015:10:31-12:31:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : po vacilo em edu
+[2015:10:31-12:31:24]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Sacanagem em vei
+[2015:10:31-12:31:27]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: kkkkk puniu n ne
+[2015:10:31-12:31:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : n
+[2015:10:31-12:31:33]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vo ve uma paradea pera
+[2015:10:31-12:31:33]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu n clique
+[2015:10:31-12:31:48]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: aqui ta 259
+[2015:10:31-12:31:57]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 49
+[2015:10:31-12:31:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : :*
+[2015:10:31-12:32:06]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkk
+[2015:10:31-12:32:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 10
+[2015:10:31-12:32:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : 9
+[2015:10:31-12:32:41]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: servidor ta paia
+[2015:10:31-12:32:51]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: da pra ver porra nenhuma
+[2015:10:31-12:33:00]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: : (
+[2015:10:31-12:33:15]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: toma vida
+[2015:10:31-12:33:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To bug
+[2015:10:31-12:33:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : af
+[2015:10:31-12:33:27]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Buguei
+[2015:10:31-12:33:29]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Brigado edu
+[2015:10:31-12:33:55]  (Local) -> [LOCAL][1]#2F7CCC[3] #FFFFFFVDBG:Owner * Tiago_Santos: vc que ta em camera lenta ?
+[2015:10:31-12:34:22]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: como seis ja tem arma
+[2015:10:31-12:34:32]  (Global) -> #2F7CCC[13] #FFFFFFThiago Henrique: rewr
+[2015:10:31-12:34:42]  (Global) -> #2F7CCC[13] #FFFFFFvictor viana: q
+[2015:10:31-12:35:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkk se fu
+[2015:10:31-12:35:07]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Foi punido kkkkkk
+[2015:10:31-12:35:09]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: AAAA velho
+[2015:10:31-12:35:15]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: va se foder
+[2015:10:31-12:35:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkk troxa caiu kkkk
+[2015:10:31-12:35:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2015:10:31-12:35:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkkkkkkkkkkkk
+[2015:10:31-12:35:44]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: vai rir no krlh 
+[2015:10:31-12:35:51]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[2015:10:31-12:36:19]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: kkkk o krlh 
+[2015:10:31-12:36:24]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: quem ta em ls ?
+[2015:10:31-12:36:29]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: eu
+[2015:10:31-12:36:30]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: eu
+[2015:10:31-12:36:35]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: n
+[2015:10:31-12:36:37]  (Global) -> #2F7CCC[5] #FFFFFFsponge silva: oooooooooooooooo
+[2015:10:31-12:36:41]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: aff a delegacia continua sem porta
+[2015:10:31-12:36:48]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vai no job de lixeiro pf
+[2015:10:31-12:37:04]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: ?????
+[2015:10:31-12:37:22]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: onde er?????/
+[2015:10:31-12:37:37]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: deixa q eu vop
+[2015:10:31-12:37:42]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: to chegando
+[2015:10:31-12:37:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : gastei 9k tbm
+[2015:10:31-12:37:51]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So comprano alimento
+[2015:10:31-12:37:56]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: to aki
+[2015:10:31-12:37:59]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Quero ver passa fome agr
+[2015:10:31-12:38:19]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Tigs to aki 
+[2015:10:31-12:38:56]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: q top esse caminhao
+[2015:10:31-12:40:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Bom dia
+[2015:10:31-12:40:17]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: bom dia
+[2015:10:31-12:40:32]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : sai pra la tio
+[2015:10:31-12:40:38]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So ladrao n 
+[2015:10:31-12:40:41]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: destrava
+[2015:10:31-12:40:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : destrava meu bilau
+[2015:10:31-12:41:12]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : para  Matheus
+[2015:10:31-12:41:26]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : af vei cara babaca
+[2015:10:31-12:41:50]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : FDP
+[2015:10:31-12:45:50]  (Global) -> #2F7CCC[13] #FFFFFFThiago Henrique: filho da puta
+[2015:10:31-12:46:25]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: alguem vai no trabalho de pesqueiro pf
+[2015:10:31-12:46:39]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: n sei aonde éh
+[2015:10:31-12:46:44]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: na praia
+[2015:10:31-12:46:46]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: eu vo la
+[2015:10:31-12:46:50]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: de ls ?
+[2015:10:31-12:48:06]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: to aki tigs
+[2015:10:31-12:48:56]  (Global) -> #2F7CCC[15] #FFFFFFfelipe azevedo: mano o trabalho de lixeiro n ta funfando
+[2015:10:31-12:49:27]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: tigs
+[2015:10:31-12:50:54]  (Global) -> #2F7CCC[15] #FFFFFFfelipe azevedo: na onde fica o caminhoneiro /
+[2015:10:31-12:50:56]  (Global) -> #2F7CCC[15] #FFFFFFfelipe azevedo: ?
+[2015:10:31-13:00:52]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: uheuhehue
+[2015:10:31-13:01:06]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: thiago
+[2015:10:31-13:01:07]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Cara mal
+[2015:10:31-13:01:08]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: socorro
+[2015:10:31-13:01:10]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: me puxa
+[2015:10:31-13:01:14]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: to bugado
+[2015:10:31-13:01:17]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: socorro
+[2015:10:31-13:01:34]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: thiago
+[2015:10:31-13:02:07]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Pesqueeei
+[2015:10:31-13:02:08]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: thiago
+[2015:10:31-13:02:09]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: me puxa
+[2015:10:31-13:02:10]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: sou foda 
+[2015:10:31-13:02:14]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: thiago porra
+[2015:10:31-13:02:18]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: deu certo ?
+[2015:10:31-13:02:19]  (Global) -> #2F7CCC[9] #FFFFFFThiago bispo: me ajuda me puxa
+[2015:10:31-13:02:34]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: ./kill
+[2015:10:31-13:03:31]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: Tigs quando eu fui vender falou q n tenho peixe
+[2015:10:31-13:07:22]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: n consigo anda com essa moto
+[2015:10:31-13:07:34]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: espaço amsi j
+[2015:10:31-13:07:45]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: a vlw
+[2015:10:31-13:07:47]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: greg ?
+[2015:10:31-13:07:51]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: s
+[2015:10:31-13:08:14]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: oi[
+[2015:10:31-13:08:33]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: camera lenta ainda '---'
+[2015:10:31-13:08:58]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: eu to com legue o som ta meio roco sla como arrumo
+[2015:10:31-13:09:11]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: vc ta com fome thiago
+[2015:10:31-13:09:20]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: oorra
+[2015:10:31-13:09:21]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: eu:?
+[2015:10:31-13:09:24]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: sim e sede
+[2015:10:31-13:09:27]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: descobri oq eu tenho
+[2015:10:31-13:09:28]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: nao eu to full mais to em camera lenta
+[2015:10:31-13:09:38]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: vlw adm
+[2015:10:31-13:09:40]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: galego
+[2015:10:31-13:09:43]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: ce é o bicho
+[2015:10:31-13:09:45]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: nenhum carro anda ?
+[2015:10:31-13:10:14]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: clica espaço mais J
+[2015:10:31-13:10:26]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: dentro do carro
+[2015:10:31-13:10:36]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: aew
+[2015:10:31-13:10:40]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: ta sem casa ainda?
+[2015:10:31-13:10:51]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: s
+[2015:10:31-13:10:55]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: vlw
+[2015:10:31-13:11:44]  (Global) -> #2F7CCC[9] #FFFFFFThiago Henrique: eu to preso nao consigo andar
+[2015:10:31-13:12:24]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: aonde abastece barco ?
+[2015:10:31-13:14:39]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: esse serv  vai ficar dhr completo
+[2015:10:31-13:15:12]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: galego
+[2015:10:31-13:15:20]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: tem alguma coisa carregando aqui q ta me ferrando
+[2015:10:31-13:15:38]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: desaparece todos os peixes q peguei
+[2015:10:31-13:15:52]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: vtnc
+[2015:10:31-13:16:32]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: crl
+[2015:10:31-13:16:35]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: a assim n da
+[2015:10:31-13:16:40]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: vtnc
+[2015:10:31-13:16:40]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: ai e foda
+[2015:10:31-13:16:44]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: '-'
+[2015:10:31-13:16:45]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: aki tbm
+[2015:10:31-13:16:51]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: o voo some do nd
+[2015:10:31-13:16:56]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: ai eu fico boiando
+[2015:10:31-13:17:03]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: algm taxista ON?
+[2015:10:31-13:17:03]  (Global) -> #2F7CCC[3] #FFFFFFVDBG:Owner * Tiago Santos: o arrumando o mod zika
+[2015:10:31-13:17:21]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: soh uma pergunta vcs gostavam de mim na staff antes?
+[2015:10:31-13:17:27]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: 10k um taco de baseball
+[2015:10:31-13:17:29]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: crl
+[2015:10:31-13:17:33]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: kkkkkkkkkkkkkkkk
+[2015:10:31-13:17:38]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: 150 pau uma coca
+[2015:10:31-13:17:48]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: :v
+[2015:10:31-13:17:50]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse:  /nick MRosse
+[2015:10:31-13:17:52]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: puta q pariuu
+[2015:10:31-13:17:53]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: se inspiro no brasil galego ?
+[2015:10:31-13:17:53]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: vai c foder mane
+[2015:10:31-13:18:21]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: Algm Taxista Disponivel??
+[2015:10:31-13:18:24]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: mds
+[2015:10:31-13:18:31]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: vou ficar dando uns role de aviao msm
+[2015:10:31-13:18:37]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: dexa eu pesca crl
+[2015:10:31-13:18:38]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: nn me dão rota
+[2015:10:31-13:18:59]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: crl
+[2015:10:31-13:19:07]  (Global) -> #2F7CCC[13] #FFFFFFThiago Henrique: adm thiago santos
+[2015:10:31-13:19:08]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: ta bugadasso
+[2015:10:31-13:19:18]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: adm n eh o dono
+[2015:10:31-13:19:34]  (Global) -> #2F7CCC[13] #FFFFFFThiago Henrique: sim ei sei e adinistrador
+[2015:10:31-13:20:01]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: ai tb ta dando bug quando pega carro no spawer ?
+[2015:10:31-13:20:10]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: onde vejo a gasolina da carreta?
+[2015:10:31-13:20:17]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: mathues
+[2015:10:31-13:20:22]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: aperta j
+[2015:10:31-13:20:36]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: ah kkkkk
+[2015:10:31-13:20:37]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: metheus o carro n quer anda?
+[2015:10:31-13:20:44]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: espaço + j .-.
+[2015:10:31-13:20:47]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: achei que tivesse bugado , mas so tinha que ligar o carro
+[2015:10:31-13:20:50]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: kkk
+[2015:10:31-13:20:52]  (Global) -> #2F7CCC[10] #FFFFFFGabriel Henrique: fodase vo sai do serve flw vo joga no saur
+[2015:10:31-13:21:36]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: pra quem andava de infernus
+[2015:10:31-13:21:40]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: savana e dms
+[2015:10:31-13:21:44]  (Global) -> #2F7CCC[12] #FFFFFFGabriel Torres: k_k
+[2015:10:31-13:21:44]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: '-'
+[2015:10:31-13:21:52]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: eu quero uem elegy ;;
+[2015:10:31-13:21:53]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: ;-;
+[2015:10:31-13:22:11]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: sdds do meu sultan kkkkkk
+[2015:10:31-13:22:23]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: elegy = drift *-*
+[2015:10:31-13:22:27]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: saudades do meu heli
+[2015:10:31-13:22:31]  (Global) -> #2F7CCC[2] #FFFFFFeduardo breno: kkk pra quem compra gasolina de 7 reais pra joga fora hoje n compra nem coca cola kkk
+[2015:10:31-13:23:10]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: que desgrama é essa que o serve ta meio que lento
+[2015:10:31-13:23:19]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: lento?
+[2015:10:31-13:23:32]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: sei la , na hora de dirigir da uma impressao esquisita
+[2015:10:31-13:23:44]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: cl
+[2015:10:31-13:23:47]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: pra mim ta normal
+[2015:10:31-13:23:48]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: é fome
+[2015:10:31-13:23:55]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: vai come um rango q volta
+[2015:10:31-13:23:59]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: fica sem radio tbm
+[2015:10:31-13:24:00]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: o som do motor ta ruim kk
+[2015:10:31-13:24:08]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: vou morrer de fome meu din din -3640 :v
+[2015:10:31-13:25:06]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: quero meu infernus de volta scanaj
+[2015:10:31-13:25:22]  (Global) -> #2F7CCC[11] #FFFFFFErvino Silva: mudou algo desde ontem?
+[2015:10:31-13:25:33]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: f1
+[2015:10:31-13:26:07]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: f1 ja tinha so q tinha q dar /alt ;-;
+[2015:10:31-13:26:08]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: essa neblina dos inferno
+[2015:10:31-13:26:16]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: tii
+[2015:10:31-13:26:26]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: ae
+[2015:10:31-13:26:32]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: kk
+[2015:10:31-13:26:48]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: como faço pra baixar o resto das "dlc's ?
+[2015:10:31-13:26:56]  (Global) -> #2F7CCC[8] #FFFFFFricardo lima: tu e foda tigs
+[2015:10:31-13:29:47]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: moto morreu ;-;
+[2015:10:31-13:30:23]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: man
+[2015:10:31-13:30:30]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: tem como cancelar as dlc?
+[2015:10:31-13:30:40]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: ta bugando meu emprego
+[2015:10:31-13:31:49]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: o meu tb
+[2015:10:31-13:32:06]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: refrigeran mais cara do q campagne
+[2015:10:31-13:33:41]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: o jogo ta todo bugado
+[2015:10:31-13:33:43]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: slk
+[2015:10:31-13:33:49]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: eu to lento msm tando full
+[2015:10:31-13:33:57]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: pra mim ta normal '-'
+[2015:10:31-13:33:58]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: quando piloto os local fika muda ndo
+[2015:10:31-13:34:14]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: du nado carro q o adm spaw pra criminoso
+[2015:10:31-13:34:20]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: fika mudando de lugar
+[2015:10:31-13:34:24]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: quando chego perto
+[2015:10:31-13:35:15]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: quando sair do modo BETa
+[2015:10:31-13:35:20]  (Global) -> #2F7CCC[8] #FFFFFFthiago bispo: eu volto ake
+[2015:10:31-13:39:47]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: taxi
+[2015:10:31-13:40:12]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: algum taxista?
+[2015:10:31-13:42:50]  (Global) -> #2F7CCC[9] #FFFFFFLou Rivas Noire: ping alto da porra
+[2015:10:31-13:43:11]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: .-.
+[2015:10:31-13:54:07]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: taxis 
+[2015:10:31-13:54:29]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: algm taxista ae?
+[2015:10:31-13:56:45]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: algm aki sabe drift?
+[2015:10:31-13:57:09]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: pessoa lo level ta bugado 
+[2015:10:31-13:57:14]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: s
+[2015:10:31-13:57:33]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: que merda não adianta nem trabalhar 
+[2015:10:31-13:57:37]  (Global) -> #2F7CCC[9] #FFFFFFMatheus Rosse: COMO USA GASOLINA ?
+[2015:10:31-13:57:43]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: como assimw
+[2015:10:31-13:57:59]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: gasolina só quando vc tiver seu carro próprio comprado
+[2015:10:31-13:59:40]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: eu sei drift
+[2015:10:31-13:59:51]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: sem hand
+[2015:10:31-13:59:53]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: ?
+[2015:10:31-14:00:12]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: m poko sem hand
+[2015:10:31-14:00:17]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: um 
+[2015:10:31-14:00:29]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: eu manjo com hand e +- sem
+[2015:10:31-14:00:41]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: gente pescador da muito dinheiro
+[2015:10:31-14:00:48]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: s
+[2015:10:31-14:01:24]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: ivan
+[2015:10:31-14:01:30]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: fala mano
+[2015:10:31-14:01:56]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: nem compenssa ttrabalhar vai resetar qnd sair do beta eu acho
+[2015:10:31-14:02:03]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: tira a nebilna PF
+[2015:10:31-14:02:13]  (Global) -> #2F7CCC[12] #FFFFFFMatheus Antunes: é ruim de pilotar aviao
+[2015:10:31-14:02:17]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: pois é cara também acho mas no momento não tenho nada pra fazer
+[2015:10:31-14:02:27]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: eu fico dando role :v
+[2015:10:31-14:02:51]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: adm
+[2015:10:31-14:04:40]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: gente esse server ta mais parado que piroca de velho 
+[2015:10:31-14:05:06]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: eu pensei q por demorar muito a ser aberto q qnd abrisse tivesse tudo pronto
+[2015:10:31-14:05:19]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: né
+[2015:10:31-14:05:41]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: antes já era muito melhor só faltava as casas agora nada funciona
+[2015:10:31-14:05:57]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: antes tinha casas
+[2015:10:31-14:06:03]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: 5 meses arrumando e pioro ;-;
+[2015:10:31-14:06:06]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: n sei pq mudaram
+[2015:10:31-14:07:18]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: flw pro 6s
+[2015:10:31-14:07:23]  (Global) -> #2F7CCC[9] #FFFFFFStinG SantoS: vou jogar shooter
+[2015:10:31-14:07:33]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: flw 
+[2015:10:31-14:08:24]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: gente acho que o sistema de level ta funcionando 
+[2015:10:31-14:08:47]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Eu acho q n ta n man
+[2015:10:31-14:09:00]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Se ta demora bem pra upa viu
+[2015:10:31-14:09:25]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: nn ta msm
+[2015:10:31-14:09:29]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: aq fala q eu to lv2
+[2015:10:31-14:09:32]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: aparece lv1
+[2015:10:31-14:09:43]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: no canto superior direito tem uma barra que vai de 00 a 100 toda vez que vc conclui uma missão
+[2015:10:31-14:09:47]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: ela aumenta 
+[2015:10:31-14:10:14]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Se o sistema estiver funcionando o tab ta bugado
+[2015:10:31-14:10:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Dos dois um
+[2015:10:31-14:10:37]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Velho porq o som no meu é mo escroto ?
+[2015:10:31-14:10:38]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: é acho que é o tab mesmo
+[2015:10:31-14:10:56]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Som do meu jogo ta bugado ou é o sv ?
+[2015:10:31-14:11:09]  (Global) -> #2F7CCC[8] #FFFFFFMatheus Griff: e o serv
+[2015:10:31-14:11:11]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: man, eh qnd ce ta com fome
+[2015:10:31-14:11:13]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : a bom
+[2015:10:31-14:11:17]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: o meu bugo tbm
+[2015:10:31-14:11:18]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Mas tipo n to com fome :v
+[2015:10:31-14:11:21]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Se for e foda kkkk
+[2015:10:31-14:11:23]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : Gastei 9 k
+[2015:10:31-14:11:25]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : So comprano comida
+[2015:10:31-14:11:25]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: to com a barra de fome full e esta porra continua
+[2015:10:31-14:11:26]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : kkkkkk
+[2015:10:31-14:11:30]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : To com inventario Full
+[2015:10:31-14:12:15]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: to na frente da minha antiga casa no sv ;--;
+[2015:10:31-14:12:17]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: sdds
+[2015:10:31-14:13:31]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : af buguei no hokme
+[2015:10:31-14:13:42]  (Global) -> #2F7CCC[10] #FFFFFFLucas Maia Rocha : meu home n sai mais :v
+[2015:10:31-14:14:11]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: adm
+[2015:10:31-14:14:15]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: som ta roco
+[2015:10:31-14:14:20]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: e eu to sem fome
+[2015:10:31-14:15:56]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : ss
+[2015:10:31-14:16:20]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: saindo ake glr
+[2015:10:31-14:16:22]  (Global) -> #2F7CCC[8] #FFFFFFLou Rivas Noire: fui
+[2015:10:31-14:16:56]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: esse banco é ridiculo 
+[2015:10:31-14:16:58]  (Global) -> #2F7CCC[8] #FFFFFFBruno jose pacheco : tww  jwwdwd
+[2015:10:31-14:18:16]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Som ta bug =
+[2015:10:31-14:20:59]  (Global) -> #2F7CCC[9] #FFFFFFapolo sousa: eae galerinha do secsu
+[2015:10:31-14:21:09]  (Global) -> #2F7CCC[9] #FFFFFFHygor De Souza:  e ai negoo
+[2015:10:31-14:21:09]  (Global) -> #2F7CCC[9] #FFFFFFGuilherme Sousa: @jogadornovo
+[2015:10:31-14:21:43]  (Global) -> #2F7CCC[9] #FFFFFFapolo sousa: como abaixa os graficos ?
+[2015:10:31-14:25:11]  (Global) -> #2F7CCC[9] #FFFFFFGuilherme Sousa: iai
+[2015:10:31-14:28:00]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: AUGEM MI MATA AQUI NA LOJA DE ARMA PF
+[2015:10:31-14:28:47]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Tiago
+[2015:10:31-14:28:53]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Server vai resetar ?
+[2015:10:31-14:29:14]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: ALGUEM MI AJUDA PF
+[2015:10:31-14:29:20]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha :  da /kill Gui
+[2015:10:31-14:29:28]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: BLZ
+[2015:10:31-14:29:40]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Ivan , ta ae ?
+[2015:10:31-14:30:08]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: o ivan do administrador não 
+[2015:10:31-14:30:32]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Percebi ;-;
+[2015:10:31-14:30:46]  (Global) -> #2F7CCC[8] #FFFFFFBruno jose pacheco : novas
+[2015:10:31-14:30:51]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: O tiago botou algo novo no sv ?
+[2015:10:31-14:31:18]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: o que ele coloco
+[2015:10:31-14:31:24]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: mano como faso pra min anda porque ta aparesendo a seta e  nao deixa eu anda
+[2015:10:31-14:31:30]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: N sei
+[2015:10:31-14:31:33]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: To perguntando
+[2015:10:31-14:31:34]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: aperta m
+[2015:10:31-14:31:34]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: '-'
+[2015:10:31-14:31:45]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: nao da
+[2015:10:31-14:31:50]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Aperta f8
+[2015:10:31-14:31:52]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: m faz aparecer e tirar a ceta
+[2015:10:31-14:31:53]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Ou ESC
+[2015:10:31-14:32:02]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: MMMMMMMM CRL
+[2015:10:31-14:32:03]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: aperta m
+[2015:10:31-14:32:08]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-14:32:13]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: M não tá dando pra ele
+[2015:10:31-14:32:14]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Arruma o som pf mano ?
+[2015:10:31-14:33:56]  (Policial) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: eae
+[2015:10:31-14:33:56]  (Policial) -> [POLICIAL] #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: #ffffffeae
+[2015:10:31-14:34:28]  (Policial) -> #2F7CCC[8] #FFFFFFHygor De Souza: ee aii
+[2015:10:31-14:34:28]  (Policial) -> [POLICIAL] #2F7CCC[8] #FFFFFFHygor De Souza: #ffffffee aii
+[2015:10:31-14:35:25]  (Global) -> #2F7CCC[8] #FFFFFFBruno jose pacheco : aaa
+[2015:10:31-14:35:43]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: j
+[2015:10:31-14:35:52]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-14:35:54]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: q
+[2015:10:31-14:35:54]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : poe de dia ?
+[2015:10:31-14:36:06]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : pf
+[2015:10:31-14:36:09]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Vlw
+[2015:10:31-14:36:15]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : e pq tava meio tenso  pilotar kkkkkk
+[2015:10:31-14:36:24]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : De dia facilita   :DD
+[2015:10:31-14:36:33]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: O server vai resetar ?
+[2015:10:31-14:36:39]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Falaram que ia '-'
+[2015:10:31-14:36:42]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: pessoal alguém ta fazendo algo importante no momento ?
+[2015:10:31-14:36:48]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : eu
+[2015:10:31-14:36:52]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : To pilotano '-'
+[2015:10:31-14:36:55]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Vai tiago ?
+[2015:10:31-14:37:06]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Eita porra
+[2015:10:31-14:37:06]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: vai segunda feira
+[2015:10:31-14:37:08]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: vamos fazer um mata mata não tem nada pra fazer 
+[2015:10:31-14:37:17]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: Então nem adianta trampar 
+[2015:10:31-14:37:18]  (Global) -> #2F7CCC[7] #FFFFFFSimo Hayha: uashuash
+[2015:10:31-14:38:10]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: os policiais de plantão vem me pegar aki 
+[2015:10:31-14:38:33]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Guilhermi
+[2015:10:31-14:39:09]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: OI
+[2015:10:31-14:39:23]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : nd kkk
+[2015:10:31-14:40:10]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-14:40:18]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: COMO FAZ PRA ANAD NAO TA DANDO
+[2015:10:31-14:40:20]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Como pega serviço de Pizza Boy ?
+[2015:10:31-14:40:31]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Gui escreve /reconnect
+[2015:10:31-14:40:58]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Cê vai desbugar
+[2015:10:31-14:41:05]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: valeu
+[2015:10:31-14:41:09]  (Local) -> [LOCAL][1]#2F7CCC[9] #FFFFFFLucas_Maia_Rocha_: Roba n po
+[2015:10:31-14:41:33]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-14:41:37]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : como viro pizza boy?
+[2015:10:31-14:42:15]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Gui aperta G
+[2015:10:31-14:44:09]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Caraca veio
+[2015:10:31-14:44:12]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : como vira pizza Boy ?
+[2015:10:31-14:44:45]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: VAINO LUGAR ONDE VENDE PIZZA PERTO DA CASA CJ
+[2015:10:31-14:45:07]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : blz
+[2015:10:31-14:46:04]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: cara nao ta andando nao o carro
+[2015:10:31-14:48:33]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago
+[2015:10:31-14:48:42]  (Global) -> #2F7CCC[11] #FFFFFFIvan Passos: FLW GENTE 
+[2015:10:31-14:48:49]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Flw
+[2015:10:31-14:53:11]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago arruma o som vei pf ?
+[2015:10:31-14:53:44]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: lucas vc ta com fome
+[2015:10:31-14:53:47]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : s
+[2015:10:31-14:53:50]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : n
+[2015:10:31-14:53:50]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: ent
+[2015:10:31-14:53:52]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : To n man
+[2015:10:31-14:53:55]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ta laranja vei
+[2015:10:31-14:54:02]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Eu li vc ta com fone
+[2015:10:31-14:54:02]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: vc precisa tomar agua
+[2015:10:31-14:54:03]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : :v
+[2015:10:31-14:54:07]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ta cheio tbm
+[2015:10:31-14:54:14]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: ent n ta bugad
+[2015:10:31-14:54:21]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ta s man
+[2015:10:31-14:54:24]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : ele ta roco
+[2015:10:31-14:54:29]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : a agua ta azul
+[2015:10:31-14:54:32]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : e o negocio ta laranja
+[2015:10:31-14:54:33]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: como bebo agua
+[2015:10:31-14:54:34]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: como assim roco
+[2015:10:31-14:54:35]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : e n fica normal
+[2015:10:31-14:54:40]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Roco vei
+[2015:10:31-14:54:43]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : o som ta estranhasso
+[2015:10:31-14:54:54]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Reseta o som pf ?
+[2015:10:31-14:55:26]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ta mt bugado tipo
+[2015:10:31-14:55:40]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Eu to com tudo normalzin
+[2015:10:31-14:55:43]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : e o som fica bu
+[2015:10:31-14:55:44]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : bug
+[2015:10:31-14:56:16]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ele fica falhano
+[2015:10:31-14:56:18]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : e tal
+[2015:10:31-14:56:23]  (Global) -> #2F7CCC[6] #FFFFFFGuilherme Sousa: como meche no grafico
+[2015:10:31-14:56:26]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Home
+[2015:10:31-14:56:34]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tenta arrumar Tiago pf?
+[2015:10:31-14:57:49]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: ;-;
+[2015:10:31-14:58:07]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tenta arrumar Tiago?
+[2015:10:31-14:58:48]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: CARRO: NOME DO JOGO | NOME REAL | VELOCIDADE MAXIMA | DESC DO BUG SE TIVER
+[2015:10:31-14:59:03]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: ?
+[2015:10:31-14:59:10]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: q isso /\ ? ;-;
+[2015:10:31-14:59:43]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Staff's * Bruno jose pacheco : oo nego
+[2015:10:31-15:00:20]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: tiago
+[2015:10:31-15:00:33]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: vai colocar o barulho real dos carrus?
+[2015:10:31-15:00:40]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tem que mudar issovei
+[2015:10:31-15:00:43]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Dxa o som original
+[2015:10:31-15:00:47]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ta mo bugado esse som po
+[2015:10:31-15:00:52]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: lucas
+[2015:10:31-15:00:56]  (Local) -> [LOCAL][2]#2F7CCC[6] #FFFFFFVDBG:Staff's * Hygor_De_Souza: o
+[2015:10:31-15:01:00]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: to falando colocar ronco real
+[2015:10:31-15:01:17]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Ja achei um bug
+[2015:10:31-15:01:22]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Alem do ronco
+[2015:10:31-15:01:24]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : u-u
+[2015:10:31-15:01:26]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: ?
+[2015:10:31-15:01:44]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: oq ce acho?
+[2015:10:31-15:01:56]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : um bugzitu
+[2015:10:31-15:02:03]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: qual '-'?
+[2015:10:31-15:02:23]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : um cara kkkk
+[2015:10:31-15:02:31]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: °͜ʖ°?
+[2015:10:31-15:03:41]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : af vei
+[2015:10:31-15:03:48]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Esse som ta me encheno a paciencia
+[2015:10:31-15:03:53]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: kkk
+[2015:10:31-15:03:56]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: tira o som uai
+[2015:10:31-15:04:24]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : como ?
+[2015:10:31-15:04:31]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: opçoes do mta 
+[2015:10:31-15:04:32]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: ( ͡; ͜ʖ ͡; )
+[2015:10:31-15:05:09]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : ah 
+[2015:10:31-15:05:12]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Quero tira o do sv
+[2015:10:31-15:05:18]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tinha que ter a opçao n ohome vei
+[2015:10:31-15:05:25]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Esse som bugado e mt fdp vei
+[2015:10:31-15:05:30]  (Global) -> #2F7CCC[9] #FFFFFFLucas Maia Rocha : Tiago reseta o  som ai vei pf ?
+[2015:10:31-15:05:38]  (Global) -> #2F7CCC[7] #FFFFFFStinG SantoS: ;-;
+[2015:10:31-15:41:32]  (Local) -> [LOCAL][2]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-16:08:30]  (Local) -> [LOCAL][2]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: ipiipad
+[2015:10:31-16:09:49]  (Local) -> [LOCAL][2]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: i
+[2015:10:31-16:16:16]  (Global) -> #2F7CCC[1] #FFFFFFWillams Matias: ta me ouvindo?:
+[2015:10:31-16:16:25]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: to nao
+[2015:10:31-16:16:28]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: ta me ouvindo ?
+[2015:10:31-16:16:28]  (Global) -> #2F7CCC[1] #FFFFFFWillams Matias: lol
+[2015:10:31-16:16:29]  (Global) -> #2F7CCC[1] #FFFFFFWillams Matias: sim
+[2015:10:31-16:16:33]  (Global) -> #2F7CCC[1] #FFFFFFWillams Matias: acho que é ai
+[2015:10:31-16:27:41]  (Local) -> [LOCAL][1]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-16:47:22]  (Global) -> #2F7CCC[8] #FFFFFFVDBG:Owner * Tiago Santos: matias
+[2015:10:31-16:55:07]  (Global) -> #2F7CCC[1] #FFFFFFWillams Matias: thiago
+[2015:10:31-18:45:10]  (Local) -> [LOCAL][0]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: i
+[2015:10:31-18:53:28]  (Local) -> [LOCAL][0]#2F7CCC[8] #FFFFFFVDBG:Owner * Tiago_Santos: ii
+[2015:10:31-20:03:30]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: p
+[2015:10:31-20:04:38]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: teste
+[2015:10:31-22:49:10]  (Local) -> [LOCAL][0]#2F7CCC[1] #FFFFFFVDBG:Owner * Tiago_Santos: w
+[2015:10:31-23:18:57]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai
+[2015:10:31-23:19:03]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: vish bugado
+[2015:10:31-23:19:07]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: pera aew
+[2015:10:31-23:19:07]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai do carro
+[2015:10:31-23:19:24]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: me mata
+[2015:10:31-23:19:26]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: aperta f
+[2015:10:31-23:20:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai do carro
+[2015:10:31-23:20:15]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: diz
+[2015:10:31-23:20:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai do carro
+[2015:10:31-23:20:27]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: bate
+[2015:10:31-23:20:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: de frente
+[2015:10:31-23:20:41]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: de novo
+[2015:10:31-23:21:04]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: deixa de lado
+[2015:10:31-23:21:05]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: a fisica ta da hora
+[2015:10:31-23:21:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: o carro
+[2015:10:31-23:21:19]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sai do carro agr
+[2015:10:31-23:21:23]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: fica do lado
+[2015:10:31-23:21:33]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkkk fica do lado
+[2015:10:31-23:21:52]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: eita
+[2015:10:31-23:21:55]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: kk
+[2015:10:31-23:21:58]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: entra ai pra vc ver
+[2015:10:31-23:22:33]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: agora ss ta da hora
+[2015:10:31-23:22:44]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: pra abri caminho
+[2015:10:31-23:22:50]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: ss
+[2015:10:31-23:24:22]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: etah kk
+[2015:10:31-23:25:06]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: kkk
+[2015:10:31-23:26:19]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: era so isso manow q eu tenho q fazer um corre aqui??
+[2015:10:31-23:26:25]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: sim
+[2015:10:31-23:26:30]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: se quiser pode sair
+[2015:10:31-23:26:35]  (Global) -> #2F7CCC[2] #FFFFFFMatheus Griff: vlw man fui
+[2015:10:31-23:26:37]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: ou fica fazendo algo
+[2015:10:31-23:26:40]  (Global) -> #2F7CCC[1] #FFFFFFVDBG:Owner * Tiago Santos: vlw

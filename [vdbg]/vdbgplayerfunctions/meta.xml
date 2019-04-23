@@ -1,0 +1,80 @@
+<meta>
+	<info author="TIGS98" name="VDBGPlayerfunctions" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    
+	
+	<script src="server/antiafk.lua" />
+	<script src="server/blipfix.lua" />
+	<script src="server/math.lua" />
+    <script src="server/teams.lua" />
+    <script src="server/horajogo.lua" />
+    <script src="server/funcoes.lua" />
+    <script src="server/skin.lua" />
+    <script src="server/downloadtext.lua" />
+	<script src="server/killmoney.lua" type="server" /> 
+    <script src="server/kills_deaths.lua" />
+	<script src="server/kill_s.lua" />
+	<script src="server/ejetar.lua" />
+	<script src="server/servidor-config.lua" />
+	<script src="server/pickup-armas-mapa.lua" />
+    <script src="server/namejogador.lua"/>
+
+ <export function="getPlayerPlaytime" />
+    <export function="setPlayerPlaytime" />
+    <export function="deletePlayerPlaytime" />
+    <export function="setTeam" />
+    <export function="isTeamLaw" />
+    <export function="getPlayerFromNamePart" />
+    <export function="getPlayerFromAcocunt" />
+    <export function="getRunningMathEquation" />
+	<export function="convertMoneyToString" type="server" />
+	<export function="convertMoneyToString" type="client" />
+    
+		
+	
+	<script src="char/fome-c.luac" type="client" />
+	<script src="char/sede-c.luac" type="client" />
+	
+	<file src="arquivos/waypoint.png" />
+	<file src="arquivos/dano.png" />
+    <file src="arquivos/KOMIKAX.ttf" />	
+    <script src="client/hudmods.luac" type="client" />
+    <script src="client/versaovdbg.lua" type="client" />
+    <script src="client/cursor.luac" type="client" />
+    <script src="client/waypoint.luac" type="client" />
+    <script src="client/downloadFinish.luac" type="client" />
+	<script src="client/kill_c.luac" type="client" />
+	<script src="client/dano.luac" type="client" />
+	<script src="client/playerblips.luac" type="client" />
+	<script src="client/faca-c.luac" type="client" />
+   
+   <export function="isClientCursorShowing" type="client" />
+    <export function="outputDxLog" type="client" />
+    <export function="createWaypointLoc" type="client" />
+    <export function="waypointUnlocate" type="client" />
+    
+	<!-- compartilhado -->
+    <script src="compartilhado/pega-data.lua" type="shared" />
+    <export function="getToday" type="client" />
+    <export function="getToday" type="server" />
+    <export function="getToday2" type="client" />
+    <export function="getToday2" type="server" />
+	
+	
+	<!-- cor scoreboard -->    
+	
+	<script src="outros/blips/nick-s.lua" type="server"/>
+	<!-- fala do jogador -->  
+ 	
+	<script src="outros/balao/chat-s.lua" type="server"/>
+	<script src="outros/balao/chat-c.luac" type="client"/>
+	<file src="outros/balao/chat.png" />
+	<!-- som do chat do jogador -->  
+	
+	<script src="outros/chat/som-c.luac" type="client"/>
+	<script src="outros/chat/som-s.lua" type="server"/>
+	<file src="outros/chat/chat.mp3" />
+	
+	
+	
+</meta>

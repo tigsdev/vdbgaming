@@ -1,0 +1,48 @@
+<meta>
+	<info author="TIGS98" name="VDBGMaps" type="misc" version="3.0.1" />
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000" />
+    
+    <script src="vidainfinita.luac" type="client" cache="false" />
+    <script src="removeobjetos.luac" type="client" cache="false"/>
+    <script src="objs/busao.luac" type="client" cache="false" />
+	<script src="objs/docks.luac" type="client" cache="false" />
+	<script src="objs/c.luac" type="client" cache="false" />
+	<script src="objs/s.lua" type="server" />
+    
+    <map src="objs/brygada-lascollinas.map" />
+	<map src="objs/corona.map" />
+	<map src="objs/MiastoSantos.map" />
+	<map src="objs/dilimore-op.map" />
+	<map src="objs/elcorona.map" />
+	<map src="objs/GRAPEBLOKI.map" />
+	<map src="objs/idlewoodsor.map" />
+	<map src="objs/LSasd.map" />
+	<map src="objs/mongols.map" />
+	<map src="objs/morales.map" />
+	<map src="objs/petrovsky.map" />
+	<map src="objs/LCN-HQ.map" />
+	<map src="objs/Taxi.map" />
+	<map src="objs/edzo.map" />
+	<map src="objs/hatar.map" />
+	<map src="objs/Hatar2.map" />
+	<map src="objs/Edzo2.map" />
+	<map src="objs/Commerce.map" />
+	<map src="objs/latina.map" />
+	<map src="objs/tuning.map" />
+	<map src="objs/Restaurant.map" />
+	<map src="objs/IdlewoodGym.map" />
+	<map src="objs/camping.map" />
+	<map src="objs/nwm.map" />
+	<map src="objs/underpoint.map" />
+	<map src="objs/seville.map" />
+	<map src="objs/swamp.map" />
+	<map src="objs/szeryf.map" />
+	
+	<map src="objs/trashes.map" />
+	<map src="objs/szalon.map" />
+	
+	<map src="objs/Willowfield.map" />
+	<map src="objs/Termelovidek.map" />
+
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

@@ -1,0 +1,10 @@
+
+addEventHandler ("onClientResourceStart",getRootElement(),
+	function()
+	setTimer(
+		function ()
+			setControlState("walk", true) -- séta üzemmód be
+		end,
+	500, 0)
+	end
+)

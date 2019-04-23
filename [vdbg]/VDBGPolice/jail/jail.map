@@ -1,0 +1,21 @@
+<map edf:definitions="editor_main">
+    <object id="object (bustopm) (1)" breakable="true" interior="0" alpha="255" model="1257" doublesided="false" scale="1" dimension="0" posX="1538.5" posY="-1719.1" posZ="13.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PHONE_KIOSK2) (1)" breakable="true" interior="0" alpha="255" model="1346" doublesided="false" scale="1" dimension="0" posX="1546.5" posY="-1715.3" posZ="13.9" rotX="0" rotY="0" rotZ="2"></object>
+    <object id="object (lhouse_barrier2) (1)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1542.8" posY="-1722.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier2) (2)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1539.7" posY="-1722.2" posZ="12.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lhouse_barrier2) (3)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1539.7" posY="-1722.2" posZ="13.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lhouse_barrier2) (4)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1542.7998" posY="-1722.2002" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (1)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1540.9" posY="-1722.2" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (2)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1540.9004" posY="-1722.2002" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier2) (5)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1548.7998" posY="-1722.2002" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier2) (6)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1548.7998" posY="-1722.2002" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier2) (7)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1555.2" posY="-1722.1" posZ="12.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lhouse_barrier2) (8)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1555.2002" posY="-1722.0996" posZ="13.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lhouse_barrier2) (9)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1555.2002" posY="-1719.0996" posZ="12.8" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lhouse_barrier2) (10)" breakable="true" interior="0" alpha="255" model="994" doublesided="false" scale="1" dimension="0" posX="1555.2002" posY="-1719.0996" posZ="13.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (strtbarrier01) (1)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1549.5" posY="-1718.7" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (3)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1540" posY="-1715.8" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier3) (4)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1543.4" posY="-1715.8" posZ="13" rotX="0" rotY="0" rotZ="86"></object>
+    <object id="object (lhouse_barrier3) (5)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1543.4004" posY="-1715.7998" posZ="13.6" rotX="0" rotY="0" rotZ="85.995"></object>
+    <object id="object (lhouse_barrier3) (6)" breakable="true" interior="0" alpha="255" model="997" doublesided="false" scale="1" dimension="0" posX="1540" posY="-1715.7998" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+</map>

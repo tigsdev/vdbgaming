@@ -1,0 +1,16 @@
+<meta>
+	<info author="Al3grab" version="1.1" type="script" name="Tuning Shop" description="GTA V Alike Garage" />
+	<script src="Server.lua" type="server" />
+	<script src="Client.lua" type="client" cache="false" />
+	<script src="ClientData.lua" type="client" />
+	<script src="ClientFunctions.lua" type="client" />
+
+	<file src="FASTVDBG.mp3" />
+	<file src="FONT.ttf" />
+	
+	<script src="colorpicker/colorpicker.lua" type="client" />	
+	<file src="colorpicker/palette.png" />
+	<file src="colorpicker/alpha.png" />
+	<file src="models/modShop.txd" type="client"/>
+	<file src="models/modShop.dff" type="client"/>
+</meta>
