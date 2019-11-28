@@ -1,5 +1,4 @@
 # vdbgaming
 
-O projeto foi cancelado em 2017.
-
-Estou disponibilizando o código para a comunidade.
+Resources developed for Multi Theft Auto SA Server,
+project was canceled and repository published to community.
